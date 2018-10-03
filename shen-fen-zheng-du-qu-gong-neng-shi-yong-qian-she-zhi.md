@@ -12,7 +12,7 @@ description: 使用身份证读取功能之前，需要安装驱动，并变更c
 
 使用右侧链接可下载驱动：[https://cdn.oyohotels.cn/plugin/OYOidCard.msi](https://cdn.oyohotels.cn/plugin/OYOidCard.msi)
 
-
+下载后，请安装在您的电脑中。
 
 {% hint style="info" %}
 变更chrome的flag设置
@@ -20,7 +20,7 @@ description: 使用身份证读取功能之前，需要安装驱动，并变更c
 
 如以下动画所示
 
-在地址栏输入chorme://flag，回车
+在地址栏输入chrome://flags，回车
 
 使用ctrl+f搜索“localhost”，选择对应的服务，将原有disable变成enable，变更后，点击"RELAUNCH NOW"重启浏览器。
 

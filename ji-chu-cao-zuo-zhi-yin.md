@@ -1,6 +1,6 @@
 # 基础操作指引（施工中）
 
-二、入门级别快速指引
+## 入门级别快速指引
 
 入门级别快速指引适用于平时操作电脑不熟练的前台，主要关注于散客入住、续住、离店、OTA入住等基本操作。对散客订单，每次只建一天。之后通过新建续住订单功能续住，或者通过离店功能结账。
 
@@ -8,7 +8,13 @@
 
 仅使用入门级别操作能覆盖前台大部分的业务，但无法管理酒店未来的库存。
 
-1. 散客（无定金上门客）入住
+{% hint style="info" %}
+sanke 
+{% endhint %}
+
+散客（无定金上门客）入住
+
+{% embed data="{\"url\":\"https://v.youku.com/v\_show/id\_XMzgxODY4NTIyNA==.html?spm=a2h3j.8428770.3416059.1\",\"type\":\"video\",\"title\":\"3入住\",\"icon\":{\"type\":\"icon\",\"url\":\"https://static.youku.com/v1.0.166/index/img/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://vthumb.ykimg.com/054104085B9667DE00000131E40B95B6\",\"width\":448,\"height\":252,\"aspectRatio\":0.5625},\"embed\":{\"type\":\"player\",\"url\":\"//player.youku.com/embed/XMzgxODY4NTIyNA==\",\"html\":\"<div style=\\\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 62.5%;\\\"><iframe src=\\\"//player.youku.com/embed/XMzgxODY4NTIyNA==\\\" style=\\\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\\\" allowfullscreen scrolling=\\\"no\\\"></iframe></div>\",\"aspectRatio\":1.6}}" %}
 
  [https://v.youku.com/v\_show/id\_XMzgxODY4NTIyNA==.html?spm=a2h3j.8428770.3416059.1](https://v.youku.com/v_show/id_XMzgxODY4NTIyNA==.html?spm=a2h3j.8428770.3416059.1)
 
@@ -194,7 +200,7 @@
 
 **点击确定，押金已退，离店成功**
 
-### 4.3 无房费需要结清，无需退押金
+4.3 无房费需要结清，无需退押金
 
 查看待付金额与总房费后的押金金额，可以看到该订单无房费需结清，也无需退押金。
 
