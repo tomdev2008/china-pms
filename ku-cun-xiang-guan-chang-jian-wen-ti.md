@@ -66,7 +66,7 @@ Active酒店，标签设置完善，单独是显示库存不足无法录入
 
 刷新方法的在线视频教程如下：
 
-{% embed data="{\"url\":\"http://v.youku.com/v\_show/id\_XMzgyMDgwOTcxMg==.html?spm=a2h1n.8251843.playList.5!9~5~A&f=51890881&o=1\",\"type\":\"video\",\"title\":\"10新建订单发现库存不足如何处理\",\"icon\":{\"type\":\"icon\",\"url\":\"http://static.youku.com/v1.0.166/index/img/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://vthumb.ykimg.com/054104085B98BD6A00000170320109A1\",\"width\":448,\"height\":252,\"aspectRatio\":0.5625},\"embed\":{\"type\":\"player\",\"url\":\"//player.youku.com/embed/XMzgyMDgwOTcxMg==\",\"html\":\"<div style=\\\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 62.5%;\\\"><iframe src=\\\"//player.youku.com/embed/XMzgyMDgwOTcxMg==\\\" style=\\\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\\\" allowfullscreen scrolling=\\\"no\\\"></iframe></div>\",\"aspectRatio\":1.6},\"caption\":\"刷新库存的教学视频\"}" %}
+{% embed url="http://v.youku.com/v\_show/id\_XMzgyMDgwOTcxMg==.html?spm=a2h1n.8251843.playList.5!9~5~A&f=51890881&o=1" caption="刷新库存的教学视频" %}
 
   
 也可以参考以下动图：
@@ -106,7 +106,7 @@ PMS执行以下逻辑：
 是否存在入住房型和预定房型不同的情况？
 {% endhint %}
 
-目前在线的1.3.6存在一个bug（预计更新到1.3.7版后即可彻底解决），即更换房型后新房间不占库存，原房型不释放库存。
+目前在线的1.3.6存在一个bug（预计更新到1.3.8版后即可彻底解决，预计在10月18日完成），即更换房型后新房间不占库存，原房型不释放库存。
 
 过渡解决方案如下：
 

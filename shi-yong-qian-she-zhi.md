@@ -24,7 +24,7 @@ description: 主要包含网速测试/下载chrome浏览器/设置chrome为默�
 系统登陆
 {% endhint %}
 
-{% embed data="{\"url\":\"https://v.youku.com/v\_show/id\_XMzgxNTc1MzE2NA==.html?spm=a2h3j.8428770.3416059.1\",\"type\":\"video\",\"title\":\"2系统登录\",\"icon\":{\"type\":\"icon\",\"url\":\"https://static.youku.com/v1.0.166/index/img/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://vthumb.ykimg.com/054106015B93718400000135700481EA\",\"width\":448,\"height\":252,\"aspectRatio\":0.5625},\"embed\":{\"type\":\"player\",\"url\":\"//player.youku.com/embed/XMzgxNTc1MzE2NA==\",\"html\":\"<div style=\\\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 62.5%;\\\"><iframe src=\\\"//player.youku.com/embed/XMzgxNTc1MzE2NA==\\\" style=\\\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\\\" allowfullscreen scrolling=\\\"no\\\"></iframe></div>\",\"aspectRatio\":1.6}}" %}
+{% embed url="https://v.youku.com/v\_show/id\_XMzgxNTc1MzE2NA==.html?spm=a2h3j.8428770.3416059.1" %}
 
  
 

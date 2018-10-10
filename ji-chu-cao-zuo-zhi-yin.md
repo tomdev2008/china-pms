@@ -14,7 +14,7 @@ sanke
 
 散客（无定金上门客）入住
 
-{% embed data="{\"url\":\"https://v.youku.com/v\_show/id\_XMzgxODY4NTIyNA==.html?spm=a2h3j.8428770.3416059.1\",\"type\":\"video\",\"title\":\"3入住\",\"icon\":{\"type\":\"icon\",\"url\":\"https://static.youku.com/v1.0.166/index/img/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://vthumb.ykimg.com/054104085B9667DE00000131E40B95B6\",\"width\":448,\"height\":252,\"aspectRatio\":0.5625},\"embed\":{\"type\":\"player\",\"url\":\"//player.youku.com/embed/XMzgxODY4NTIyNA==\",\"html\":\"<div style=\\\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 62.5%;\\\"><iframe src=\\\"//player.youku.com/embed/XMzgxODY4NTIyNA==\\\" style=\\\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\\\" allowfullscreen scrolling=\\\"no\\\"></iframe></div>\",\"aspectRatio\":1.6}}" %}
+{% embed url="https://v.youku.com/v\_show/id\_XMzgxODY4NTIyNA==.html?spm=a2h3j.8428770.3416059.1" %}
 
  [https://v.youku.com/v\_show/id\_XMzgxODY4NTIyNA==.html?spm=a2h3j.8428770.3416059.1](https://v.youku.com/v_show/id_XMzgxODY4NTIyNA==.html?spm=a2h3j.8428770.3416059.1)
 
