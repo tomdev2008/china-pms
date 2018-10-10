@@ -2,7 +2,7 @@
 description: 使用身份证读取功能之前，需要安装驱动，并变更chrome的flag服务设置
 ---
 
-# 身份证读取功能使用前设置（施工中）
+# 身份证读取功能使用前设置
 
 {% hint style="info" %}
 读卡器驱动下载
@@ -24,5 +24,11 @@ description: 使用身份证读取功能之前，需要安装驱动，并变更c
 
 使用ctrl+f搜索“localhost”，选择对应的服务，将原有disable变成enable，变更后，点击"RELAUNCH NOW"重启浏览器。
 
-![](.gitbook/assets/20180930_194859.gif)
+![&#x4F7F;&#x7528;chrome&#x4FEE;&#x6539;localhost&#x6587;&#x4EF6;](.gitbook/assets/20180930_194859.gif)
+
+{% hint style="info" %}
+完成配置，在pms中读取客人身份证信息
+{% endhint %}
+
+
 
