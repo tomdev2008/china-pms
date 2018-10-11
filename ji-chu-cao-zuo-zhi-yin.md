@@ -1,3 +1,7 @@
+---
+description: 基础操作指引，主要介绍泰坦系统处理常见业务的操作方法。包含预定、入住、离店等业务。
+---
+
 # 基础操作指引（施工中）
 
 ## 入门级别快速指引
@@ -8,17 +12,15 @@
 
 仅使用入门级别操作能覆盖前台大部分的业务，但无法管理酒店未来的库存。
 
-{% hint style="info" %}
-sanke 
+{% hint style="success" %}
+### 散客入住办理 
 {% endhint %}
 
-散客（无定金上门客）入住
+{% embed url="https://v.youku.com/v\_show/id\_XMzgxODY4NTIyNA==.html?spm=a2h3j.8428770.3416059.1" caption="散客入住办理教学视频" %}
 
-{% embed url="https://v.youku.com/v\_show/id\_XMzgxODY4NTIyNA==.html?spm=a2h3j.8428770.3416059.1" %}
+#### 新建散客订单
 
- [https://v.youku.com/v\_show/id\_XMzgxODY4NTIyNA==.html?spm=a2h3j.8428770.3416059.1](https://v.youku.com/v_show/id_XMzgxODY4NTIyNA==.html?spm=a2h3j.8428770.3416059.1)
-
-1. 新建散客订单
+![&#x70B9;&#x51FB;&#x3010;&#x65B0;&#x5EFA;&#x6563;&#x5BA2;&#x8BA2;&#x5355;&#x3011;&#x521B;&#x5EFA;&#x9884;&#x8BA2;&#x5355;](.gitbook/assets/image%20%2812%29.png)
 
 点击【散客订单】新建客人预订单。
 
@@ -38,7 +40,7 @@ sanke
 
 检查无误后点击【新建订单】完成的新订单的创建。
 
-![](https://images-cdn.shimo.im/Rv1LSxTSoEcj7CYt/image.png!thumbnail)
+![](.gitbook/assets/image%20%2810%29.png)
 
 **点击红色的【新建订单】按钮完成订单创建**
 

@@ -36,7 +36,7 @@ description: 主要包含网速测试/下载chrome浏览器/设置chrome为默�
 
 点击链接地址框右边的收藏星号图标，即收藏成功。
 
-![&#x6DFB;&#x52A0;&#x6CF0;&#x5766;&#x7CFB;&#x7EDF;&#x4E3A;&#x6536;&#x85CF;](.gitbook/assets/image%20%2810%29.png)
+![&#x6DFB;&#x52A0;&#x6CF0;&#x5766;&#x7CFB;&#x7EDF;&#x4E3A;&#x6536;&#x85CF;](.gitbook/assets/image%20%2811%29.png)
 
 ![&#x70B9;&#x51FB;&#x5B8C;&#x6210;&#x6536;&#x85CF;&#x6CF0;&#x5766;](.gitbook/assets/image%20%284%29.png)
 

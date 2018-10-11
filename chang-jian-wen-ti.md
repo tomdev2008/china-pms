@@ -129,6 +129,8 @@ OTA订单同步更快：平均比平板快10分钟
 
 录入付款类型为GNP的订单。
 
+目前免房业务暂时不抽佣。
+
 视频教程：[http://v.youku.com/v\_show/id\_XMzgxODcyMTI5Ng==.html?spm=a2h1n.8251843.playList.5!10~5~A&f=51890881&o=1](http://v.youku.com/v_show/id_XMzgxODcyMTI5Ng==.html?spm=a2h1n.8251843.playList.5!10~5~A&f=51890881&o=1)
 
 ## 提前离店，需要调整订单金额费用，如何处理？
