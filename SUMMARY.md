@@ -1,6 +1,6 @@
 # Table of contents
 
-* [泰坦1.3.6使用帮助](README.md)
+* [泰坦1.3.7使用帮助](README.md)
 * [泰坦PMS使用前设置](shi-yong-qian-she-zhi.md)
 * [基础操作指引（施工中）](ji-chu-cao-zuo-zhi-yin.md)
 * [身份证读取功能使用前设置](shen-fen-zheng-du-qu-gong-neng-shi-yong-qian-she-zhi.md)

@@ -1,5 +1,5 @@
 ---
-description: 使用身份证读取功能之前，需要安装驱动，并变更chrome的flag服务设置
+description: 泰坦支持使用酒店已有的身份证读卡器读取身份证信息，并存入系统。使用身份证读取功能之前，需要安装驱动，并变更chrome的flag服务设置
 ---
 
 # 身份证读取功能使用前设置
@@ -30,5 +30,23 @@ description: 使用身份证读取功能之前，需要安装驱动，并变更c
 完成配置，在pms中读取客人身份证信息
 {% endhint %}
 
+读取成功，如下图所示：
 
+![&#x65B0;&#x5EFA;&#x8BA2;&#x5355;&#x9875;&#x9762;&#xFF0C;&#x5F00;&#x59CB;&#x8EAB;&#x4EFD;&#x8BC1;&#x8BFB;&#x53D6;](.gitbook/assets/image%20%287%29.png)
+
+  
+
+
+![&#x5982;&#x672A;&#x81EA;&#x52A8;&#x8BFB;&#x53D6;&#xFF0C;&#x53EF;&#x70B9;&#x51FB;&#x542F;&#x52A8;&#x8EAB;&#x4EFD;&#x8BC1;&#x8BFB;&#x5361;&#x5668;&#x542F;&#x52A8;&#x4E00;&#x6B21;](.gitbook/assets/image%20%284%29.png)
+
+  
+
+
+![&#x6210;&#x529F;&#x542F;&#x7528;&#xFF0C;&#x5E76;&#x5F55;&#x5165;&#x8BA2;&#x5355;&#x4FE1;&#x606F;](.gitbook/assets/image%20%289%29.png)
+
+{% hint style="danger" %}
+泰坦1.3.7提供新的驱动安装包，安装后会在桌面自动建一个快捷方式，使用该快捷方式登录泰坦，无需设置localhost文件即可直接使用身份证读取功能
+{% endhint %}
+
+![&#x684C;&#x9762;&#x51FA;&#x73B0;OYO&#x6CF0;&#x5766;&#x5FEB;&#x6377;&#x65B9;&#x5F0F;&#xFF0C;&#x53CC;&#x51FB;&#x56FE;&#x6807;&#x5373;&#x53EF;&#x5FEB;&#x901F;&#x767B;&#x5F55;&#x6CF0;&#x5766;](.gitbook/assets/image.png)
 
