@@ -44,5 +44,5 @@ description: 强制入住与强制离店（10月18日上线）
 
 ## 补录订单
 
-泰坦1.0允许在订单入住日后一天12：00之前补录前一日订单。补录订单如有库存问题可点这里查看原因。
+泰坦1.0允许在订单入住日后一天12：00之前补录前一日订单。补录订单如有库存问题可[点这里](https://oyo-china-pms-guideline.gitbook.io/taitan/ku-cun-xiang-guan-chang-jian-wen-ti#yi-shang-xian-jiu-dian-cun-zai-ku-cun-wen-ti-ru-he-jie-jue)查看原因。
 
