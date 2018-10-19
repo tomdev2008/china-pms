@@ -20,6 +20,8 @@ description: 强制入住与强制离店（10月18日上线）
 
 订单入住日次日中午12:00后，如订单状态仍旧是预抵，则**状态修改为force Check-in**，由系统根据订单房型任意选择同房型房间入住，如果没有同类型房间，选择其他空房。押金金额为0。
 
+![Force C/I&#x529F;&#x80FD;&#x8BF4;&#x660E;](.gitbook/assets/image%20%288%29.png)
+
 ##  Force C/O
 
 ###   i.          正常C/O时间
@@ -42,6 +44,8 @@ description: 强制入住与强制离店（10月18日上线）
 
 **原pending状态由Force CI或Force CO替代**。
 
+![Force C/O&#x529F;&#x80FD;&#x8BF4;&#x660E;](.gitbook/assets/image%20%289%29.png)
+
 ## Force订单争议解决流程
 
 ### Force订单列表
@@ -55,6 +59,8 @@ Force C/I & C/O发生的当日，会出具force订单列表。
 AGM可根据报表对订单提出异议，时间是报表出具日当晚的24：00未来3天。总部客服团队会根据CGM审批结果进行修改。
 
 异议提出截止日是报表出具日后第三天的18：00。
+
+![Force CI/CO&#x8BA2;&#x5355;&#x68C0;&#x67E5;&#x53CA;&#x4E89;&#x8BAE;&#x5BA1;&#x6279;](.gitbook/assets/image%20%286%29.png)
 
 ## 补录订单
 
