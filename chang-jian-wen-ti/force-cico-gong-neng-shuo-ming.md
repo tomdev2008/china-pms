@@ -20,11 +20,11 @@ description: 强制入住与强制离店（10月18日上线）
 
 订单入住日次日中午12:00后，如订单状态仍旧是预抵，则**状态修改为force Check-in**，由系统根据订单房型任意选择同房型任意房间入住，如果没有同类型房间，选择其他空房。押金金额为0。
 
-![Force C/I&#x529F;&#x80FD;&#x8BF4;&#x660E;](../.gitbook/assets/image%20%2812%29.png)
+![Force C/I&#x529F;&#x80FD;&#x8BF4;&#x660E;](../.gitbook/assets/image%20%2813%29.png)
 
 
 
-![Force Checked In&#x6267;&#x884C;&#x540E;&#xFF0C;&#x5907;&#x6CE8;&#x680F;&#x51FA;&#x73B0;&#x5BF9;&#x5E94;&#x6807;&#x7B7E;](../.gitbook/assets/image%20%289%29.png)
+![Force Checked In&#x6267;&#x884C;&#x540E;&#xFF0C;&#x5907;&#x6CE8;&#x680F;&#x51FA;&#x73B0;&#x5BF9;&#x5E94;&#x6807;&#x7B7E;](../.gitbook/assets/image%20%2810%29.png)
 
 ##  Force C/O
 
@@ -48,9 +48,9 @@ description: 强制入住与强制离店（10月18日上线）
 
 **原pending状态由Force CI或Force CO替代**。
 
-![Force C/O&#x529F;&#x80FD;&#x8BF4;&#x660E;](../.gitbook/assets/image%20%2816%29.png)
+![Force C/O&#x529F;&#x80FD;&#x8BF4;&#x660E;](../.gitbook/assets/image%20%2817%29.png)
 
-![Force Checked Out&#x6267;&#x884C;&#x540E;&#xFF0C;&#x5907;&#x6CE8;&#x680F;&#x51FA;&#x73B0;&#x76F8;&#x5E94;&#x6807;&#x7B7E;](../.gitbook/assets/image%20%2813%29.png)
+![Force Checked Out&#x6267;&#x884C;&#x540E;&#xFF0C;&#x5907;&#x6CE8;&#x680F;&#x51FA;&#x73B0;&#x76F8;&#x5E94;&#x6807;&#x7B7E;](../.gitbook/assets/image%20%2814%29.png)
 
 ## Force订单争议解决流程
 
@@ -66,7 +66,20 @@ AGM可根据报表对订单提出异议，时间是报表出具日当晚的24：
 
 异议提出截止日是报表出具日后第三天的18：00。
 
-![Force CI/CO&#x8BA2;&#x5355;&#x68C0;&#x67E5;&#x53CA;&#x4E89;&#x8BAE;&#x5BA1;&#x6279;](../.gitbook/assets/image%20%2810%29.png)
+![Force CI/CO&#x8BA2;&#x5355;&#x68C0;&#x67E5;&#x53CA;&#x4E89;&#x8BAE;&#x5BA1;&#x6279;](../.gitbook/assets/image%20%2811%29.png)
+
+具体流程如下：
+
+使用钉钉发起审批流程，在钉钉“工作”里找到“审批”，找到Force Check争议申请，点击进入。
+
+![Force Check&#x4E89;&#x8BAE;&#x7533;&#x8BF7;](../.gitbook/assets/image%20%2827%29.png)
+
+![&#x586B;&#x5199;&#x4E89;&#x8BAE;&#x7533;&#x8BF7;&#x4FE1;&#x606F;&#xFF0C;&#x9009;&#x62E9;&#x5BF9;&#x5E94;&#x57CE;&#x5E02;CGM&#x534F;&#x52A9;&#x7533;&#x8BF7;&#xFF0C;&#x70B9;&#x51FB;&#x201C;&#x63D0;&#x4EA4;&#x201D;&#x5373;&#x53EF;](../.gitbook/assets/image%20%287%29.png)
+
+  
+附件模板：（下载填写后，使用“添加附件”上传到钉钉）
+
+{% file src="../.gitbook/assets/ding-dan-zhuang-tai-zheng-yi-mo-ban.xlsx" %}
 
 ## 补录订单
 
