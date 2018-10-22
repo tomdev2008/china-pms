@@ -47,7 +47,7 @@ CRS权限是否已经完成设置？
 
 如果酒店已经active了，PMS房态图无法显示，且首页显示如下图所示：
 
-![&#x9996;&#x9875;&#x663E;&#x793A;&#x5982;&#x56FE;&#xFF0C;&#x623F;&#x6001;&#x56FE;&#x65E0;&#x6CD5;&#x5237;&#x65B0;](.gitbook/assets/image%20%2827%29.png)
+![&#x9996;&#x9875;&#x663E;&#x793A;&#x5982;&#x56FE;&#xFF0C;&#x623F;&#x6001;&#x56FE;&#x65E0;&#x6CD5;&#x5237;&#x65B0;](.gitbook/assets/image%20%2830%29.png)
 
 请检查酒店是否CRS权限完成设置，方法如下：
 
@@ -159,13 +159,13 @@ PMS执行以下逻辑：
 库存出现负值，订单无法录入
 {% endhint %}
 
-#### CRS存在两种库存计算方式。 {#kun-cun-ji-suan}
+#### CRS存在两种库存计算方式。 <a id="kun-cun-ji-suan"></a>
 
 #### 一种是虚拟库存，是考虑房型升级的逻辑基础上的库存数。如标准大床房10间，行政大床房10间，标准大床房可以升级到行政房卖。在CRS上查看虚拟库存时，库存会显示标准大床房为20间。
 
 #### 另一种是房型库存，房型库存是真实库存，是通过勾选 Real Inventory \(Without Clubbing\)后查看的。
 
-![&#x70B9;&#x51FB;Real Inventory\(Without Clubbing\)&#x67E5;&#x770B;&#x9152;&#x5E97;&#x771F;&#x5B9E;&#x7684;&#x623F;&#x578B;&#x5E93;&#x5B58;](.gitbook/assets/image%20%2823%29.png)
+![&#x70B9;&#x51FB;Real Inventory\(Without Clubbing\)&#x67E5;&#x770B;&#x9152;&#x5E97;&#x771F;&#x5B9E;&#x7684;&#x623F;&#x578B;&#x5E93;&#x5B58;](.gitbook/assets/image%20%2826%29.png)
 
   
 库存出现负值多是因为虚拟库存的原因，让部分房型超售。
