@@ -20,7 +20,7 @@ description: 强制入住与强制离店（10月23日上线）
 
 订单入住日次日中午12:00后，如订单状态仍旧是预抵，则**状态修改为force Check-in**，由系统根据订单房型任意选择同房型任意房间入住，如果没有同类型房间，选择其他空房。押金金额为0。
 
-![Force C/I&#x529F;&#x80FD;&#x8BF4;&#x660E;](../.gitbook/assets/image%20%2824%29.png)
+![Force C/I&#x529F;&#x80FD;&#x8BF4;&#x660E;](../.gitbook/assets/image%20%2825%29.png)
 
 ![Force Checked In&#x6267;&#x884C;&#x540E;&#xFF0C;&#x5907;&#x6CE8;&#x680F;&#x51FA;&#x73B0;&#x5BF9;&#x5E94;&#x6807;&#x7B7E;](../.gitbook/assets/image%20%2810%29.png)
 
@@ -70,7 +70,7 @@ AGM可根据报表对订单提出异议，时间是报表出具日当晚的24：
 
 使用钉钉发起审批流程，在钉钉“工作”里找到“审批”，找到Force Check争议申请，点击进入。
 
-![Force Check&#x4E89;&#x8BAE;&#x7533;&#x8BF7;](../.gitbook/assets/image%20%2829%29.png)
+![Force Check&#x4E89;&#x8BAE;&#x7533;&#x8BF7;](../.gitbook/assets/image%20%2830%29.png)
 
 ![&#x586B;&#x5199;&#x4E89;&#x8BAE;&#x7533;&#x8BF7;&#x4FE1;&#x606F;&#xFF0C;&#x9009;&#x62E9;&#x5BF9;&#x5E94;&#x57CE;&#x5E02;CGM&#x534F;&#x52A9;&#x7533;&#x8BF7;&#xFF0C;&#x70B9;&#x51FB;&#x201C;&#x63D0;&#x4EA4;&#x201D;&#x5373;&#x53EF;](../.gitbook/assets/image%20%287%29.png)
 
