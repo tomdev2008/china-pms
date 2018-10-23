@@ -7,6 +7,14 @@ description: 泰坦支持使用酒店已有的身份证读卡器读取身份证�
 ## 身份证读取功能使用前设置
 
 {% hint style="info" %}
+使用chrome浏览器
+{% endhint %}
+
+身份证读取功能仅适用于chrome浏览器，如酒店使用其他浏览器，请下载chrome浏览器。
+
+{% file src="../.gitbook/assets/chromesetup.exe" caption="Chrome浏览器下载" %}
+
+{% hint style="info" %}
 读卡器驱动下载
 {% endhint %}
 

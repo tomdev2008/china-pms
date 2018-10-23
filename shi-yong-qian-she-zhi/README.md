@@ -20,6 +20,8 @@ description: 主要包含网速测试/下载chrome浏览器/设置chrome为默�
 
 使用HMS系统，务必使用Chrome浏览器登陆。如果电脑上没有安装Chrome，[点击下载chrome浏览器](http://www.chromeliulanqi.com/).
 
+{% file src="../.gitbook/assets/chromesetup.exe" caption="chrome浏览器安装包" %}
+
 {% hint style="success" %}
 系统登陆
 {% endhint %}
