@@ -15,6 +15,16 @@ description: 泰坦支持使用酒店已有的身份证读卡器读取身份证�
 {% file src="../.gitbook/assets/chromesetup.exe" caption="Chrome浏览器下载" %}
 
 {% hint style="info" %}
+关闭360/金山毒霸等杀毒软件
+{% endhint %}
+
+因身份证驱动未内置证书，故会被一些杀毒软件误判为病毒，导致安装不成功。
+
+在安装驱动前，可关闭这些软件。
+
+请鼠标右键单击对应杀毒程序后点击“退出”进行关闭。
+
+{% hint style="info" %}
 读卡器驱动下载
 {% endhint %}
 
@@ -50,7 +60,7 @@ description: 泰坦支持使用酒店已有的身份证读卡器读取身份证�
 如驱动已安装，读卡器连接失败，系统会提示“正在连接身份证读卡器服务”和“未识别到身份证读卡器，请检查设备是否连接”
 {% endhint %}
 
-![&#x5B89;&#x88C5;&#x9A71;&#x52A8;&#x6210;&#x529F;&#x672A;&#x8FDE;&#x63A5;&#x8BFB;&#x5361;&#x5668;](../.gitbook/assets/image%20%2839%29.png)
+![&#x5B89;&#x88C5;&#x9A71;&#x52A8;&#x6210;&#x529F;&#x672A;&#x8FDE;&#x63A5;&#x8BFB;&#x5361;&#x5668;](../.gitbook/assets/image%20%2840%29.png)
 
 泰坦在**新建订单时会自动启用身份证读卡器功能**。如在此次启动时，未能自动读取，可点击“启动身份证读卡器”再启动一次。
 
@@ -72,4 +82,6 @@ description: 泰坦支持使用酒店已有的身份证读卡器读取身份证�
 如酒店无身份证读卡器或读卡器无法适配，可按照以下文件申请领用。
 
 {% file src="../.gitbook/assets/oyo-shen-fen-zheng-du-qia-qi-jian-ce-ji-ding-ding-shen-qing-liu-cheng-2.pdf" %}
+
+
 

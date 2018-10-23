@@ -70,7 +70,7 @@ AGM可根据报表对订单提出异议，时间是报表出具日当晚的24：
 
 使用钉钉发起审批流程，在钉钉“工作”里找到“审批”，找到Force Check争议申请，点击进入。
 
-![Force Check&#x4E89;&#x8BAE;&#x7533;&#x8BF7;](../.gitbook/assets/image%20%2828%29.png)
+![Force Check&#x4E89;&#x8BAE;&#x7533;&#x8BF7;](../.gitbook/assets/image%20%2829%29.png)
 
 ![&#x586B;&#x5199;&#x4E89;&#x8BAE;&#x7533;&#x8BF7;&#x4FE1;&#x606F;&#xFF0C;&#x9009;&#x62E9;&#x5BF9;&#x5E94;&#x57CE;&#x5E02;CGM&#x534F;&#x52A9;&#x7533;&#x8BF7;&#xFF0C;&#x70B9;&#x51FB;&#x201C;&#x63D0;&#x4EA4;&#x201D;&#x5373;&#x53EF;](../.gitbook/assets/image%20%287%29.png)
 
