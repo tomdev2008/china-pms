@@ -22,6 +22,7 @@ OTA订单同步更快：平均比平板快10分钟
 * 浏览器不兼容：下载chrome浏览器
 * 保存老网址未更新到https地址：点击右边链接即可登陆 [https://pms.oyohotels.cn/\#/login](https://pms.oyohotels.cn/#/login)
 * 老版本账号未退出，更新系统后无法登陆新版本：登出原账号后，点击以上链接输入账号密码即可
+* 如新老版本更替，按照以上方法操作后，仍未成功，可按照链接教程清理浏览器缓存即可。[https://jingyan.baidu.com/article/fea4511a2d207ff7bb91252a.html ](https://jingyan.baidu.com/article/fea4511a2d207ff7bb91252a.html%20)
 
 ## 登陆泰坦PMS，系统提示我账号密码不正确，如何处理？
 
