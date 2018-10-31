@@ -172,7 +172,7 @@ b.根据CRS里订单的对应状态，去PMS里查询对应订单
 
 另外会有OTA的单子在收款环节卡住无法办理入住的情况，一般卡在以下截图处：
 
-![OTA&#x8BA2;&#x5355;&#x4ED8;&#x6B3E;&#xFF0C;&#x70B9;&#x51FB;&#x786E;&#x5B9A;&#x65E0;&#x8DF3;&#x8F6C;](../.gitbook/assets/image%20%2835%29.png)
+![OTA&#x8BA2;&#x5355;&#x4ED8;&#x6B3E;&#xFF0C;&#x70B9;&#x51FB;&#x786E;&#x5B9A;&#x65E0;&#x8DF3;&#x8F6C;](../.gitbook/assets/image%20%2836%29.png)
 
   
 因为泰坦不允许收0元的情况，OTA预付单子，建单组会事先把已收的款项录入，所以客人到前台待付房费是0元。
@@ -202,7 +202,7 @@ b.根据CRS里订单的对应状态，去PMS里查询对应订单
   
 
 
-![CRS&#x7684;Room Info&#x663E;&#x793A;&#x6709;5&#x95F4;&#x9ED1;&#x623F;](../.gitbook/assets/image%20%2827%29.png)
+![CRS&#x7684;Room Info&#x663E;&#x793A;&#x6709;5&#x95F4;&#x9ED1;&#x623F;](../.gitbook/assets/image%20%2828%29.png)
 
 ## 酒店泰坦PMS首页显示所有订单和房间数都是0，怎么回事？
 
