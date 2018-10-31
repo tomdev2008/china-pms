@@ -32,6 +32,8 @@ description: 泰坦支持使用酒店已有的身份证读卡器读取身份证�
 
 使用右侧链接可下载驱动：[https://cdn.oyohotels.cn/plugin/OYOidCard.msi](https://cdn.oyohotels.cn/plugin/OYOidCard.msi)
 
+**注意：泰坦2.0用户，请使用右侧链接下载：**[**https://pan.baidu.com/s/1sHyrS6lEkD-iw8AvTpierg**](https://pan.baidu.com/s/1sHyrS6lEkD-iw8AvTpierg) ****
+
 下载后，请安装在您的电脑中。
 
 {% hint style="info" %}
