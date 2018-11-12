@@ -56,6 +56,7 @@
     * [报表查看](chang-jian-ye-wu-cao-zuo-zhi-yin/bao-biao-shi-yong/bao-biao-cha-kan.md)
     * [数据报错](chang-jian-ye-wu-cao-zuo-zhi-yin/bao-biao-shi-yong/shu-ju-bao-cuo.md)
 * [夜审功能介绍](ye-shen-gong-neng-jie-shao.md)
+* [身份证读取功能](shen-fen-zheng-du-qu-gong-neng.md)
 * [泰坦2.0常见问题](tai-tan-2.0-chang-jian-wen-ti/README.md)
   * [账目问题](tai-tan-2.0-chang-jian-wen-ti/zhang-mu-wen-ti.md)
   * [直连问题](tai-tan-2.0-chang-jian-wen-ti/zhi-lian-wen-ti.md)
