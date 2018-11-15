@@ -1,12 +1,14 @@
 # 账目问题
 
-## Can I become who I want to be?
+## 前台误操作入住怎么办?
 
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
+修改房费为0，操作离店。
 
-## Have you had a chance to answer the previous question?
+后续会生成当日入离的报表，不计入当日occ
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+## 收银录错怎么办?
+
+全额退款，之后重新收银。
 
 
 
