@@ -9,7 +9,6 @@
   * [库存&新店上线相关问题](chang-jian-wen-ti/ku-cun-xiang-guan-chang-jian-wen-ti.md)
   * [订单处理相关问题](chang-jian-wen-ti/ding-dan-chu-li-xiang-guan-wen-ti.md)
   * [Force CI/CO功能说明与补录问题](chang-jian-wen-ti/force-cico-gong-neng-shuo-ming.md)
-  * [身份证读取功能常见问题](chang-jian-wen-ti/shen-fen-zheng-du-qu-gong-neng-chang-jian-wen-ti.md)
 * [产品更新日志](chan-pin-geng-xin-ri-zhi.md)
 * [泰坦2.0使用帮助](tai-tan-2.0-shi-yong-bang-zhu-nei-ce-zhuan-yong-shi-gong-zhong.md)
 * [泰坦2.0使用前设置](tai-tan-2.0-shi-yong-qian-she-zhi.md)
@@ -18,6 +17,7 @@
   * [入住](chang-jian-ye-wu-cao-zuo-zhi-yin/ru-zhu/README.md)
     * [上门客入住](chang-jian-ye-wu-cao-zuo-zhi-yin/ru-zhu/shang-men-ke-ru-zhu.md)
     * [网络客入住](chang-jian-ye-wu-cao-zuo-zhi-yin/ru-zhu/wang-luo-ke-ru-zhu.md)
+    * [换房入住](chang-jian-ye-wu-cao-zuo-zhi-yin/ru-zhu/huan-fang-ru-zhu.md)
   * [离店](chang-jian-ye-wu-cao-zuo-zhi-yin/li-dian/README.md)
     * [正常离店](chang-jian-ye-wu-cao-zuo-zhi-yin/li-dian/zheng-chang-li-dian.md)
     * [提前离店](chang-jian-ye-wu-cao-zuo-zhi-yin/li-dian/ti-qian-li-dian.md)
@@ -60,5 +60,6 @@
 * [泰坦2.0常见问题](tai-tan-2.0-chang-jian-wen-ti/README.md)
   * [账目问题](tai-tan-2.0-chang-jian-wen-ti/zhang-mu-wen-ti.md)
   * [直连问题](tai-tan-2.0-chang-jian-wen-ti/zhi-lian-wen-ti.md)
+  * [身份证读卡器问题](tai-tan-2.0-chang-jian-wen-ti/shen-fen-zheng-du-ka-qi-wen-ti.md)
   * [夜审问题](tai-tan-2.0-chang-jian-wen-ti/ye-shen-wen-ti.md)
 

@@ -19,7 +19,7 @@
 一间房如有多个客人，可通过添加客人姓名的方式录入。  
 首个客人姓名即为主入住人。
 
-![&#x70B9;&#x51FB;&#x6DFB;&#x52A0;&#x6DFB;&#x52A0;&#x591A;&#x4E2A;&#x5165;&#x4F4F;&#x4EBA;](../../.gitbook/assets/image%20%2850%29.png)
+![&#x70B9;&#x51FB;&#x6DFB;&#x52A0;&#x6DFB;&#x52A0;&#x591A;&#x4E2A;&#x5165;&#x4F4F;&#x4EBA;](../../.gitbook/assets/image%20%2852%29.png)
 
 
 

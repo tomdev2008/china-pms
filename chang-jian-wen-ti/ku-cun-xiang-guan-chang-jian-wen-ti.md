@@ -6,9 +6,7 @@ description: 库存管理至关重要，而牵涉到库存，又有非常多种�
 
 ## 新酒店刚上线，你需要检查的事情有哪些？
 
-{% hint style="success" %}
-酒店是否可以在CRS里被搜索到？
-{% endhint %}
+### 酒店是否可以在CRS里被搜索到？
 
 酒店可以使用PMS前，CRS一定已经可以被找到。
 
@@ -23,9 +21,7 @@ description: 库存管理至关重要，而牵涉到库存，又有非常多种�
   
 找到酒店后，即可按照以下方式判断酒店设置是否完成。
 
-{% hint style="success" %}
-酒店状态是否已经被激活？
-{% endhint %}
+### 酒店状态是否已经被激活？
 
 收到运营卫士的PMS账号密码≠PMS已经可以登录。如酒店未被激活，PMS是无法登陆，也就无法查看库存。
 
@@ -41,13 +37,11 @@ Active酒店的特征：
 * [x] 详情页OYO Status of Hotel后为active
 * [x] 下拉看到 Multiple room category enabled后为true
 
-{% hint style="success" %}
-CRS权限是否已经完成设置？
-{% endhint %}
+### CRS权限是否已经完成设置？
 
 如果酒店已经active了，PMS房态图无法显示，且首页显示如下图所示：
 
-![&#x9996;&#x9875;&#x663E;&#x793A;&#x5982;&#x56FE;&#xFF0C;&#x623F;&#x6001;&#x56FE;&#x65E0;&#x6CD5;&#x5237;&#x65B0;](../.gitbook/assets/image%20%2874%29.png)
+![&#x9996;&#x9875;&#x663E;&#x793A;&#x5982;&#x56FE;&#xFF0C;&#x623F;&#x6001;&#x56FE;&#x65E0;&#x6CD5;&#x5237;&#x65B0;](../.gitbook/assets/image%20%2878%29.png)
 
 请检查酒店是否CRS权限完成设置，方法如下：
 
@@ -59,9 +53,7 @@ CRS权限是否已经完成设置？
   
 **如果没有看到标签，请邮件至&lt;techsupport@oyohotels.cn&gt;**催办理CRS的tag设置，标签出现后即可正常使用PMS。
 
-{% hint style="success" %}
-酒店tags已经正常了，还是出现以上情况，怎么回事？
-{% endhint %}
+### 酒店tags已经正常了，还是出现以上情况，怎么回事？
 
 检查一下Rooms是否有同步，方法如下：
 
@@ -70,9 +62,7 @@ CRS权限是否已经完成设置？
   
 解决方式依旧是**邮件联系&lt;techsupport@oyohotels.cn&gt;**协助
 
-{% hint style="success" %}
-Active酒店，标签设置完善，单独是显示库存不足无法录入
-{% endhint %}
+### Active酒店，标签设置完善，仍然显示库存不足无法录入
 
 这个方法适用于不点选 Real Inventory \(Without Clubbing\) 查看酒店库存，全部显示为0的情况。
 
@@ -90,9 +80,7 @@ Active酒店，标签设置完善，单独是显示库存不足无法录入
 
 ![&#x5237;&#x65B0;&#x5E93;&#x5B58;&#x52A8;&#x56FE;&#x6559;&#x5B66;](../.gitbook/assets/shua-xin-ku-cun.gif)
 
-{% hint style="info" %}
-新上线酒店房型和实际不一致怎么办？
-{% endhint %}
+### 新上线酒店房型和实际不一致怎么办？
 
 PMS的房型信息是读取自CRS的Room Info的，查看Room Info的方式如下：
 
@@ -105,9 +93,7 @@ PMS的房型信息是读取自CRS的Room Info的，查看Room Info的方式如�
 
 可以根据以下情况进行排除：
 
-{% hint style="success" %}
-是否是前一日补录订单？
-{% endhint %}
+### 是否是前一日补录订单？
 
 受限于印度系统每日0：00（印度时间，中国时间会在凌晨2：30）锁死逻辑的限制，虽然PMS开放了入住日次日12：00补录订单的功能，但补录订单数的上限仅限于0：00时可入住的最大房间数。
 
@@ -121,9 +107,7 @@ PMS的房型信息是读取自CRS的Room Info的，查看Room Info的方式如�
 
 如不知道流程是什么，请邮件联系epicenter&lt;epicenter.china@oyorooms.com&gt;
 
-{% hint style="success" %}
-是否存在OTA预抵订单未处理？是否存在当日应退房未及时操作？
-{% endhint %}
+### 是否存在OTA预抵订单未处理？是否存在当日应退房未及时操作？
 
 PMS执行以下逻辑：
 
@@ -135,9 +119,7 @@ PMS执行以下逻辑：
 
 解决方案就是尽快准确处理订单，释放库存。
 
-{% hint style="success" %}
-库存出现负值，订单无法录入
-{% endhint %}
+### 库存出现负值，订单无法录入
 
 #### CRS存在两种库存计算方式。 <a id="kun-cun-ji-suan"></a>
 
@@ -145,20 +127,16 @@ PMS执行以下逻辑：
 
 #### 另一种是房型库存，房型库存是真实库存，是通过勾选 Real Inventory \(Without Clubbing\)后查看的。
 
-![&#x70B9;&#x51FB;Real Inventory\(Without Clubbing\)&#x67E5;&#x770B;&#x9152;&#x5E97;&#x771F;&#x5B9E;&#x7684;&#x623F;&#x578B;&#x5E93;&#x5B58;](../.gitbook/assets/image%20%2865%29.png)
+![&#x70B9;&#x51FB;Real Inventory\(Without Clubbing\)&#x67E5;&#x770B;&#x9152;&#x5E97;&#x771F;&#x5B9E;&#x7684;&#x623F;&#x578B;&#x5E93;&#x5B58;](../.gitbook/assets/image%20%2868%29.png)
 
   
 库存出现负值多是因为虚拟库存的原因，让部分房型超售。
 
 在此时如无法在对应房型创建新单，只需要及时处理离店即可。
 
-{% hint style="info" %}
-泰坦PMS在1.0并不支持预排房功能，故库存满只能将现有库存清除后才能录单
-{% endhint %}
+**泰坦PMS暂时不支持预排房功能，故库存满只能将现有库存清除之后才能录单。**
 
-{% hint style="success" %}
-可售卖的库存比酒店实际的库存要少
-{% endhint %}
+### **可售卖的库存比酒店实际的库存要少**
 
 查看酒店的可售卖房库存数据，可以通过查看CRS的RoomInfo实现，方法如下：
 

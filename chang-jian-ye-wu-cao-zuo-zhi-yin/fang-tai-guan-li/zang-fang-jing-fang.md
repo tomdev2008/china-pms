@@ -9,7 +9,7 @@
 在脏房打扫完成后，可点击脏房，将其设为干净房。  
 
 
-![&#x70B9;&#x51FB;&#x810F;&#x623F;&#x8BBE;&#x4E3A;&#x5E72;&#x51C0;&#x623F;](../../.gitbook/assets/image%20%2856%29.png)
+![&#x70B9;&#x51FB;&#x810F;&#x623F;&#x8BBE;&#x4E3A;&#x5E72;&#x51C0;&#x623F;](../../.gitbook/assets/image%20%2858%29.png)
 
 
 

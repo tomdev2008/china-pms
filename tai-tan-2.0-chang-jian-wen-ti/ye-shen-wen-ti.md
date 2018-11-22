@@ -1,12 +1,17 @@
 # 夜审问题
 
-## Can I become who I want to be?
+## 夜审房费不对是什么情况?
 
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
+夜审房费是根据订单的价格来生成房费应收（客人应该要支付的账目），例如A酒店，每晚房价100元，客人住3晚支付400元，其中100元是押金。在首晚过后，根据房价产生消费100元（夜审确定），该订单留存余额300元。
 
-## Have you had a chance to answer the previous question?
+有几种可能：
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+* 订单未改价：多数情况下，前台会误以为在收银页面修改的房费是修改了订单价格，而实际上是需要在订单房价页面修改（如下图所示）
 
+![&#x6539;&#x4EF7;&#x5728;&#x8FD9;&#x91CC;](../.gitbook/assets/image%20%2886%29.png)
 
+![&#x8FD9;&#x91CC;&#x4E0D;&#x662F;&#x6539;&#x4EF7;](../.gitbook/assets/image%20%2835%29.png)
+
+* 改价后刷身份证：读取身份证时，因需要根据身份证判断客人是否适用于会员价格，会再刷新一次价格。**故需要提醒前台，先读身份证再改价**。
+* 变价换房：选择换房时，系统会默认读取新房型的预设价格，如不希望变价，请选择【免费升房】
 
