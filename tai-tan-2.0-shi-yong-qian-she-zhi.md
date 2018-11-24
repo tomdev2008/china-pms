@@ -27,6 +27,10 @@ xp用户下载：[点击此处下载](https://dl.google.com/release2/h8vnfiy7pvn
 
 [点击此处](https://pan.baidu.com/s/1Z5v2YZPG6JnYb3CsQOXjvg)下载驱动
 
+安装完成后，将身份证放在身份证读卡器上，再点击【读取证件】，身份证信息出现在pms上即可验证成功。
+
+![&#x70B9;&#x51FB;&#x8BFB;&#x53D6;&#x8BC1;&#x4EF6;&#xFF0C;&#x5BA2;&#x4EBA;&#x8EAB;&#x4EFD;&#x8BC1;&#x4FE1;&#x606F;&#x51FA;&#x73B0;&#x5728;pms&#x4E0A;](.gitbook/assets/image%20%2887%29.png)
+
 
 
 ## 停售房设置
