@@ -1,12 +1,6 @@
 # 直连问题
 
-## Can I become who I want to be?
+## 直连如何操作关房?
 
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
-
-## Have you had a chance to answer the previous question?
-
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
-
-
+目前尚未上线OTA的独立库存管理。OTA直连实现的是ARI直连，即房态、房价、房量直连。故如需要OTA直连关房，请新建订单把预计需要占房的日期的对应房型占满即可。
 
