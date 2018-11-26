@@ -59,6 +59,7 @@
 * [泰坦2.0常见问题](tai-tan-2.0-chang-jian-wen-ti/README.md)
   * [账目问题](tai-tan-2.0-chang-jian-wen-ti/zhang-mu-wen-ti.md)
   * [直连问题](tai-tan-2.0-chang-jian-wen-ti/zhi-lian-wen-ti.md)
+  * [库存问题](tai-tan-2.0-chang-jian-wen-ti/ku-cun-wen-ti.md)
   * [身份证读卡器问题](tai-tan-2.0-chang-jian-wen-ti/shen-fen-zheng-du-ka-qi-wen-ti.md)
   * [夜审问题](tai-tan-2.0-chang-jian-wen-ti/ye-shen-wen-ti.md)
 
