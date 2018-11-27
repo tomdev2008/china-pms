@@ -29,7 +29,7 @@ xp用户下载：[点击此处下载](https://dl.google.com/release2/h8vnfiy7pvn
 
 安装完成后，将身份证放在身份证读卡器上，再点击【读取证件】，身份证信息出现在pms上即可验证成功。
 
-![&#x70B9;&#x51FB;&#x8BFB;&#x53D6;&#x8BC1;&#x4EF6;&#xFF0C;&#x5BA2;&#x4EBA;&#x8EAB;&#x4EFD;&#x8BC1;&#x4FE1;&#x606F;&#x51FA;&#x73B0;&#x5728;pms&#x4E0A;](.gitbook/assets/image%20%2887%29.png)
+![&#x70B9;&#x51FB;&#x8BFB;&#x53D6;&#x8BC1;&#x4EF6;&#xFF0C;&#x5BA2;&#x4EBA;&#x8EAB;&#x4EFD;&#x8BC1;&#x4FE1;&#x606F;&#x51FA;&#x73B0;&#x5728;pms&#x4E0A;](.gitbook/assets/image%20%2888%29.png)
 
 
 
@@ -37,12 +37,12 @@ xp用户下载：[点击此处下载](https://dl.google.com/release2/h8vnfiy7pvn
 
 如存在维修等原因部分房型需要停售，可通过房态图进行设置。
 
-![&#x623F;&#x6001;&#x56FE;&#x5355;&#x51FB;&#x9700;&#x8BBE;&#x65BD;&#x505C;&#x552E;&#x7684; &#x623F;&#x95F4;&#xFF0C;&#x70B9;&#x51FB;&#x8BBE;&#x4E3A;&#x505C;&#x552E;&#x623F;](.gitbook/assets/image%20%2869%29.png)
+![&#x623F;&#x6001;&#x56FE;&#x5355;&#x51FB;&#x9700;&#x8BBE;&#x65BD;&#x505C;&#x552E;&#x7684; &#x623F;&#x95F4;&#xFF0C;&#x70B9;&#x51FB;&#x8BBE;&#x4E3A;&#x505C;&#x552E;&#x623F;](.gitbook/assets/image%20%2870%29.png)
 
 点击后录入停售原因，并选择停售日期，即可完成设置。  
 
 
-![&#x5F55;&#x5165;&#x505C;&#x552E;&#x65E5;&#x671F;&#x4E0E;&#x539F;&#x56E0;&#x540E;&#xFF0C;&#x70B9;&#x51FB;&#x786E;&#x5B9A;&#xFF0C;&#x5373;&#x53EF;&#x8BBE;&#x7F6E;&#x505C;&#x552E;](.gitbook/assets/image%20%2884%29.png)
+![&#x5F55;&#x5165;&#x505C;&#x552E;&#x65E5;&#x671F;&#x4E0E;&#x539F;&#x56E0;&#x540E;&#xFF0C;&#x70B9;&#x51FB;&#x786E;&#x5B9A;&#xFF0C;&#x5373;&#x53EF;&#x8BBE;&#x7F6E;&#x505C;&#x552E;](.gitbook/assets/image%20%2885%29.png)
 
 
 

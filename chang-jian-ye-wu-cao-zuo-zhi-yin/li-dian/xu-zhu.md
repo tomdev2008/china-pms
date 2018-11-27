@@ -8,7 +8,7 @@ description: 续住是指在住客人改变行程，延长住店时间。
 
 在房态图找到在住房间，可点击办理续住
 
-![&#x70B9;&#x51FB;&#x529E;&#x7406;&#x7EED;&#x4F4F;](../../.gitbook/assets/image%20%2885%29.png)
+![&#x70B9;&#x51FB;&#x529E;&#x7406;&#x7EED;&#x4F4F;](../../.gitbook/assets/image%20%2886%29.png)
 
 勾选原价续住
 
