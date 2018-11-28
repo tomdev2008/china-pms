@@ -43,7 +43,6 @@
       * [入住前收银](chang-jian-ye-wu-cao-zuo-zhi-yin/shou-yin-yu-ru-zhang/shou-yin/ru-zhu-qian-shou-yin.md)
       * [离店收银](chang-jian-ye-wu-cao-zuo-zhi-yin/shou-yin-yu-ru-zhang/shou-yin/li-dian-shou-yin.md)
   * [夜审](chang-jian-ye-wu-cao-zuo-zhi-yin/ye-shen/README.md)
-    * [手动夜审](chang-jian-ye-wu-cao-zuo-zhi-yin/ye-shen/shou-dong-ye-shen.md)
     * [自动夜审](chang-jian-ye-wu-cao-zuo-zhi-yin/ye-shen/zi-dong-ye-shen.md)
     * [夜审账单申诉](chang-jian-ye-wu-cao-zuo-zhi-yin/ye-shen/ye-shen-zhang-dan-shen-su.md)
   * [交接班](chang-jian-ye-wu-cao-zuo-zhi-yin/jiao-jie-ban/README.md)
@@ -61,5 +60,6 @@
   * [直连问题](tai-tan-2.0-chang-jian-wen-ti/zhi-lian-wen-ti.md)
   * [库存问题](tai-tan-2.0-chang-jian-wen-ti/ku-cun-wen-ti.md)
   * [身份证读卡器问题](tai-tan-2.0-chang-jian-wen-ti/shen-fen-zheng-du-ka-qi-wen-ti.md)
+  * [报表问题](tai-tan-2.0-chang-jian-wen-ti/bao-biao-wen-ti.md)
   * [夜审问题](tai-tan-2.0-chang-jian-wen-ti/ye-shen-wen-ti.md)
 
