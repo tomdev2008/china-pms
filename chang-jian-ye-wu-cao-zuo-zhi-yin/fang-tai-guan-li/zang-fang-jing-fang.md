@@ -4,12 +4,12 @@
 
 脏房不可办入住。
 
-![&#x810F;&#x623F;&#x5728;&#x623F;&#x6001;&#x56FE;&#x663E;&#x793A;&#x4E3A;&#x7070;&#x8272;](../../.gitbook/assets/image%20%2828%29.png)
+![&#x810F;&#x623F;&#x5728;&#x623F;&#x6001;&#x56FE;&#x663E;&#x793A;&#x4E3A;&#x7070;&#x8272;](../../.gitbook/assets/image%20%2829%29.png)
 
 在脏房打扫完成后，可点击脏房，将其设为干净房。  
 
 
-![&#x70B9;&#x51FB;&#x810F;&#x623F;&#x8BBE;&#x4E3A;&#x5E72;&#x51C0;&#x623F;](../../.gitbook/assets/image%20%2875%29.png)
+![&#x70B9;&#x51FB;&#x810F;&#x623F;&#x8BBE;&#x4E3A;&#x5E72;&#x51C0;&#x623F;](../../.gitbook/assets/image%20%2880%29.png)
 
 
 

@@ -18,6 +18,7 @@
     * [上门客入住](chang-jian-ye-wu-cao-zuo-zhi-yin/ru-zhu/shang-men-ke-ru-zhu.md)
     * [网络客入住](chang-jian-ye-wu-cao-zuo-zhi-yin/ru-zhu/wang-luo-ke-ru-zhu.md)
     * [今日预抵预排房](chang-jian-ye-wu-cao-zuo-zhi-yin/ru-zhu/jin-ri-yu-di-yu-pai-fang.md)
+    * [脏房净房](chang-jian-ye-wu-cao-zuo-zhi-yin/ru-zhu/zang-fang-jing-fang.md)
   * [离店](chang-jian-ye-wu-cao-zuo-zhi-yin/li-dian/README.md)
     * [正常离店](chang-jian-ye-wu-cao-zuo-zhi-yin/li-dian/zheng-chang-li-dian.md)
     * [提前离店](chang-jian-ye-wu-cao-zuo-zhi-yin/li-dian/ti-qian-li-dian.md)

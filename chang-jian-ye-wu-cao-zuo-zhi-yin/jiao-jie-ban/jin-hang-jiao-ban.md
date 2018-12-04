@@ -2,5 +2,5 @@
 
 点击交接班进入交接班页面，在交接班页面点击【交班】进行交班。
 
-![&#x70B9;&#x51FB;&#x4FA7;&#x8FB9;&#x680F;&#x4EA4;&#x63A5;&#x73ED;&#x6309;&#x94AE;&#xFF0C;&#x8FDB;&#x5165;&#x4EA4;&#x63A5;&#x73ED;&#x9875;&#x9762;](../../.gitbook/assets/image%20%2860%29.png)
+![&#x70B9;&#x51FB;&#x4FA7;&#x8FB9;&#x680F;&#x4EA4;&#x63A5;&#x73ED;&#x6309;&#x94AE;&#xFF0C;&#x8FDB;&#x5165;&#x4EA4;&#x63A5;&#x73ED;&#x9875;&#x9762;](../../.gitbook/assets/image%20%2865%29.png)
 
