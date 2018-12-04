@@ -26,11 +26,11 @@ xp用户下载：[点击此处下载](https://dl.google.com/release2/h8vnfiy7pvn
 
 读取成功，如下图所示：
 
-![&#x70B9;&#x51FB;&#x65B0;&#x5EFA;&#x6563;&#x5BA2;&#x8BA2;&#x5355;&#xFF0C;&#x63D0;&#x793A;&#x201C;&#x6B63;&#x5728;&#x8FDE;&#x63A5;&#x8EAB;&#x4EFD;&#x8BC1;&#x8BFB;&#x5361;&#x5668;&#x670D;&#x52A1;&#x201D;](../.gitbook/assets/image%20%2842%29.png)
+![&#x70B9;&#x51FB;&#x65B0;&#x5EFA;&#x6563;&#x5BA2;&#x8BA2;&#x5355;&#xFF0C;&#x63D0;&#x793A;&#x201C;&#x6B63;&#x5728;&#x8FDE;&#x63A5;&#x8EAB;&#x4EFD;&#x8BC1;&#x8BFB;&#x5361;&#x5668;&#x670D;&#x52A1;&#x201D;](../.gitbook/assets/image%20%2850%29.png)
 
 如驱动已安装，读卡器连接失败，系统会提示“正在连接身份证读卡器服务”和“未识别到身份证读卡器，请检查设备是否连接”
 
-![&#x5B89;&#x88C5;&#x9A71;&#x52A8;&#x6210;&#x529F;&#x672A;&#x8FDE;&#x63A5;&#x8BFB;&#x5361;&#x5668;](../.gitbook/assets/image%20%2890%29.png)
+![&#x5B89;&#x88C5;&#x9A71;&#x52A8;&#x6210;&#x529F;&#x672A;&#x8FDE;&#x63A5;&#x8BFB;&#x5361;&#x5668;](../.gitbook/assets/image%20%28112%29.png)
 
 泰坦在**新建订单时会自动启用身份证读卡器功能**。如在此次启动时，未能自动读取，可点击“启动身份证读卡器”再启动一次。
 
@@ -39,7 +39,7 @@ xp用户下载：[点击此处下载](https://dl.google.com/release2/h8vnfiy7pvn
 读取成功，客人的身份证信息会自动出现在系统中。如该客人此前有住过oyo酒店，则ta的手机号会自动出现在系统里。  
 
 
-![&#x6210;&#x529F;&#x542F;&#x7528;&#xFF0C;&#x5E76;&#x5F55;&#x5165;&#x8BA2;&#x5355;&#x4FE1;&#x606F;](../.gitbook/assets/image%20%2865%29.png)
+![&#x6210;&#x529F;&#x542F;&#x7528;&#xFF0C;&#x5E76;&#x5F55;&#x5165;&#x8BA2;&#x5355;&#x4FE1;&#x606F;](../.gitbook/assets/image%20%2882%29.png)
 
 ## 身份证读卡器申领
 
@@ -47,7 +47,7 @@ xp用户下载：[点击此处下载](https://dl.google.com/release2/h8vnfiy7pvn
 
 具体流程可参考下图：（点击可放大）
 
-![&#x8EAB;&#x4EFD;&#x8BC1;&#x8BFB;&#x5361;&#x5668;&#x7533;&#x8BF7;&#x6D41;&#x7A0B;](../.gitbook/assets/image%20%2821%29.png)
+![&#x8EAB;&#x4EFD;&#x8BC1;&#x8BFB;&#x5361;&#x5668;&#x7533;&#x8BF7;&#x6D41;&#x7A0B;](../.gitbook/assets/image%20%2825%29.png)
 
   
 可点击以下链接下载机具阅读检测软件：（该软件仅做检测使用，使用完成后务必卸载）
