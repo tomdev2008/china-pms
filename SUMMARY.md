@@ -17,7 +17,7 @@
   * [入住](chang-jian-ye-wu-cao-zuo-zhi-yin/ru-zhu/README.md)
     * [上门客入住](chang-jian-ye-wu-cao-zuo-zhi-yin/ru-zhu/shang-men-ke-ru-zhu.md)
     * [网络客入住](chang-jian-ye-wu-cao-zuo-zhi-yin/ru-zhu/wang-luo-ke-ru-zhu.md)
-    * [换房入住](chang-jian-ye-wu-cao-zuo-zhi-yin/ru-zhu/huan-fang-ru-zhu.md)
+    * [今日预抵预排房](chang-jian-ye-wu-cao-zuo-zhi-yin/ru-zhu/jin-ri-yu-di-yu-pai-fang.md)
   * [离店](chang-jian-ye-wu-cao-zuo-zhi-yin/li-dian/README.md)
     * [正常离店](chang-jian-ye-wu-cao-zuo-zhi-yin/li-dian/zheng-chang-li-dian.md)
     * [提前离店](chang-jian-ye-wu-cao-zuo-zhi-yin/li-dian/ti-qian-li-dian.md)
@@ -62,5 +62,5 @@
   * [身份证读卡器问题](tai-tan-2.0-chang-jian-wen-ti/shen-fen-zheng-du-ka-qi-wen-ti.md)
   * [报表问题](tai-tan-2.0-chang-jian-wen-ti/bao-biao-wen-ti.md)
   * [夜审问题](tai-tan-2.0-chang-jian-wen-ti/ye-shen-wen-ti.md)
-* [泰坦产品更新日志](tai-tan-chan-pin-geng-xin-ri-zhi.md)
+* [Titan产品更新日志](tai-tan-chan-pin-geng-xin-ri-zhi.md)
 
