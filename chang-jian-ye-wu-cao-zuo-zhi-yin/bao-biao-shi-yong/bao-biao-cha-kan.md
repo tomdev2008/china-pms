@@ -2,7 +2,7 @@
 
 点击报表管理可查看酒店经营报表。
 
-![](../../.gitbook/assets/image%20%28123%29.png)
+![](../../.gitbook/assets/image%20%28133%29.png)
 
 
 
