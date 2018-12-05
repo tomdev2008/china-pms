@@ -1,6 +1,6 @@
 # Table of contents
 
-* [泰坦1.5使用帮助](README.md)
+* [泰坦v2.1使用帮助](README.md)
 * [泰坦PMS使用前设置](shi-yong-qian-she-zhi/README.md)
   * [电脑领用申请流程](shi-yong-qian-she-zhi/dian-nao-ling-yong-shen-qing-liu-cheng.md)
   * [身份证读取功能使用前设置](shi-yong-qian-she-zhi/shen-fen-zheng-du-qu-gong-neng-shi-yong-qian-she-zhi.md)
