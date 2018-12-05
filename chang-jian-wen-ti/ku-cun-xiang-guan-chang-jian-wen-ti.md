@@ -71,13 +71,6 @@ Active酒店的特征：
 * 酒店超售（实际录入库存大于酒店总房间数）
 * orbis或氪系统判断为黑房，无法售卖
 
-刷新方法的在线视频教程如下：
-
-{% embed url="http://v.youku.com/v\_show/id\_XMzgyMDgwOTcxMg==.html?spm=a2h1n.8251843.playList.5!9~5~A&f=51890881&o=1" caption="刷新库存的教学视频" %}
-
-  
-也可以参考以下动图：
-
 ![&#x5237;&#x65B0;&#x5E93;&#x5B58;&#x52A8;&#x56FE;&#x6559;&#x5B66;](../.gitbook/assets/shua-xin-ku-cun.gif)
 
 ### 新上线酒店房型和实际不一致怎么办？
