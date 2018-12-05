@@ -34,8 +34,8 @@ description: 库存管理至关重要，而牵涉到库存，又有非常多种�
   
 Active酒店的特征：
 
-* [x] 详情页OYO Status of Hotel后为active
-* [x] 下拉看到 Multiple room category enabled后为true
+* 详情页OYO Status of Hotel后为active
+* 下拉看到 Multiple room category enabled后为true
 
 ### CRS权限是否已经完成设置？
 

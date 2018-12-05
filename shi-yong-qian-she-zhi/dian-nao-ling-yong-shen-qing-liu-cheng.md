@@ -13,8 +13,6 @@ description: 如酒店没有电脑，或电脑硬件无法达标，则可以通�
   
 除以上截图方式，亦可下载以下软件获得硬件检测结果（USB接口仍需另外提供图片）
 
-{% file src="../.gitbook/assets/pcinfo.exe" %}
-
 ![&#x4F7F;&#x7528;&#x914D;&#x7F6E;&#x6536;&#x96C6;&#x5C0F;&#x7A0B;&#x5E8F;&#x9A8C;&#x8BC1;&#x7535;&#x8111;&#x786C;&#x4EF6;&#x7684;&#x622A;&#x56FE;](../.gitbook/assets/image%20%2829%29.png)
 
 审批流程由钉钉发起，发起方式如下图所示：

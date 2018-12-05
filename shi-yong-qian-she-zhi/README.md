@@ -20,19 +20,9 @@ description: 主要包含网速测试/下载chrome浏览器/设置chrome为默�
 
 使用HMS系统，务必使用Chrome浏览器登陆。如果电脑上没有安装Chrome，[点击下载chrome浏览器](http://www.chromeliulanqi.com/).
 
-{% file src="../.gitbook/assets/chromesetup.exe" caption="chrome浏览器安装包" %}
-
-{% hint style="success" %}
-系统登陆
-{% endhint %}
-
 {% embed url="https://v.youku.com/v\_show/id\_XMzgxNTc1MzE2NA==.html?spm=a2h3j.8428770.3416059.1" %}
 
  
-
-{% hint style="success" %}
-登陆地址
-{% endhint %}
 
 迁移版HMS系统地址为 [https://pms.oyohotels.cn](https://pms.oyohotels.cn) ，打开后将此网址加入收藏，并创建桌面快捷方式。
 

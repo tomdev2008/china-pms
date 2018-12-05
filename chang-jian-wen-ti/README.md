@@ -262,5 +262,3 @@ iv.          在Lifeline中生成新的Transformation，TR提交Transformation�
 
 附件2 房型修改申请单 
 
-{% file src="../.gitbook/assets/fang-xing-ji-fang-jian-zhuang-tai-xiu-gai-shen-qing-dan.xlsx" %}
-
