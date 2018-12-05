@@ -20,8 +20,6 @@ xp用户下载：[点击此处下载](https://dl.google.com/release2/h8vnfiy7pvn
 
 **注意：泰坦2.0用户，请使用右侧链接下载：**
 
-{% file src="../.gitbook/assets/oyoidcard-2.0.msi" caption="泰坦2.0身份证驱动" %}
-
 下载后，请安装在您的电脑中。身份证读取功能即可开始使用。
 
 读取成功，如下图所示：
@@ -51,8 +49,6 @@ xp用户下载：[点击此处下载](https://dl.google.com/release2/h8vnfiy7pvn
 
   
 可点击以下链接下载机具阅读检测软件：（该软件仅做检测使用，使用完成后务必卸载）
-
-{% file src="../.gitbook/assets/setup.rar" caption="身份证核验机具阅读软件下载" %}
 
 
 
