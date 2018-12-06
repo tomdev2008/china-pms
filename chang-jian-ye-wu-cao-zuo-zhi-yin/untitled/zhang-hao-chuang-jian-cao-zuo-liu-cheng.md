@@ -1,6 +1,6 @@
 # 账号创建操作流程
 
-![&#x8D26;&#x53F7;&#x521B;&#x5EFA;&#x6D41;&#x7A0B;](../../.gitbook/assets/image%20%2898%29.png)
+![&#x8D26;&#x53F7;&#x521B;&#x5EFA;&#x6D41;&#x7A0B;](../../.gitbook/assets/image%20%28100%29.png)
 
  城市对应名单为RSPOC提供，只授权CGM/OPSH/SAGM择二做代表，其余岗位一律不授权，查询此表链接： [https://shimo.im/sheet/bf1XVlG8GAMU31L1/](https://shimo.im/sheet/bf1XVlG8GAMU31L1/)  
 
@@ -27,7 +27,7 @@
   
 
 
-![AGM&#x521B;&#x5EFA;&#x9152;&#x5E97;&#x7ECF;&#x7406;&amp;&#x524D;&#x53F0;&#x8D26;&#x53F7;](../../.gitbook/assets/image%20%28183%29.png)
+![AGM&#x521B;&#x5EFA;&#x9152;&#x5E97;&#x7ECF;&#x7406;&amp;&#x524D;&#x53F0;&#x8D26;&#x53F7;](../../.gitbook/assets/image%20%28186%29.png)
 
 ![&#x521B;&#x5EFA;&#x9152;&#x5E97;&#x7ECF;&#x7406;&amp;&#x524D;&#x53F0;&#x8D26;&#x53F7;](../../.gitbook/assets/image%20%2843%29.png)
 
