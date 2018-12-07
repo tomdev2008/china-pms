@@ -73,5 +73,6 @@
   * [身份证读卡器问题](tai-tan-2.0-chang-jian-wen-ti/shen-fen-zheng-du-ka-qi-wen-ti.md)
   * [报表问题](tai-tan-2.0-chang-jian-wen-ti/bao-biao-wen-ti.md)
   * [夜审问题](tai-tan-2.0-chang-jian-wen-ti/ye-shen-wen-ti.md)
+  * [页面显示问题](tai-tan-2.0-chang-jian-wen-ti/ye-mian-xian-shi-wen-ti.md)
 * [Titan产品更新日志](tai-tan-chan-pin-geng-xin-ri-zhi.md)
 
