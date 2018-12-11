@@ -1,5 +1,21 @@
 # 夜审后补单
 
+## 过渡夜审补单方案
+
+![](../../.gitbook/assets/image%20%28114%29.png)
+
+  
+
+
+![](../../.gitbook/assets/image%20%28133%29.png)
+
+  
+
+
+![](../../.gitbook/assets/image%20%287%29.png)
+
+## 夜审后补单
+
 每日凌晨6：00~12：00
 
 * AGM/店长账号的noshow页面出现补单按钮
