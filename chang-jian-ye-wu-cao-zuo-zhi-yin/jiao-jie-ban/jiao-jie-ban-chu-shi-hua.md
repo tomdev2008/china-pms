@@ -4,12 +4,12 @@
 
 点击侧边栏控件进入交接班界面。
 
-![&#x4FA7;&#x8FB9;&#x680F;&#x4EA4;&#x63A5;&#x73ED;&#x5165;&#x53E3;](../../.gitbook/assets/image%20%28164%29.png)
+![&#x4FA7;&#x8FB9;&#x680F;&#x4EA4;&#x63A5;&#x73ED;&#x5165;&#x53E3;](../../.gitbook/assets/image%20%28169%29.png)
 
 点击增加备用金，输入前台金额后点击交班完成初始金额设置。  
 
 
-![&#x589E;&#x52A0;&#x5907;&#x7528;&#x91D1;&#x8BBE;&#x7F6E;&#x524D;&#x53F0;&#x521D;&#x59CB;&#x91D1;&#x989D;](../../.gitbook/assets/image%20%2827%29.png)
+![&#x589E;&#x52A0;&#x5907;&#x7528;&#x91D1;&#x8BBE;&#x7F6E;&#x524D;&#x53F0;&#x521D;&#x59CB;&#x91D1;&#x989D;](../../.gitbook/assets/image%20%2828%29.png)
 
 
 
