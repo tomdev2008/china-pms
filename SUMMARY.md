@@ -10,6 +10,7 @@
 * [产品更新日志](chan-pin-geng-xin-ri-zhi.md)
 * [Titan系统使用帮助](tai-tan-2.0-shi-yong-bang-zhu-nei-ce-zhuan-yong-shi-gong-zhong.md)
 * [Titan使用前设置](tai-tan-2.0-shi-yong-qian-she-zhi.md)
+* [Titan应用下载](titan-ying-yong-xia-zai.md)
 * [界面介绍](jie-mian-jie-shao.md)
 * [常见业务操作指引](chang-jian-ye-wu-cao-zuo-zhi-yin/README.md)
   * [入住](chang-jian-ye-wu-cao-zuo-zhi-yin/ru-zhu/README.md)
