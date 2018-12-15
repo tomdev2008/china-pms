@@ -21,5 +21,15 @@
 
 如下图所示：
 
-![](../.gitbook/assets/image%20%2830%29.png)
+![](../.gitbook/assets/image%20%2831%29.png)
+
+## OTA订单取消了，PMS没有同步是什么问题？
+
+非直连订单目前在处理取消/预定/修改都是由人工建单跟进。
+
+如出现OTA的后台订单状态与PMS不一致，可联系AGM，并告知其状态不一致的OTA订单号，由AGM协助登陆CRS查询。
+
+AGM可通过 [https://crsx.oyohotels.cn](https://crsx.oyohotels.cn) 登陆CRS，通过订单列表-渠道订单号查询对应订单状态信息。
+
+![&#x5B99;&#x65AF;&#x8BA2;&#x5355;&#x72B6;&#x6001;&#x67E5;&#x8BE2;&#x9875;&#x9762;](../.gitbook/assets/image%20%2891%29.png)
 

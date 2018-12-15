@@ -2,17 +2,17 @@
 
 ## 过渡夜审补单方案
 
-![](../../.gitbook/assets/image%20%28117%29.png)
+![](../../.gitbook/assets/image%20%28120%29.png)
 
   
 
 
-![](../../.gitbook/assets/image%20%28137%29.png)
+![](../../.gitbook/assets/image%20%28143%29.png)
 
   
 
 
-![](../../.gitbook/assets/image%20%288%29.png)
+![](../../.gitbook/assets/image%20%289%29.png)
 
 ## 夜审后补单
 
@@ -20,14 +20,14 @@
 
 * AGM/店长账号的noshow页面出现补单按钮
 
-![&#x591C;&#x5BA1;&#x540E;&#x8865;&#x5355;&#x6309;&#x94AE;](../../.gitbook/assets/image%20%28133%29.png)
+![&#x591C;&#x5BA1;&#x540E;&#x8865;&#x5355;&#x6309;&#x94AE;](../../.gitbook/assets/image%20%28137%29.png)
 
   
 通过订单管理-订单列表-NOSHOW页面进入，即可看到
 
 * 可通过补单页面添加前一日入住的散客单
 
-![&#x8865;&#x5355;&#x9875;&#x9762;&#x9501;&#x5B9A;&#x524D;&#x4E00;&#x65E5;](../../.gitbook/assets/image%20%28142%29.png)
+![&#x8865;&#x5355;&#x9875;&#x9762;&#x9501;&#x5B9A;&#x524D;&#x4E00;&#x65E5;](../../.gitbook/assets/image%20%28149%29.png)
 
   
 补单自动锁定入住时间为前1天，离店时间可根据实际时间进行选取，点击补单预览，确认补单信息。
@@ -36,14 +36,14 @@
 
 * 可通过noshow页面进行补排房入住
 
-![&#x70B9;&#x51FB;&#x6392;&#x623F;&#x5165;&#x4F4F;](../../.gitbook/assets/image%20%2873%29.png)
+![&#x70B9;&#x51FB;&#x6392;&#x623F;&#x5165;&#x4F4F;](../../.gitbook/assets/image%20%2874%29.png)
 
   
 点击排房入住进行补排房操作
 
 * 补排房入住后，应收摘要按正常夜审费用生成
 
-![&#x524D;&#x4E00;&#x65E5;&#x591C;&#x5BA1;](../../.gitbook/assets/image%20%28181%29.png)
+![&#x524D;&#x4E00;&#x65E5;&#x591C;&#x5BA1;](../../.gitbook/assets/image%20%28189%29.png)
 
   
 
