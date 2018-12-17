@@ -1,6 +1,6 @@
 # 账号创建操作流程
 
-![](../../.gitbook/assets/image%20%28180%29.png)
+![](../../.gitbook/assets/image%20%28181%29.png)
 
    
 
