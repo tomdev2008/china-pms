@@ -2,7 +2,7 @@
 
 点击报表管理可查看酒店经营报表。
 
-![&#x4FA7;&#x8FB9;&#x680F;&#x62A5;&#x8868;&#x67E5;&#x770B;](../../.gitbook/assets/image%20%2864%29.png)
+![&#x4FA7;&#x8FB9;&#x680F;&#x62A5;&#x8868;&#x67E5;&#x770B;](../../.gitbook/assets/image%20%2866%29.png)
 
 
 
