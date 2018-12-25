@@ -67,6 +67,7 @@
     * [账号登陆](chang-jian-ye-wu-cao-zuo-zhi-yin/untitled/zhang-hao-deng-lu.md)
     * [重置密码](chang-jian-ye-wu-cao-zuo-zhi-yin/untitled/zhong-zhi-mi-ma.md)
   * [报表使用](chang-jian-ye-wu-cao-zuo-zhi-yin/bao-biao-shi-yong/README.md)
+    * [营收数据说明](chang-jian-ye-wu-cao-zuo-zhi-yin/bao-biao-shi-yong/ying-shou-shu-ju-shuo-ming.md)
     * [报表查看](chang-jian-ye-wu-cao-zuo-zhi-yin/bao-biao-shi-yong/bao-biao-cha-kan.md)
     * [数据报错](chang-jian-ye-wu-cao-zuo-zhi-yin/bao-biao-shi-yong/shu-ju-bao-cuo.md)
   * [在线协助](chang-jian-ye-wu-cao-zuo-zhi-yin/zai-xian-xie-zhu/README.md)
