@@ -12,12 +12,12 @@ description: 在住状态下订单，不支持取消订单
 
 在误操作的房间点击结账退房，在房费检查页面点击不生成房费
 
-![&#x70B9;&#x51FB;&#x4E0D;&#x751F;&#x6210;&#x623F;&#x8D39;](../../.gitbook/assets/image%20%28111%29.png)
+![&#x70B9;&#x51FB;&#x4E0D;&#x751F;&#x6210;&#x623F;&#x8D39;](../../.gitbook/assets/image%20%28113%29.png)
 
 进行退款操作  
 
 
-![&#x786E;&#x8BA4;&#x9000;&#x6B3E;&#x91D1;&#x989D;](../../.gitbook/assets/image%20%28123%29.png)
+![&#x786E;&#x8BA4;&#x9000;&#x6B3E;&#x91D1;&#x989D;](../../.gitbook/assets/image%20%28125%29.png)
 
 确认确认离店即完成
 

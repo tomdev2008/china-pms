@@ -1,8 +1,8 @@
 # 信息编辑及关联酒店变更操作流程
 
-![](../../../.gitbook/assets/image%20%2874%29.png)
+![](../../../.gitbook/assets/image%20%2876%29.png)
 
-![](../../../.gitbook/assets/image%20%2837%29.png)
+![](../../../.gitbook/assets/image%20%2839%29.png)
 
-![](../../../.gitbook/assets/image%20%28155%29.png)
+![](../../../.gitbook/assets/image%20%28157%29.png)
 
