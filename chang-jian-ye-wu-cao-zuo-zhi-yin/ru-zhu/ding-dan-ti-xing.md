@@ -4,7 +4,7 @@
 
 OTA/MM/oyo官网渠道等非pms创建的订单，产生语音提醒与消息浮窗
 
-![&#x65B0;&#x8BA2;&#x5355;&#x63D0;&#x9192;](../../.gitbook/assets/image%20%28222%29.png)
+![&#x65B0;&#x8BA2;&#x5355;&#x63D0;&#x9192;](../../.gitbook/assets/image%20%28223%29.png)
 
 ## 订单取消提醒
 
