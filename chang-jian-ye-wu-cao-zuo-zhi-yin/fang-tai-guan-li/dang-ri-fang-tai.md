@@ -8,7 +8,7 @@
 
 支持通过标签选择对应状态的房间。
 
-![](../../.gitbook/assets/image%20%28220%29.png)
+![](../../.gitbook/assets/image%20%28221%29.png)
 
 ### 房态表查看
 
