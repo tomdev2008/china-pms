@@ -31,5 +31,5 @@
 
 AGM可通过 [https://crsx.oyohotels.cn](https://crsx.oyohotels.cn) 登陆CRS，通过订单列表-渠道订单号查询对应订单状态信息。
 
-![&#x5B99;&#x65AF;&#x8BA2;&#x5355;&#x72B6;&#x6001;&#x67E5;&#x8BE2;&#x9875;&#x9762;](../.gitbook/assets/image%20%28106%29.png)
+![&#x5B99;&#x65AF;&#x8BA2;&#x5355;&#x72B6;&#x6001;&#x67E5;&#x8BE2;&#x9875;&#x9762;](../.gitbook/assets/image%20%28107%29.png)
 

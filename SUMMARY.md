@@ -25,6 +25,7 @@
   * [价格编辑](chang-jian-ye-wu-cao-zuo-zhi-yin/jia-ge-bian-ji/README.md)
     * [价格设置](chang-jian-ye-wu-cao-zuo-zhi-yin/jia-ge-bian-ji/jia-ge-she-zhi.md)
     * [渠道价格设置](chang-jian-ye-wu-cao-zuo-zhi-yin/jia-ge-bian-ji/qu-dao-jia-ge-she-zhi.md)
+    * [OYO APP与小程序改价](chang-jian-ye-wu-cao-zuo-zhi-yin/jia-ge-bian-ji/oyo-app-yu-xiao-cheng-xu-gai-jia.md)
   * [房态管理](chang-jian-ye-wu-cao-zuo-zhi-yin/fang-tai-guan-li/README.md)
     * [当日房态](chang-jian-ye-wu-cao-zuo-zhi-yin/fang-tai-guan-li/dang-ri-fang-tai.md)
     * [未来房态](chang-jian-ye-wu-cao-zuo-zhi-yin/fang-tai-guan-li/wei-lai-fang-tai.md)

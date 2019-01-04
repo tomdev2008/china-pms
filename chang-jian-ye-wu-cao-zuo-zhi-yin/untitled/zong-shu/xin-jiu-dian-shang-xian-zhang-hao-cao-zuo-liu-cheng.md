@@ -1,18 +1,18 @@
 # 新酒店上线帐号操作流程
 
-![](../../../.gitbook/assets/image%20%28155%29.png)
+![](../../../.gitbook/assets/image%20%28156%29.png)
 
   
 
 
-![](../../../.gitbook/assets/image%20%28110%29.png)
+![](../../../.gitbook/assets/image%20%28111%29.png)
 
   
 
 
-![](../../../.gitbook/assets/image%20%28187%29.png)
+![](../../../.gitbook/assets/image%20%28189%29.png)
 
-![](../../../.gitbook/assets/image%20%28251%29.png)
+![](../../../.gitbook/assets/image%20%28254%29.png)
 
   
 
@@ -22,5 +22,5 @@
   
 
 
-![](../../../.gitbook/assets/image%20%28180%29.png)
+![](../../../.gitbook/assets/image%20%28182%29.png)
 
