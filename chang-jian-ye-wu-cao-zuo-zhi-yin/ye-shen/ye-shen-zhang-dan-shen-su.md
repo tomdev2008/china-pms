@@ -6,21 +6,65 @@
 
 | 渠道\订单状态 | 预抵 | 在住 | 离店 | Noshow |
 | :---: | :---: | :---: | :---: | :---: |
-| PMS | PMS直接取消 | PMS操作0房费当日入离 | 每月出账单后进行财务申诉 | 入住日次日12点往后48小时内进行noshow申诉操作 |
-| OTA非直连 | 联系建单组操作 | PMS操作0房费当日入离 | 每月出账单后进行财务申诉 | 现付nosho申诉，预付财务申诉 |
-| OTA直连/OYO小程序&app | 联系建单组操作 | PMS操作0房费当日入离 | 每月出账单后进行财务申诉 | 现付nosho申诉，预付财务申诉 |
-| MM | 联系建单组操作 | PMS操作0房费当日入离 | 每月出账单后进行财务申诉 | 现付nosho申诉，预付财务申诉 |
+| PMS | PMS直接取消 | PMS操作0房费当日入离 | 财务申诉 | 入住日次日12点往后48小时内进行noshow申诉操作 |
+| OTA非直连 | 联系客服并提供取消凭证 | PMS操作0房费当日入离 | 财务申诉 | 现付noshow申诉，预付财务申诉 |
+| OTA直连 | 联系客人在OTA上取消 | 联系客人在OTA上取消 | 财务申诉 | 现付noshow申诉，预付财务申诉 |
+| OYO小程序&app | 联系客服 | PMS操作0房费当日入离 | 财务申诉 | 现付noshow申诉，预付财务申诉 |
+| MM | 联系对应销售 | PMS操作0房费当日入离 | 财务申诉 | 现付nosho申诉，预付财务申诉 |
 
 ### 价格错误需修改
 
-| 渠道\订单状态 | 预抵 | 在住 | 离店 | Noshow |
-| :---: | :---: | :---: | :---: | :---: |
-| PMS | 直接在PMS上修改 | 房费调整 | 财务申诉 | 财务申诉 |
-| OTA非直连 | 联系建单组改价 | 房费调整 | 财务申诉 | 财务申诉 |
-| OTA直连/OYO小程序&app | 入住后进行房费调整 | 房费调整 | 财务申诉 | 财务申诉 |
-| MM | 入住后进行房费调整 | 房费调整 | 财务申诉 | 财务申诉 |
-
-### 财务申诉
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:center">渠道\订单状态</th>
+      <th style="text-align:center">预抵</th>
+      <th style="text-align:center">在住</th>
+      <th style="text-align:center">离店</th>
+      <th style="text-align:center">Noshow</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:center">PMS</td>
+      <td style="text-align:center">直接在PMS上修改</td>
+      <td style="text-align:center">房费调整</td>
+      <td style="text-align:center">财务申诉</td>
+      <td style="text-align:center">财务申诉</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">OTA非直连</td>
+      <td style="text-align:center">联系建单组改价</td>
+      <td style="text-align:center">房费调整</td>
+      <td style="text-align:center">财务申诉</td>
+      <td style="text-align:center">财务申诉</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">OTA直连</td>
+      <td style="text-align:center">按原价入住</td>
+      <td style="text-align:center">房费调整</td>
+      <td style="text-align:center">财务申诉</td>
+      <td style="text-align:center">财务申诉</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">OYO小程序&app</td>
+      <td style="text-align:center">
+        <p>与客人协商一致，</p>
+        <p>入住后进行房费调整</p>
+      </td>
+      <td style="text-align:center">房费调整</td>
+      <td style="text-align:center">财务申诉</td>
+      <td style="text-align:center">财务申诉</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">MM</td>
+      <td style="text-align:center">入住后进行房费调整</td>
+      <td style="text-align:center">房费调整</td>
+      <td style="text-align:center">财务申诉</td>
+      <td style="text-align:center">财务申诉</td>
+    </tr>
+  </tbody>
+</table>### 财务申诉
 
 财务申诉流程由AGM发起，通过邮件发送错误订单明细及需要修改的信息至&lt;financial.operation@oyohotels.cn&gt;
 
