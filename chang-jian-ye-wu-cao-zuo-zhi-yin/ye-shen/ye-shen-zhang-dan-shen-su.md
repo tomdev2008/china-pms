@@ -66,7 +66,9 @@
   </tbody>
 </table>### 财务申诉
 
-财务申诉流程由AGM发起，通过邮件发送错误订单明细及需要修改的信息至&lt;financial.operation@oyohotels.cn&gt;
+财务申诉流程由AGM发起，通过邮件发送错误订单明细及需要修改的信息至，邮件申诉需要附上申诉依据包括但不仅限于OTA后台截图、门店账目信息等 ：
+
+&lt; finance.operation@oyohotels.cn&gt;
 
 ## 发起申诉
 
