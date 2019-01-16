@@ -10,7 +10,7 @@
 * 查看关联酒店，检查是否有酒店缺失，如有缺失，邮件至techsupport@oyohotels.cn 
 * 进入crs，点击链接： https://crsx.oyohotels.cn ，使用pms的账号密码登陆宙斯，进入权限管理-用户管理页面
 
-![](../../.gitbook/assets/image%20%2879%29.png)
+![](../../.gitbook/assets/image%20%2881%29.png)
 
 * 使用自己团队的SAGM与ＡＧＭ等的手机号查询SAGM/AGM/HOO是否存在，如输入手机号之后点击查询无结果，使用姓名复查，如姓名可查到，但手机号错误，可通过账号编辑功能修改手机号
 * 如使用姓名复查，仍然无法查到，请邮件联系techsupport@oyohotels 
@@ -19,7 +19,7 @@
 
 * 运营卫视上线审批通过后1天时，通过酒店列表查询是否上线
 
-![](../../.gitbook/assets/image%20%28110%29.png)
+![](../../.gitbook/assets/image%20%28112%29.png)
 
 * 使用宙斯关联新酒店对应的SAGM/AGM/HOO
 
@@ -34,7 +34,7 @@
 
 * **直接**新增账号（如需新增，可走钉钉流程）
 
-![&#x9489;&#x9489;&#x7533;&#x8BF7;&#x8D26;&#x53F7;&#x6D41;&#x7A0B;](../../.gitbook/assets/image%20%28268%29.png)
+![&#x9489;&#x9489;&#x7533;&#x8BF7;&#x8D26;&#x53F7;&#x6D41;&#x7A0B;](../../.gitbook/assets/image%20%28274%29.png)
 
 
 

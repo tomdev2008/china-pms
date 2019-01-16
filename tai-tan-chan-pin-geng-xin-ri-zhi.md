@@ -109,7 +109,7 @@
 * 订单日志新增会员折扣、优惠券选项、续房记录
 * 登陆页面新增公告
 
-![&#x767B;&#x9646;&#x9875;&#x9762;&#x516C;&#x544A;](.gitbook/assets/image%20%28123%29.png)
+![&#x767B;&#x9646;&#x9875;&#x9762;&#x516C;&#x544A;](.gitbook/assets/image%20%28126%29.png)
 
 ### 修复
 
@@ -227,15 +227,15 @@
 
 * 全部订单页面筛选逻辑优化：新增支付状态，日期类型筛选
 
-![](.gitbook/assets/image%20%28191%29.png)
+![](.gitbook/assets/image%20%28195%29.png)
 
 * 在住订单详情页面展示每日房价
 
-![](.gitbook/assets/image%20%2882%29.png)
+![](.gitbook/assets/image%20%2884%29.png)
 
 * 订单详情页支持跳转房单
 
-![](.gitbook/assets/image%20%28167%29.png)
+![](.gitbook/assets/image%20%28171%29.png)
 
 ### 修复
 

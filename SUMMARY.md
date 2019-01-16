@@ -6,6 +6,8 @@
   * [v1.0转v2.0身份证读卡器配置教程](tai-tan-2.0-shi-yong-qian-she-zhi/v1.0-zhuan-v2.0-shen-fen-zheng-du-ka-qi-pei-zhi-jiao-cheng.md)
 * [Titan应用下载](titan-ying-yong-xia-zai.md)
 * [界面介绍](jie-mian-jie-shao.md)
+* [OYO酒店系统使用规范](oyo-jiu-dian-xi-tong-shi-yong-gui-fan/README.md)
+  * [酒店记录客人身份信息操作规范](oyo-jiu-dian-xi-tong-shi-yong-gui-fan/jiu-dian-ji-lu-ke-ren-shen-fen-xin-xi-cao-zuo-gui-fan.md)
 * [常见业务操作指引](chang-jian-ye-wu-cao-zuo-zhi-yin/README.md)
   * [入住](chang-jian-ye-wu-cao-zuo-zhi-yin/ru-zhu/README.md)
     * [上门客入住](chang-jian-ye-wu-cao-zuo-zhi-yin/ru-zhu/shang-men-ke-ru-zhu.md)
@@ -88,6 +90,7 @@
   * [夜审问题](tai-tan-2.0-chang-jian-wen-ti/ye-shen-wen-ti.md)
   * [页面显示问题](tai-tan-2.0-chang-jian-wen-ti/ye-mian-xian-shi-wen-ti.md)
   * [账号问题](tai-tan-2.0-chang-jian-wen-ti/zhang-hao-wen-ti.md)
+  * [在线支付](tai-tan-2.0-chang-jian-wen-ti/zai-xian-zhi-fu.md)
 * [Titan产品更新日志](tai-tan-chan-pin-geng-xin-ri-zhi.md)
 * [Titan功能更新计划](titan-gong-neng-geng-xin-ji-hua.md)
 
