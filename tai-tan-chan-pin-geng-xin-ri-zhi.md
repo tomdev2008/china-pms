@@ -227,7 +227,7 @@
 
 * 全部订单页面筛选逻辑优化：新增支付状态，日期类型筛选
 
-![](.gitbook/assets/image%20%28195%29.png)
+![](.gitbook/assets/image%20%28196%29.png)
 
 * 在住订单详情页面展示每日房价
 
@@ -235,7 +235,7 @@
 
 * 订单详情页支持跳转房单
 
-![](.gitbook/assets/image%20%28171%29.png)
+![](.gitbook/assets/image%20%28172%29.png)
 
 ### 修复
 

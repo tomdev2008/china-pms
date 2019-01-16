@@ -8,6 +8,7 @@
 * [界面介绍](jie-mian-jie-shao.md)
 * [OYO酒店系统使用规范](oyo-jiu-dian-xi-tong-shi-yong-gui-fan/README.md)
   * [酒店记录客人身份信息操作规范](oyo-jiu-dian-xi-tong-shi-yong-gui-fan/jiu-dian-ji-lu-ke-ren-shen-fen-xin-xi-cao-zuo-gui-fan.md)
+  * [客户政策及规则](oyo-jiu-dian-xi-tong-shi-yong-gui-fan/ke-hu-zheng-ce-ji-gui-ze.md)
 * [常见业务操作指引](chang-jian-ye-wu-cao-zuo-zhi-yin/README.md)
   * [入住](chang-jian-ye-wu-cao-zuo-zhi-yin/ru-zhu/README.md)
     * [上门客入住](chang-jian-ye-wu-cao-zuo-zhi-yin/ru-zhu/shang-men-ke-ru-zhu.md)
