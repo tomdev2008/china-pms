@@ -92,6 +92,7 @@
   * [页面显示问题](tai-tan-2.0-chang-jian-wen-ti/ye-mian-xian-shi-wen-ti.md)
   * [账号问题](tai-tan-2.0-chang-jian-wen-ti/zhang-hao-wen-ti.md)
   * [在线支付](tai-tan-2.0-chang-jian-wen-ti/zai-xian-zhi-fu.md)
+* [需要帮助](xu-yao-bang-zhu.md)
 * [Titan产品更新日志](tai-tan-chan-pin-geng-xin-ri-zhi.md)
 * [Titan功能更新计划](titan-gong-neng-geng-xin-ji-hua/README.md)
   * [夜审改造（三期）](titan-gong-neng-geng-xin-ji-hua/ye-shen-gai-zao-san-qi.md)
