@@ -6,15 +6,15 @@
 
 * 会员转化报表
 
-![](.gitbook/assets/image%20%28177%29.png)
+![](.gitbook/assets/image%20%28187%29.png)
 
 * 订单来源表
 
-![](.gitbook/assets/image%20%2821%29.png)
+![](.gitbook/assets/image%20%2822%29.png)
 
 * 挂账报表
 
-![](.gitbook/assets/image%20%28170%29.png)
+![](.gitbook/assets/image%20%28180%29.png)
 
 * 身份证数据脱敏
 
@@ -27,7 +27,7 @@
 * 申诉列表页面默认显示为查询日期
 * 夜审逻辑优化：客服操作时间拉长至10天，预付支持NoShow申诉，申诉成功与驳回文字提示变更，申诉超时与人工驳回区分显示
 
-![](.gitbook/assets/image%20%28247%29.png)
+![](.gitbook/assets/image%20%28260%29.png)
 
 * 长住房：房态图入住及新建订单入离范围开放至180天
 * 订单房价修改-续住和换房支持按日改价
@@ -58,15 +58,15 @@
 
 * 全部订单页面筛选逻辑优化：新增支付状态，日期类型筛选
 
-![](.gitbook/assets/image%20%28201%29.png)
+![](.gitbook/assets/image%20%28212%29.png)
 
 * 在住订单详情页面展示每日房价
 
-![](.gitbook/assets/image%20%2886%29.png)
+![](.gitbook/assets/image%20%2890%29.png)
 
 * 订单详情页支持跳转房单
 
-![](.gitbook/assets/image%20%28176%29.png)
+![](.gitbook/assets/image%20%28186%29.png)
 
 ### 修复
 
@@ -265,7 +265,7 @@
 * 订单日志新增会员折扣、优惠券选项、续房记录
 * 登陆页面新增公告
 
-![&#x767B;&#x9646;&#x9875;&#x9762;&#x516C;&#x544A;](.gitbook/assets/image%20%28128%29.png)
+![&#x767B;&#x9646;&#x9875;&#x9762;&#x516C;&#x544A;](.gitbook/assets/image%20%28136%29.png)
 
 ### 修复
 
