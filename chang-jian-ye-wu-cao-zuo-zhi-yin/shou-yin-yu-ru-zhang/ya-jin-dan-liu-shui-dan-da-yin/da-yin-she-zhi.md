@@ -19,5 +19,5 @@
 选择打印格式，并设置为默认  
 
 
-![&#x8BBE;&#x7F6E;&#x6253;&#x5370;&#x683C;&#x5F0F;](../../../.gitbook/assets/image%20%28141%29.png)
+![&#x8BBE;&#x7F6E;&#x6253;&#x5370;&#x683C;&#x5F0F;](../../../.gitbook/assets/image%20%28142%29.png)
 
