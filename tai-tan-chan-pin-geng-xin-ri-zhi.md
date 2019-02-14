@@ -1,12 +1,20 @@
 # Titan产品更新日志
 
+## v2.1.8-2019-02-14
+
+* 收银员交款明细表
+
+![](.gitbook/assets/image%20%28183%29.png)
+
+![](.gitbook/assets/image%20%2889%29.png)
+
 ## v2.1.7-2019-01-29
 
 ### 新增
 
 * 会员转化报表
 
-![](.gitbook/assets/image%20%28190%29.png)
+![](.gitbook/assets/image%20%28192%29.png)
 
 * 订单来源表
 
@@ -14,7 +22,7 @@
 
 * 挂账报表
 
-![](.gitbook/assets/image%20%28183%29.png)
+![](.gitbook/assets/image%20%28185%29.png)
 
 * 身份证数据脱敏
 
@@ -27,7 +35,7 @@
 * 申诉列表页面默认显示为查询日期
 * 夜审逻辑优化：客服操作时间拉长至10天，预付支持NoShow申诉，申诉成功与驳回文字提示变更，申诉超时与人工驳回区分显示
 
-![](.gitbook/assets/image%20%28266%29.png)
+![](.gitbook/assets/image%20%28268%29.png)
 
 * 长住房：房态图入住及新建订单入离范围开放至180天
 * 订单房价修改-续住和换房支持按日改价
@@ -58,15 +66,15 @@
 
 * 全部订单页面筛选逻辑优化：新增支付状态，日期类型筛选
 
-![](.gitbook/assets/image%20%28215%29.png)
+![](.gitbook/assets/image%20%28217%29.png)
 
 * 在住订单详情页面展示每日房价
 
-![](.gitbook/assets/image%20%2890%29.png)
+![](.gitbook/assets/image%20%2891%29.png)
 
 * 订单详情页支持跳转房单
 
-![](.gitbook/assets/image%20%28189%29.png)
+![](.gitbook/assets/image%20%28191%29.png)
 
 ### 修复
 
@@ -265,7 +273,7 @@
 * 订单日志新增会员折扣、优惠券选项、续房记录
 * 登陆页面新增公告
 
-![&#x767B;&#x9646;&#x9875;&#x9762;&#x516C;&#x544A;](.gitbook/assets/image%20%28138%29.png)
+![&#x767B;&#x9646;&#x9875;&#x9762;&#x516C;&#x544A;](.gitbook/assets/image%20%28139%29.png)
 
 ### 修复
 
