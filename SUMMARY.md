@@ -62,7 +62,7 @@
     * [交班历史清单](chang-jian-ye-wu-cao-zuo-zhi-yin/jiao-jie-ban/jiao-ban-li-shi-qing-dan.md)
   * [静态信息编辑](chang-jian-ye-wu-cao-zuo-zhi-yin/jing-tai-xin-xi-bian-ji.md)
   * [账号管理](chang-jian-ye-wu-cao-zuo-zhi-yin/untitled/README.md)
-    * [RGM/CGM/D-CGM篇](chang-jian-ye-wu-cao-zuo-zhi-yin/untitled/rgmcgmdcgm-pian.md)
+    * [CGM/D-CGM篇](chang-jian-ye-wu-cao-zuo-zhi-yin/untitled/rgmcgmdcgm-pian.md)
     * [CH篇](chang-jian-ye-wu-cao-zuo-zhi-yin/untitled/oph-pian.md)
     * [OP篇](chang-jian-ye-wu-cao-zuo-zhi-yin/untitled/agm-pian.md)
     * [酒店篇](chang-jian-ye-wu-cao-zuo-zhi-yin/untitled/jiu-dian-pian.md)
