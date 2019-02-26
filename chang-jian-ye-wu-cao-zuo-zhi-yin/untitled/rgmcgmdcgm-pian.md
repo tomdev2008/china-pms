@@ -10,29 +10,29 @@ RGM /CGM/D-CGM主要负责其下属的酒店与员工关联。
 
 可使用手机验证码的形式登陆，如下图所示：
 
-![&#x901A;&#x8FC7;&#x624B;&#x673A;&#x53F7;&#x6536;&#x5230;&#x7684;&#x9A8C;&#x8BC1;&#x7801;&#x8FDB;&#x884C;&#x767B;&#x9646;](../../.gitbook/assets/image%20%28254%29.png)
+![&#x901A;&#x8FC7;&#x624B;&#x673A;&#x53F7;&#x6536;&#x5230;&#x7684;&#x9A8C;&#x8BC1;&#x7801;&#x8FDB;&#x884C;&#x767B;&#x9646;](../../.gitbook/assets/image%20%28259%29.png)
 
 进入后，点击【用户管理】，进入用户管理界面。
 
 点击【用户姓名】或【手机号】，搜索需要批量解绑的用户，比如搜索 姚明 
 
-![&#x641C;&#x7D22;&#x7528;&#x6237;&#x59D3;&#x540D;](../../.gitbook/assets/image%20%28142%29.png)
+![&#x641C;&#x7D22;&#x7528;&#x6237;&#x59D3;&#x540D;](../../.gitbook/assets/image%20%28144%29.png)
 
 如所搜索用户无姓名，可邮件至epicenter &lt;epicenter.china@oyorooms.com&gt; 查询确认原因。
 
 如可搜到需要解绑的用户，则点击【编辑】。
 
-![&#x70B9;&#x51FB;&#x7F16;&#x8F91;](../../.gitbook/assets/image%20%28179%29.png)
+![&#x70B9;&#x51FB;&#x7F16;&#x8F91;](../../.gitbook/assets/image%20%28182%29.png)
 
 点击后，可通过点击【全部删除】批量解绑员工与酒店关系。
 
-![](../../.gitbook/assets/image%20%28299%29.png)
+![](../../.gitbook/assets/image%20%28305%29.png)
 
 ## 批量绑定
 
 可以通过【用户管理】-【批量新增】按钮，对已经解绑的CH/D-CGM/CGM进行批量绑定。
 
-![](../../.gitbook/assets/image%20%28131%29.png)
+![](../../.gitbook/assets/image%20%28133%29.png)
 
 进行该操作之前，可通过excel收集信息，表头如下：
 
@@ -42,7 +42,7 @@ RGM /CGM/D-CGM主要负责其下属的酒店与员工关联。
 
 填写完成后，在【批量新增】界面下，点击【下载模板】。
 
-![](../../.gitbook/assets/image%20%28242%29.png)
+![](../../.gitbook/assets/image%20%28247%29.png)
 
 把以上收集的表的信息填写到模板后，点击上传表格即可完成批量关联。
 
@@ -50,7 +50,7 @@ RGM /CGM/D-CGM主要负责其下属的酒店与员工关联。
 
 ### 关联CH，为什么会提示我岗位名称不正确？
 
-![&#x7CFB;&#x7EDF;&#x63D0;&#x793A;&#x5C97;&#x4F4D;&#x540D;&#x79F0;&#x4E0D;&#x6B63;&#x786E;](../../.gitbook/assets/image%20%28217%29.png)
+![&#x7CFB;&#x7EDF;&#x63D0;&#x793A;&#x5C97;&#x4F4D;&#x540D;&#x79F0;&#x4E0D;&#x6B63;&#x786E;](../../.gitbook/assets/image%20%28222%29.png)
 
 CH在【岗位名称】列，需要填写为 OPSH。
 
@@ -72,11 +72,11 @@ CH在【岗位名称】列，需要填写为 OPSH。
 
 点击【用户管理】，找到需要编辑的CH后，点击【新增】
 
-![](../../.gitbook/assets/image%20%2896%29.png)
+![](../../.gitbook/assets/image%20%2898%29.png)
 
 在弹出来的窗口中，输入唯一识别码，比如 82559
 
-![](../../.gitbook/assets/image%20%28134%29.png)
+![](../../.gitbook/assets/image%20%28136%29.png)
 
 当最后出现个别因名称不一致带来的无法批量新增时，可以单独通过以上截图操作，个别关联。
 
