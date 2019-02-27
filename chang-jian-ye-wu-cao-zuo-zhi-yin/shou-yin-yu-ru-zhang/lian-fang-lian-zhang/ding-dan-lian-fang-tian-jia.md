@@ -6,5 +6,5 @@ description: 如存在一张订单多间房，需要一起结算时，可通过�
 
 注：只有同一订单可以联房，暂时不支持跨订单联房
 
-![](../../../.gitbook/assets/image%20%28156%29.png)
+![](../../../.gitbook/assets/image%20%28157%29.png)
 

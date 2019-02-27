@@ -6,5 +6,5 @@
 
 可以通过点击房态图变更脏房净房。
 
-![&#x70B9;&#x51FB;&#x810F;&#x623F;&#xFF0C;&#x53EF;&#x7F16;&#x8F91;&#x53D8;&#x4E3A;&#x5E72;&#x51C0;&#x623F;](../../.gitbook/assets/image%20%28153%29.png)
+![&#x70B9;&#x51FB;&#x810F;&#x623F;&#xFF0C;&#x53EF;&#x7F16;&#x8F91;&#x53D8;&#x4E3A;&#x5E72;&#x51C0;&#x623F;](../../.gitbook/assets/image%20%28154%29.png)
 

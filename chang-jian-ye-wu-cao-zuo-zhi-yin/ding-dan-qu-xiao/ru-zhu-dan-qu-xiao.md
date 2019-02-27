@@ -17,7 +17,7 @@ description: 在住状态下订单，不支持取消订单
 进行退款操作  
 
 
-![&#x786E;&#x8BA4;&#x9000;&#x6B3E;&#x91D1;&#x989D;](../../.gitbook/assets/image%20%28149%29.png)
+![&#x786E;&#x8BA4;&#x9000;&#x6B3E;&#x91D1;&#x989D;](../../.gitbook/assets/image%20%28150%29.png)
 
 确认确认离店即完成
 

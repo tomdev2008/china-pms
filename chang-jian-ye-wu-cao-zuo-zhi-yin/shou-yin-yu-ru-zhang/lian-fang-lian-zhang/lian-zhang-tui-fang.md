@@ -10,7 +10,7 @@ description: 将联房合并结算，并办理离店退房
 
 * 选择合并结算
 
-![](../../../.gitbook/assets/image%20%28188%29.png)
+![](../../../.gitbook/assets/image%20%28189%29.png)
 
 * 合并结算后，账单转移显示
 

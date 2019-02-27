@@ -11,7 +11,7 @@
 
 * 联系申请签署在线支付补充协议《OYO自有平台补充协议》，AGM钉钉提交审批（流程如下图），审批后开通速度：2个工作日左右。
 
-![](../.gitbook/assets/image%20%28172%29.png)
+![](../.gitbook/assets/image%20%28173%29.png)
 
 ## **开通在线支付需要业主额外付费吗？**
 
@@ -67,9 +67,9 @@
 
 ![](../.gitbook/assets/image%20%2862%29.png)
 
-![](../.gitbook/assets/image%20%28286%29.png)
+![](../.gitbook/assets/image%20%28288%29.png)
 
-![](../.gitbook/assets/image%20%28296%29.png)
+![](../.gitbook/assets/image%20%28298%29.png)
 
 ![](../.gitbook/assets/image%20%2848%29.png)
 
@@ -83,7 +83,7 @@
 
 **详见以下流程图：**
 
-![](../.gitbook/assets/image%20%28158%29.png)
+![](../.gitbook/assets/image%20%28159%29.png)
 
 \*\*\*\*
 

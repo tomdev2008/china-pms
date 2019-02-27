@@ -12,7 +12,7 @@
 * [常见业务操作指引](chang-jian-ye-wu-cao-zuo-zhi-yin/README.md)
   * [入住](chang-jian-ye-wu-cao-zuo-zhi-yin/ru-zhu/README.md)
     * [上门客入住](chang-jian-ye-wu-cao-zuo-zhi-yin/ru-zhu/shang-men-ke-ru-zhu.md)
-    * [订单提醒](chang-jian-ye-wu-cao-zuo-zhi-yin/ru-zhu/ding-dan-ti-xing.md)
+    * [订单提醒与订单查询](chang-jian-ye-wu-cao-zuo-zhi-yin/ru-zhu/ding-dan-ti-xing.md)
     * [网络客入住](chang-jian-ye-wu-cao-zuo-zhi-yin/ru-zhu/wang-luo-ke-ru-zhu.md)
     * [换房](chang-jian-ye-wu-cao-zuo-zhi-yin/ru-zhu/huan-fang.md)
     * [今日预抵预排房](chang-jian-ye-wu-cao-zuo-zhi-yin/ru-zhu/jin-ri-yu-di-yu-pai-fang.md)
