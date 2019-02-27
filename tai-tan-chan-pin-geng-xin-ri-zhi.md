@@ -9,11 +9,11 @@
   * 订单展示MM渠道协议单位名称（图2）
   * 全部订单查询页面展示MM渠道协议单位名称（图3）
 
-![&#x56FE;1](.gitbook/assets/image%20%2836%29.png)
+![&#x56FE;1](.gitbook/assets/image%20%2837%29.png)
 
-![&#x56FE;2](.gitbook/assets/image%20%28309%29.png)
+![&#x56FE;2](.gitbook/assets/image%20%28313%29.png)
 
-![&#x56FE;3](.gitbook/assets/image%20%2826%29.png)
+![&#x56FE;3](.gitbook/assets/image%20%2827%29.png)
 
 ## v2.1.8-2019-02-14
 
@@ -21,9 +21,9 @@
 
 * 收银员交款明细表
 
-![](.gitbook/assets/image%20%28200%29.png)
+![](.gitbook/assets/image%20%28204%29.png)
 
-![](.gitbook/assets/image%20%2896%29.png)
+![](.gitbook/assets/image%20%2898%29.png)
 
 ## v2.1.7-2019-01-29
 
@@ -31,19 +31,19 @@
 
 * 会员转化报表
 
-![](.gitbook/assets/image%20%28209%29.png)
+![](.gitbook/assets/image%20%28213%29.png)
 
 * 订单来源表
 
-![](.gitbook/assets/image%20%2823%29.png)
+![](.gitbook/assets/image%20%2824%29.png)
 
 * 挂账报表
 
-![](.gitbook/assets/image%20%28202%29.png)
+![](.gitbook/assets/image%20%28206%29.png)
 
 * 身份证数据脱敏
 
-![](.gitbook/assets/image%20%2819%29.png)
+![](.gitbook/assets/image%20%2820%29.png)
 
 * 酒店图片管理一期：TR审核优化，图片文件大小开放至0~15MB
 
@@ -52,7 +52,7 @@
 * 申诉列表页面默认显示为查询日期
 * 夜审逻辑优化：客服操作时间拉长至10天，预付支持NoShow申诉，申诉成功与驳回文字提示变更，申诉超时与人工驳回区分显示
 
-![](.gitbook/assets/image%20%28288%29.png)
+![](.gitbook/assets/image%20%28292%29.png)
 
 * 长住房：房态图入住及新建订单入离范围开放至180天
 * 订单房价修改-续住和换房支持按日改价
@@ -83,15 +83,15 @@
 
 * 全部订单页面筛选逻辑优化：新增支付状态，日期类型筛选
 
-![](.gitbook/assets/image%20%28236%29.png)
+![](.gitbook/assets/image%20%28240%29.png)
 
 * 在住订单详情页面展示每日房价
 
-![](.gitbook/assets/image%20%2898%29.png)
+![](.gitbook/assets/image%20%28100%29.png)
 
 * 订单详情页支持跳转房单
 
-![](.gitbook/assets/image%20%28208%29.png)
+![](.gitbook/assets/image%20%28212%29.png)
 
 ### 修复
 
@@ -290,7 +290,7 @@
 * 订单日志新增会员折扣、优惠券选项、续房记录
 * 登陆页面新增公告
 
-![&#x767B;&#x9646;&#x9875;&#x9762;&#x516C;&#x544A;](.gitbook/assets/image%20%28150%29.png)
+![&#x767B;&#x9646;&#x9875;&#x9762;&#x516C;&#x544A;](.gitbook/assets/image%20%28153%29.png)
 
 ### 修复
 
