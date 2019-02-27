@@ -6,5 +6,5 @@ description: 同一个订单的主房与从房可以相互切换
 
 注：主房是用于结算的房间，从房是被转入的房间
 
-![](../../../.gitbook/assets/image%20%28287%29.png)
+![](../../../.gitbook/assets/image%20%28288%29.png)
 
