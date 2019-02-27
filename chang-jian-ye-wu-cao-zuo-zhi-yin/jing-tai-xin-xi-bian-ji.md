@@ -10,7 +10,7 @@
 
 可通过钉钉审批时限。
 
-![](../.gitbook/assets/image%20%28116%29.png)
+![](../.gitbook/assets/image%20%28120%29.png)
 
 如有其他静态信息需调整，可钉钉联系 迮春杰 &lt;jay.ze@oyohotels.cn&gt;
 
