@@ -12,11 +12,11 @@
 
 总览
 
-![](../../../.gitbook/assets/image%20%28156%29.png)
+![](../../../.gitbook/assets/image%20%28158%29.png)
 
 查询明细：排序规则：房间号从小到大排序（第一排序），入住日期倒序（第二排序），支持导出成excel报表
 
-![](../../../.gitbook/assets/image%20%28150%29.png)
+![](../../../.gitbook/assets/image%20%28152%29.png)
 
 
 

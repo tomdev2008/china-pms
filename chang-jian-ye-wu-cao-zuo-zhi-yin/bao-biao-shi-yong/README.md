@@ -20,5 +20,5 @@
 * 会员报表
 * HMI报表
 
-![](../../.gitbook/assets/image%20%28332%29.png)
+![](../../.gitbook/assets/image%20%28338%29.png)
 
