@@ -4,13 +4,13 @@
 
 * 联房生成应收
 
-![](../../../.gitbook/assets/image%20%2831%29.png)
+![](../../../.gitbook/assets/image%20%2832%29.png)
 
 * 选择合并结算
 
-![](../../../.gitbook/assets/image%20%28203%29.png)
+![](../../../.gitbook/assets/image%20%28216%29.png)
 
 * 合并结算后，账单转移显示
 
-![](../../../.gitbook/assets/image%20%289%29.png)
+![](../../../.gitbook/assets/image%20%2810%29.png)
 

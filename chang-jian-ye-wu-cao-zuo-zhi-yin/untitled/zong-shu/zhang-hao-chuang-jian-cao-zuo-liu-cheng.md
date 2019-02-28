@@ -2,7 +2,7 @@
 
 OYO员工入职或账号创建遗漏，可按照以下流程申请账号：
 
-![](../../../.gitbook/assets/image%20%2873%29.png)
+![](../../../.gitbook/assets/image%20%2878%29.png)
 
    
 

@@ -6,14 +6,14 @@
 
 在房态图找到需要离店的客人的房间，点击后点击在住详情。
 
-![&#x5355;&#x51FB;&#x9700;&#x8981;&#x79BB;&#x5E97;&#x7684;&#x5BA2;&#x4EBA;&#x7684;&#x623F;&#x95F4;&#xFF0C;&#x70B9;&#x51FB;&#x5F39;&#x7A97;&#x4E2D;&#x7684;&#x8D26;&#x52A1;/&#x79BB;&#x5E97;](../../.gitbook/assets/image%20%28112%29.png)
+![&#x5355;&#x51FB;&#x9700;&#x8981;&#x79BB;&#x5E97;&#x7684;&#x5BA2;&#x4EBA;&#x7684;&#x623F;&#x95F4;&#xFF0C;&#x70B9;&#x51FB;&#x5F39;&#x7A97;&#x4E2D;&#x7684;&#x8D26;&#x52A1;/&#x79BB;&#x5E97;](../../.gitbook/assets/image%20%28119%29.png)
 
   
 点击结账退房，结清账目即可离店。
 
-![&#x70B9;&#x51FB;&#x786E;&#x8BA4;&#x7ED3;&#x8D26;&#xFF0C;&#x5373;&#x53EF;&#x5B8C;&#x6210;&#x9000;&#x623F;](../../.gitbook/assets/image%20%2812%29.png)
+![&#x70B9;&#x51FB;&#x786E;&#x8BA4;&#x7ED3;&#x8D26;&#xFF0C;&#x5373;&#x53EF;&#x5B8C;&#x6210;&#x9000;&#x623F;](../../.gitbook/assets/image%20%2813%29.png)
 
 提示结账成功。
 
-![&#x63D0;&#x793A;&#x7ED3;&#x8D26;&#x6210;&#x529F;](../../.gitbook/assets/image%20%28120%29.png)
+![&#x63D0;&#x793A;&#x7ED3;&#x8D26;&#x6210;&#x529F;](../../.gitbook/assets/image%20%28129%29.png)
 
