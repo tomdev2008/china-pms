@@ -38,6 +38,7 @@
       * [关键功能点](chang-jian-ye-wu-cao-zuo-zhi-yin/fang-tai-guan-li/wei-xiu-fang/guan-jian-gong-neng-dian.md)
       * [设置位维修房](chang-jian-ye-wu-cao-zuo-zhi-yin/fang-tai-guan-li/wei-xiu-fang/she-zhi-wei-wei-xiu-fang.md)
   * [收银管理](chang-jian-ye-wu-cao-zuo-zhi-yin/shou-yin-yu-ru-zhang/README.md)
+    * [冲调账功能介绍](chang-jian-ye-wu-cao-zuo-zhi-yin/shou-yin-yu-ru-zhang/chong-tiao-zhang-gong-neng-jie-shao.md)
     * [应收账实收账](chang-jian-ye-wu-cao-zuo-zhi-yin/shou-yin-yu-ru-zhang/ying-shou-zhang-shi-shou-zhang.md)
     * [应收账](chang-jian-ye-wu-cao-zuo-zhi-yin/shou-yin-yu-ru-zhang/ji-zhang/README.md)
       * [房费记账](chang-jian-ye-wu-cao-zuo-zhi-yin/shou-yin-yu-ru-zhang/ji-zhang/fang-fei-ji-zhang.md)
