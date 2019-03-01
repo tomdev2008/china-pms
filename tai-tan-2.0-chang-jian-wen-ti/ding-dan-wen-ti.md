@@ -37,7 +37,7 @@ NoShow如果现付，入住次日12:00之前是可以办入住的；
 
 如出现OTA的后台订单状态与PMS不一致，可联系OP，并告知其状态不一致的OTA订单号，由OP协助登陆CRS查询。
 
-AGM可通过 [https://crsx.oyohotels.cn](https://crsx.oyohotels.cn) 登陆CRS，通过订单列表-渠道订单号查询对应订单状态信息。
+OP可通过 [https://crsx.oyohotels.cn](https://crsx.oyohotels.cn) 登陆CRS，通过订单列表-渠道订单号查询对应订单状态信息。
 
 ![&#x5B99;&#x65AF;&#x8BA2;&#x5355;&#x72B6;&#x6001;&#x67E5;&#x8BE2;&#x9875;&#x9762;](../.gitbook/assets/image%20%28139%29.png)
 
