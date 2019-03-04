@@ -24,3 +24,5 @@
 
 ![&#x70B9;&#x51FB;&#x6253;&#x626B;&#x5B8C;&#x6210;&#xFF0C;&#x5728;&#x4F4F;&#x810F;&#x623F;&#x53D8;&#x4E3A;&#x5728;&#x4F4F;&#x51C0;&#x623F;](../../.gitbook/assets/image%20%28346%29.png)
 
+#### 脏房净房相关操作视频：[点击查看](http://v.qq.com/x/page/f0844dhna3w.html)
+
