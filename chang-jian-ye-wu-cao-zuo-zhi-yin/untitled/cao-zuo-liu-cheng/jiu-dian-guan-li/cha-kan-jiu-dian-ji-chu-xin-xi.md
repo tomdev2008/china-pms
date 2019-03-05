@@ -2,7 +2,7 @@
 
 找到相应的酒店，点击查看即可
 
-![](../../../../.gitbook/assets/image%20%2853%29.png)
+![](../../../../.gitbook/assets/image%20%2855%29.png)
 
 
 
