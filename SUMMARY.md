@@ -3,7 +3,7 @@
 * [Titan v2.1使用帮助](README.md)
 * [Titan使用前设置](tai-tan-2.0-shi-yong-qian-she-zhi/README.md)
   * [电脑领用申请流程](tai-tan-2.0-shi-yong-qian-she-zhi/dian-nao-ling-yong-shen-qing-liu-cheng.md)
-  * [v1.0转v2.0身份证读卡器配置教程](tai-tan-2.0-shi-yong-qian-she-zhi/v1.0-zhuan-v2.0-shen-fen-zheng-du-ka-qi-pei-zhi-jiao-cheng.md)
+  * [v2.0身份证读卡器安装配置教程](tai-tan-2.0-shi-yong-qian-she-zhi/v1.0-zhuan-v2.0-shen-fen-zheng-du-ka-qi-pei-zhi-jiao-cheng.md)
 * [Titan应用下载](titan-ying-yong-xia-zai.md)
 * [界面介绍](jie-mian-jie-shao.md)
 * [OYO酒店系统使用规范](oyo-jiu-dian-xi-tong-shi-yong-gui-fan/README.md)
