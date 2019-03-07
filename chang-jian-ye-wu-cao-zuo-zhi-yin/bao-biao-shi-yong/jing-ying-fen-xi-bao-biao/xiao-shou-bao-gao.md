@@ -13,5 +13,5 @@
 
 点击报表管理→营收分析
 
-![](../../../.gitbook/assets/image%20%28211%29.png)
+![](../../../.gitbook/assets/image%20%28214%29.png)
 

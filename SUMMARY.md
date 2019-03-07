@@ -65,6 +65,7 @@
     * [设置交班初始金额](chang-jian-ye-wu-cao-zuo-zhi-yin/jiao-jie-ban/jiao-jie-ban-chu-shi-hua.md)
     * [进行交班](chang-jian-ye-wu-cao-zuo-zhi-yin/jiao-jie-ban/jin-hang-jiao-ban.md)
     * [交班历史清单](chang-jian-ye-wu-cao-zuo-zhi-yin/jiao-jie-ban/jiao-ban-li-shi-qing-dan.md)
+  * [查看操作日志](chang-jian-ye-wu-cao-zuo-zhi-yin/cao-zuo-ri-zhi.md)
   * [静态信息编辑](chang-jian-ye-wu-cao-zuo-zhi-yin/jing-tai-xin-xi-bian-ji.md)
   * [宙斯系统相关指引](chang-jian-ye-wu-cao-zuo-zhi-yin/untitled/README.md)
     * [权限模块](chang-jian-ye-wu-cao-zuo-zhi-yin/untitled/quan-xian-mo-kuai/README.md)

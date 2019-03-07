@@ -13,7 +13,7 @@ RGM /CGM/D-CGM主要负责其下属的酒店与员工关联。
 
 ### 关联CH，为什么会提示我岗位名称不正确？
 
-![&#x7CFB;&#x7EDF;&#x63D0;&#x793A;&#x5C97;&#x4F4D;&#x540D;&#x79F0;&#x4E0D;&#x6B63;&#x786E;](../../../.gitbook/assets/image%20%28262%29.png)
+![&#x7CFB;&#x7EDF;&#x63D0;&#x793A;&#x5C97;&#x4F4D;&#x540D;&#x79F0;&#x4E0D;&#x6B63;&#x786E;](../../../.gitbook/assets/image%20%28266%29.png)
 
 CH在【岗位名称】列，需要填写为 CH。
 

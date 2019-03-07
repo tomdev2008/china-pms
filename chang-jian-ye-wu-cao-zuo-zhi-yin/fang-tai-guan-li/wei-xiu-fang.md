@@ -9,5 +9,5 @@
 
 * 目前维修房的设置权限开放到CH级别，OP、CP、酒店前台、酒店经理无法在房态图设置维修房（提示联系OP,OP联系CH即可）
 
-![](../../.gitbook/assets/image%20%2891%29.png)
+![](../../.gitbook/assets/image%20%2892%29.png)
 

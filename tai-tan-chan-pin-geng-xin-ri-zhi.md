@@ -12,17 +12,17 @@
 
 * 房态图联房标记（图1）： 可查看到哪间房间存在联房
 
-![](.gitbook/assets/image%20%28229%29.png)
+![](.gitbook/assets/image%20%28233%29.png)
 
 * 订单联房添加（如图2）：如存在一张订单多间房，需要一起结算时，可通过【在住详情】页面，单击下拉菜单，添加联房
 
 注：只有同一个订单的房间支持联房，目前不支持跨订单联房
 
-![](.gitbook/assets/image%20%2851%29.png)
+![](.gitbook/assets/image%20%2852%29.png)
 
 * 设置主从房：主房从房可以相互切换，主房是用于结算 房间，从房是被转入的房间。
 
-![](.gitbook/assets/image%20%2853%29.png)
+![](.gitbook/assets/image%20%2854%29.png)
 
 * 联账退房：将联房合并结算，并办理离店退房
 
@@ -30,11 +30,11 @@
 2. 选择合并结算
 3. 合并结算后，账单转移显示
 
-![](.gitbook/assets/image%20%28220%29.png)
+![](.gitbook/assets/image%20%28223%29.png)
 
-![](.gitbook/assets/image%20%28198%29.png)
+![](.gitbook/assets/image%20%28201%29.png)
 
-![](.gitbook/assets/image%20%28348%29.png)
+![](.gitbook/assets/image%20%28355%29.png)
 
 ### 优化
 
@@ -46,37 +46,37 @@
 
 #### 酒店账务对账表优化：增加导出功能，增加离店日期展示等）
 
-![](.gitbook/assets/image%20%28312%29.png)
+![](.gitbook/assets/image%20%28319%29.png)
 
-![](.gitbook/assets/image%20%2838%29.png)
+![](.gitbook/assets/image%20%2839%29.png)
 
 #### 应收房费科目和提醒调整
 
 该功能上线后，“入账”环节的“手动录入房费选项”已经取消，房费自动生成（上线前如图1，上线后如图2），降低酒店错误操作概率。
 
-![](.gitbook/assets/image%20%28264%29.png)
+![](.gitbook/assets/image%20%28268%29.png)
 
-![](.gitbook/assets/image%20%28253%29.png)
+![](.gitbook/assets/image%20%28257%29.png)
 
 #### 订单字段补全（客源结构、联系人、联系人电话）目前订单中联系人等字段未存，
 
 该功能上线后可以存储这些字段（如图）
 
-![](.gitbook/assets/image%20%28285%29.png)
+![](.gitbook/assets/image%20%28291%29.png)
 
 ### 营收分析&营收报表展示优化
 
 该功能上线后，业主可以更直观通过图表形式，查看收入、平均房价，间夜数等经营数据，可以选择时间跨度查看经营趋势，新增查询时间段的数据汇总。
 
-![](.gitbook/assets/image%20%28126%29.png)
+![](.gitbook/assets/image%20%28127%29.png)
 
-![](.gitbook/assets/image%20%28279%29.png)
+![](.gitbook/assets/image%20%28285%29.png)
 
 #### CRS新增酒店信息增加品牌字段
 
 为所有酒店增加一个品牌线字段（如图），现存酒店统一用smart。随着阿波罗上线，匹配三个品牌线（轻享、智享、尊享）
 
-![](.gitbook/assets/image%20%28293%29.png)
+![](.gitbook/assets/image%20%28300%29.png)
 
 #### 在线客服调整至私有云
 
@@ -91,11 +91,11 @@
   * 订单展示MM渠道协议单位名称（图2）
   * 全部订单查询页面展示MM渠道协议单位名称（图3）
 
-![&#x56FE;1](.gitbook/assets/image%20%2840%29.png)
+![&#x56FE;1](.gitbook/assets/image%20%2841%29.png)
 
-![&#x56FE;2](.gitbook/assets/image%20%28354%29.png)
+![&#x56FE;2](.gitbook/assets/image%20%28361%29.png)
 
-![&#x56FE;3](.gitbook/assets/image%20%2828%29.png)
+![&#x56FE;3](.gitbook/assets/image%20%2829%29.png)
 
 ## v2.1.8-2019-02-14
 
@@ -103,9 +103,9 @@
 
 * 收银员交款明细表
 
-![](.gitbook/assets/image%20%28227%29.png)
+![](.gitbook/assets/image%20%28230%29.png)
 
-![](.gitbook/assets/image%20%28110%29.png)
+![](.gitbook/assets/image%20%28111%29.png)
 
 ## v2.1.7-2019-01-29
 
@@ -113,19 +113,19 @@
 
 * 会员转化报表
 
-![](.gitbook/assets/image%20%28239%29.png)
+![](.gitbook/assets/image%20%28243%29.png)
 
 * 订单来源表
 
-![](.gitbook/assets/image%20%2825%29.png)
+![](.gitbook/assets/image%20%2826%29.png)
 
 * 挂账报表
 
-![](.gitbook/assets/image%20%28230%29.png)
+![](.gitbook/assets/image%20%28234%29.png)
 
 * 身份证数据脱敏
 
-![](.gitbook/assets/image%20%2821%29.png)
+![](.gitbook/assets/image%20%2822%29.png)
 
 * 酒店图片管理一期：TR审核优化，图片文件大小开放至0~15MB
 
@@ -134,7 +134,7 @@
 * 申诉列表页面默认显示为查询日期
 * 夜审逻辑优化：客服操作时间拉长至10天，预付支持NoShow申诉，申诉成功与驳回文字提示变更，申诉超时与人工驳回区分显示
 
-![](.gitbook/assets/image%20%28331%29.png)
+![](.gitbook/assets/image%20%28338%29.png)
 
 * 长住房：房态图入住及新建订单入离范围开放至180天
 * 订单房价修改-续住和换房支持按日改价
@@ -165,15 +165,15 @@
 
 * 全部订单页面筛选逻辑优化：新增支付状态，日期类型筛选
 
-![](.gitbook/assets/image%20%28270%29.png)
+![](.gitbook/assets/image%20%28274%29.png)
 
 * 在住订单详情页面展示每日房价
 
-![](.gitbook/assets/image%20%28112%29.png)
+![](.gitbook/assets/image%20%28113%29.png)
 
 * 订单详情页支持跳转房单
 
-![](.gitbook/assets/image%20%28238%29.png)
+![](.gitbook/assets/image%20%28242%29.png)
 
 ### 修复
 
@@ -372,7 +372,7 @@
 * 订单日志新增会员折扣、优惠券选项、续房记录
 * 登陆页面新增公告
 
-![&#x767B;&#x9646;&#x9875;&#x9762;&#x516C;&#x544A;](.gitbook/assets/image%20%28172%29.png)
+![&#x767B;&#x9646;&#x9875;&#x9762;&#x516C;&#x544A;](.gitbook/assets/image%20%28175%29.png)
 
 ### 修复
 
