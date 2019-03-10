@@ -1,20 +1,20 @@
 # 换房
 
-换房是指为在住客人更换房间。（[点击查看操作视频](http://v.qq.com/x/page/z0844tqpqa9.html)）
+换房是指为在住客人更换房间。[（点击查看操作视频，视频包含换房及续住）](http://crs-pms-vidio.oss-cn-beijing.aliyuncs.com/%E6%8D%A2%E6%88%BF%26%E7%BB%AD%E4%BD%8F.mp4)
 
 ## 免费换房
 
 在房态图找到在住房间，点击“在住详情”
 
-![](../../.gitbook/assets/image%20%28194%29.png)
+![](../../.gitbook/assets/image%20%28199%29.png)
 
 点击“换房”--默认免费换房
 
-![](../../.gitbook/assets/image%20%2875%29.png)
+![](../../.gitbook/assets/image%20%2877%29.png)
 
 选择更换的房间，选择换房原因，确认换房
 
-![](../../.gitbook/assets/image%20%2850%29.png)
+![](../../.gitbook/assets/image%20%2852%29.png)
 
 ## 改价换房
 
@@ -22,5 +22,5 @@
 
 注：修改首日房价后，后续日期的价格会自动变为与首日房价一致；可逐一修改每日房价
 
-![](../../.gitbook/assets/image%20%2873%29.png)
+![](../../.gitbook/assets/image%20%2875%29.png)
 

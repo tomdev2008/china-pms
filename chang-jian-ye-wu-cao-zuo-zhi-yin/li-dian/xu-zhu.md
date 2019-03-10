@@ -1,16 +1,16 @@
 # 续住
 
-续住是指在住客人改变行程，延长住店时间。（[点击查看操作视频](http://v.qq.com/x/page/z0844tqpqa9.html)）
+续住是指在住客人改变行程，延长住店时间。（[点击查看操作视频](http://crs-pms-vidio.oss-cn-beijing.aliyuncs.com/%E6%8D%A2%E6%88%BF%26%E7%BB%AD%E4%BD%8F.mp4)）
 
 ### 原价续住
 
 在房态图找到在住房间，可点击办理续住
 
-![&#x70B9;&#x51FB;&#x529E;&#x7406;&#x7EED;&#x4F4F;](../../.gitbook/assets/image%20%28350%29.png)
+![&#x70B9;&#x51FB;&#x529E;&#x7406;&#x7EED;&#x4F4F;](../../.gitbook/assets/image%20%28367%29.png)
 
 系统默认原价续住
 
-![&#x9009;&#x62E9;&#x7EED;&#x4F4F;&#x65F6;&#x95F4;&#xFF0C;&#x70B9;&#x51FB;&#x786E;&#x5B9A;&#x7EED;&#x4F4F;&#x5373;&#x53EF;](../../.gitbook/assets/image%20%28165%29.png)
+![&#x9009;&#x62E9;&#x7EED;&#x4F4F;&#x65F6;&#x95F4;&#xFF0C;&#x70B9;&#x51FB;&#x786E;&#x5B9A;&#x7EED;&#x4F4F;&#x5373;&#x53EF;](../../.gitbook/assets/image%20%28168%29.png)
 
 ### 改价续住
 
@@ -18,11 +18,11 @@
 
 注：修改首日房价后，后续日期的价格会自动变为与首日房价一致
 
-![](../../.gitbook/assets/image%20%28119%29.png)
+![](../../.gitbook/assets/image%20%28121%29.png)
 
 若每日房价不同，需要逐一修改
 
-![](../../.gitbook/assets/image%20%28171%29.png)
+![](../../.gitbook/assets/image%20%28174%29.png)
 
 ### OTA续住
 
@@ -30,7 +30,7 @@
 
 OTA续住目前是使用新建散客单的形式实现，在房态图点击续住，出现OTA续住提示。
 
-![OTA&#x7EED;&#x4F4F;](../../.gitbook/assets/image%20%2898%29.png)
+![OTA&#x7EED;&#x4F4F;](../../.gitbook/assets/image%20%28100%29.png)
 
 点击确认续住，系统自动生成续住订单，出现在全部订单的订单列表中
 

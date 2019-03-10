@@ -8,5 +8,7 @@
 
  导出样式
 
-![](../../../.gitbook/assets/image%20%28106%29.png)
+![](../../../.gitbook/assets/image%20%28108%29.png)
+
+#### 注：该报表未包含OTA挂账数据
 
