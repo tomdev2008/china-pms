@@ -4,7 +4,7 @@
 
 报表页面展示每个时间段的总览，点击查看明细，会展示明细信息
 
-![](../../../.gitbook/assets/image%20%28249%29.png)
+![](../../../.gitbook/assets/image%20%28256%29.png)
 
-![](../../../.gitbook/assets/image%20%28319%29.png)
+![](../../../.gitbook/assets/image%20%28328%29.png)
 
