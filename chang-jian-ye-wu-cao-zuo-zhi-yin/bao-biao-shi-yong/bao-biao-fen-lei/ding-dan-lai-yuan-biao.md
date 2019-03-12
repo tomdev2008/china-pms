@@ -6,9 +6,9 @@
 
 可查看每个渠道产生订单的明细，明细支持导出
 
-![](../../../.gitbook/assets/image%20%2851%29.png)
+![](../../../.gitbook/assets/image%20%2856%29.png)
 
-![](../../../.gitbook/assets/image%20%2829%29.png)
+![](../../../.gitbook/assets/image%20%2834%29.png)
 
 
 

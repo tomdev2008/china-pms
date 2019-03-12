@@ -6,11 +6,11 @@
 
  可以按日/周/月及预订来源查询未在酒店支付欠款的订单及客户信息，并支持导出
 
-![](../../../.gitbook/assets/image%20%2817%29.png)
+![](../../../.gitbook/assets/image%20%2821%29.png)
 
  导出样式
 
-![](../../../.gitbook/assets/image%20%28110%29.png)
+![](../../../.gitbook/assets/image%20%28117%29.png)
 
 #### 注：该报表未包含OTA挂账数据
 

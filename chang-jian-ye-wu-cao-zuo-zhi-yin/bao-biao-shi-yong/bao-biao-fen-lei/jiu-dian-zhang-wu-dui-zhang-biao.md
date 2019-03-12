@@ -8,11 +8,11 @@
 
 总览
 
-![](../../../.gitbook/assets/image%20%28187%29.png)
+![](../../../.gitbook/assets/image%20%28196%29.png)
 
 导出后的excel报表
 
-![](../../../.gitbook/assets/image%20%28180%29.png)
+![](../../../.gitbook/assets/image%20%28189%29.png)
 
 
 

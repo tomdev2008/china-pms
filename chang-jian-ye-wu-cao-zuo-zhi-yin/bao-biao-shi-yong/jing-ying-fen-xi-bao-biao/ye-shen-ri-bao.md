@@ -9,7 +9,7 @@
 * 房价与RevPAR的关系
 * 入住率
 
-![](../../../.gitbook/assets/image%20%28240%29.png)
+![](../../../.gitbook/assets/image%20%28257%29.png)
 
-![](../../../.gitbook/assets/image%20%28197%29.png)
+![](../../../.gitbook/assets/image%20%28207%29.png)
 

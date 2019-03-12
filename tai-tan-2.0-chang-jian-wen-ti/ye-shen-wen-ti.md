@@ -8,12 +8,12 @@
 
 * 订单未改价：多数情况下，前台会误以为在收银页面修改的房费是修改了订单价格，而实际上是需要在订单房价页面修改（如下图所示）
 
-![&#x5DE6;&#x4FA7;&#x9884;&#x5B9A;&#x4FE1;&#x606F;&#x70B9;&#x51FB;&#x603B;&#x623F;&#x4EF7;&#x4FEE;&#x6539;&#x8BA2;&#x5355;&#x4EF7;&#x683C;](../.gitbook/assets/image%20%28389%29.png)
+![&#x5DE6;&#x4FA7;&#x9884;&#x5B9A;&#x4FE1;&#x606F;&#x70B9;&#x51FB;&#x603B;&#x623F;&#x4EF7;&#x4FEE;&#x6539;&#x8BA2;&#x5355;&#x4EF7;&#x683C;](../.gitbook/assets/image%20%28416%29.png)
 
-![&#x6536;&#x94F6;&#x5E76;&#x975E;&#x6539;&#x4EF7;](../.gitbook/assets/image%20%28189%29.png)
+![&#x6536;&#x94F6;&#x5E76;&#x975E;&#x6539;&#x4EF7;](../.gitbook/assets/image%20%28198%29.png)
 
 * 变价换房：换房时主动取消免费换房，触发换入新房型价格
 * 续住未选择原价续住：续住需要勾选原价续住才会根据此前订单的价格过夜审
 
-![&#x4E3B;&#x52A8;&#x53D6;&#x6D88;&#x539F;&#x4EF7;&#x7EED;&#x4F4F;&#x5BFC;&#x81F4;&#x4EF7;&#x683C;&#x53D8;&#x66F4;](../.gitbook/assets/image%20%28198%29.png)
+![&#x4E3B;&#x52A8;&#x53D6;&#x6D88;&#x539F;&#x4EF7;&#x7EED;&#x4F4F;&#x5BFC;&#x81F4;&#x4EF7;&#x683C;&#x53D8;&#x66F4;](../.gitbook/assets/image%20%28208%29.png)
 
