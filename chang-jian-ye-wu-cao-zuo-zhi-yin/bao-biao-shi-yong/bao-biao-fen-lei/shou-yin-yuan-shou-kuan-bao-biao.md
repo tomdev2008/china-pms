@@ -6,7 +6,7 @@
 
 页面展示总览信息，点击查看明细，即可查看该营业日，该收银员的收款明细信息
 
-![](../../../.gitbook/assets/image%20%28276%29.png)
+![](../../../.gitbook/assets/image%20%28277%29.png)
 
 ![](../../../.gitbook/assets/image%20%28193%29.png)
 

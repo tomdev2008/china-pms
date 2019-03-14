@@ -6,7 +6,7 @@
 
 报表页面展示每个时间段的总览，点击查看明细，会展示明细信息。
 
-![](../../../.gitbook/assets/image%20%28279%29.png)
+![](../../../.gitbook/assets/image%20%28280%29.png)
 
-![](../../../.gitbook/assets/image%20%28356%29.png)
+![](../../../.gitbook/assets/image%20%28358%29.png)
 

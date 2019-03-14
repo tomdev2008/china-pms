@@ -4,5 +4,5 @@
 
 可筛选时间查询读卡器使用情况，该报表支持下载
 
-![](../../../.gitbook/assets/image%20%28242%29.png)
+![](../../../.gitbook/assets/image%20%28243%29.png)
 

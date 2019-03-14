@@ -6,17 +6,17 @@
 
 * 点击“报表管理 ”→“报表目录”，在“财务报表”板块可找到该报表
 
-![](../../../.gitbook/assets/image%20%28274%29.png)
+![](../../../.gitbook/assets/image%20%28275%29.png)
 
 * 报表样式如下：含有各类应收小计与实收小计，应收合计与实收合计。
 
 应收合计—实收合计=宾客账
 
-![](../../../.gitbook/assets/image%20%28412%29.png)
+![](../../../.gitbook/assets/image%20%28414%29.png)
 
-![](../../../.gitbook/assets/image%20%28361%29.png)
+![](../../../.gitbook/assets/image%20%28363%29.png)
 
 * 导出后样式（excel）
 
-![](../../../.gitbook/assets/image%20%28320%29.png)
+![](../../../.gitbook/assets/image%20%28321%29.png)
 
