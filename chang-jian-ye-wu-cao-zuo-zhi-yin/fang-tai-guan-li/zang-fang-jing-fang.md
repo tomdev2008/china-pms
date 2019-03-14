@@ -22,7 +22,7 @@
 点击在住脏房，可切换为干净房。  
 
 
-![&#x70B9;&#x51FB;&#x6253;&#x626B;&#x5B8C;&#x6210;&#xFF0C;&#x5728;&#x4F4F;&#x810F;&#x623F;&#x53D8;&#x4E3A;&#x5728;&#x4F4F;&#x51C0;&#x623F;](../../.gitbook/assets/image%20%28422%29.png)
+![&#x70B9;&#x51FB;&#x6253;&#x626B;&#x5B8C;&#x6210;&#xFF0C;&#x5728;&#x4F4F;&#x810F;&#x623F;&#x53D8;&#x4E3A;&#x5728;&#x4F4F;&#x51C0;&#x623F;](../../.gitbook/assets/image%20%28423%29.png)
 
 #### 脏房净房相关操作视频：[点击查看](http://crs-pms-vidio.oss-cn-beijing.aliyuncs.com/%E8%84%8F%E6%88%BF%E5%87%80%E6%88%BF.mp4)
 

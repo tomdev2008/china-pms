@@ -12,7 +12,7 @@
 
 应收合计—实收合计=宾客账
 
-![](../../../.gitbook/assets/image%20%28411%29.png)
+![](../../../.gitbook/assets/image%20%28412%29.png)
 
 ![](../../../.gitbook/assets/image%20%28361%29.png)
 
