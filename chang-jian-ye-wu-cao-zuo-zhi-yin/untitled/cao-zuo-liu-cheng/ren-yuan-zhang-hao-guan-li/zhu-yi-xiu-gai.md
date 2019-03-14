@@ -4,17 +4,17 @@
 
 * 点击权限管理，进入用户管理，找到需要调整的人员，进入编辑页面
 
-![](../../../../.gitbook/assets/image%20%28265%29.png)
+![](../../../../.gitbook/assets/image%20%28269%29.png)
 
 * **新增/修改/取消人员与酒店的关系**
 
-![](../../../../.gitbook/assets/image%20%28328%29.png)
+![](../../../../.gitbook/assets/image%20%28332%29.png)
 
-![](../../../../.gitbook/assets/image%20%28307%29.png)
+![](../../../../.gitbook/assets/image%20%28311%29.png)
 
 ![](../../../../.gitbook/assets/image%20%2848%29.png)
 
-![](../../../../.gitbook/assets/image%20%2889%29.png)
+![](../../../../.gitbook/assets/image%20%2892%29.png)
 
 
 

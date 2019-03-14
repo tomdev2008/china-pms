@@ -124,5 +124,7 @@
   * [sales相关问题](tai-tan-2.0-chang-jian-wen-ti/sales-xiang-guan-wen-ti.md)
 * [Titan产品更新历史日志](tai-tan-chan-pin-geng-xin-ri-zhi.md)
 * [Titan功能更新计划](titan-gong-neng-geng-xin-ji-hua/README.md)
+  * [钟点房功能（一期）](titan-gong-neng-geng-xin-ji-hua/zhong-dian-fang-gong-neng-yi-qi.md)
+  * [团队功能（一期）](titan-gong-neng-geng-xin-ji-hua/tuan-dui-gong-neng-yi-qi.md)
   * [夜审改造（三期）](titan-gong-neng-geng-xin-ji-hua/ye-shen-gai-zao-san-qi.md)
 

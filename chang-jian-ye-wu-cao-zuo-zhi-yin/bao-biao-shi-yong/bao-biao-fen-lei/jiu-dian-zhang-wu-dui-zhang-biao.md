@@ -4,19 +4,19 @@
 
 * 通过报表管理进入“酒店财务对账表”
 
-![](../../../.gitbook/assets/image%20%28169%29.png)
+![](../../../.gitbook/assets/image%20%28173%29.png)
 
 * 自定义日期及条件，查询相关财务数据，查询出的数据可以导出为excel报表。
 
   （最早可以查看近180天的数据，最近可以查看当前营业日的数据）
 
-![](../../../.gitbook/assets/image%20%28133%29.png)
+![](../../../.gitbook/assets/image%20%28137%29.png)
 
 * 查询结果以房单维度显示，点击“明细”可查看该房单的账务明细。
 
 ![](../../../.gitbook/assets/image%20%2826%29.png)
 
-![](../../../.gitbook/assets/image%20%28314%29.png)
+![](../../../.gitbook/assets/image%20%28318%29.png)
 
 
 

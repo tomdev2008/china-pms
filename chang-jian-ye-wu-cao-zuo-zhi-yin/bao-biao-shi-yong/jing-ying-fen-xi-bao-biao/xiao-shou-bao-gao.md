@@ -6,20 +6,20 @@
 
 * 通过报表管理，进入该报表。
 
-![](../../../.gitbook/assets/image%20%28228%29.png)
+![](../../../.gitbook/assets/image%20%28232%29.png)
 
 * 自定义想要查看的时间段（最远只能查看近30个营业日的数据）
 
-![](../../../.gitbook/assets/image%20%28196%29.png)
+![](../../../.gitbook/assets/image%20%28200%29.png)
 
 * “实收账”板块，会展示各种收款方式收到金额的分布。
 
-![](../../../.gitbook/assets/image%20%28245%29.png)
+![](../../../.gitbook/assets/image%20%28249%29.png)
 
 * 将页面下来至“应收账”板块，查看各类型收入的分布。
 * 并且会标注应收与实收的关系。
 
-![](../../../.gitbook/assets/image%20%2876%29.png)
+![](../../../.gitbook/assets/image%20%2878%29.png)
 
 
 

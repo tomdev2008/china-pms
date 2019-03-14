@@ -4,10 +4,10 @@
 
 在PMS所有页面的右侧，均可点击在线客服控件。
 
-![&#x70B9;&#x51FB;&#x5728;&#x7EBF;&#x5BA2;&#x670D;](../../.gitbook/assets/image%20%28266%29.png)
+![&#x70B9;&#x51FB;&#x5728;&#x7EBF;&#x5BA2;&#x670D;](../../.gitbook/assets/image%20%28270%29.png)
 
   
 向在线客服留言，即可获取答疑。
 
-![&#x5728;&#x7EBF;&#x5BA2;&#x670D;&#x7B54;&#x7591;](../../.gitbook/assets/image%20%28225%29.png)
+![&#x5728;&#x7EBF;&#x5BA2;&#x670D;&#x7B54;&#x7591;](../../.gitbook/assets/image%20%28229%29.png)
 
