@@ -6,11 +6,11 @@
 
 在房态图找到在住房间，可点击办理续住
 
-![&#x70B9;&#x51FB;&#x529E;&#x7406;&#x7EED;&#x4F4F;](../../.gitbook/assets/image%20%28410%29.png)
+![&#x70B9;&#x51FB;&#x529E;&#x7406;&#x7EED;&#x4F4F;](../../.gitbook/assets/image%20%28440%29.png)
 
 系统默认原价续住
 
-![&#x9009;&#x62E9;&#x7EED;&#x4F4F;&#x65F6;&#x95F4;&#xFF0C;&#x70B9;&#x51FB;&#x786E;&#x5B9A;&#x7EED;&#x4F4F;&#x5373;&#x53EF;](../../.gitbook/assets/image%20%28182%29.png)
+![&#x9009;&#x62E9;&#x7EED;&#x4F4F;&#x65F6;&#x95F4;&#xFF0C;&#x70B9;&#x51FB;&#x786E;&#x5B9A;&#x7EED;&#x4F4F;&#x5373;&#x53EF;](../../.gitbook/assets/image%20%28200%29.png)
 
 ### 改价续住
 
@@ -18,11 +18,11 @@
 
 注：修改首日房价后，后续日期的价格会自动变为与首日房价一致
 
-![](../../.gitbook/assets/image%20%28131%29.png)
+![](../../.gitbook/assets/image%20%28140%29.png)
 
 若每日房价不同，需要逐一修改
 
-![](../../.gitbook/assets/image%20%28188%29.png)
+![](../../.gitbook/assets/image%20%28207%29.png)
 
 ### OTA续住
 
@@ -30,9 +30,9 @@
 
 OTA续住目前是使用新建散客单的形式实现，在房态图点击续住，出现OTA续住提示。
 
-![OTA&#x7EED;&#x4F4F;](../../.gitbook/assets/image%20%28108%29.png)
+![OTA&#x7EED;&#x4F4F;](../../.gitbook/assets/image%20%28116%29.png)
 
-点击确认续住，系统自动生成续住订单，出现在全部订单的订单列表中
+点击确认续住，系统自动生成新的订单，出现在全部订单的订单列表中
 
 #### OTA客人在OTA上操作续住
 
