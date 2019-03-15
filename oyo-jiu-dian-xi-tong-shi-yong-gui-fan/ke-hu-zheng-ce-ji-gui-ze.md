@@ -35,12 +35,35 @@
 
 **订单取消政策**
 
-| **取消时间** | **取消订单收取费用** |
-| :--- | :--- |
-| 入住当天下午18点之前（北京时间） | 免费取消（100%退款） |
-| 入住当天下午18点之后（北京时间） | 订房时第一晚的房价（预付） |
-
-**入住后中途取消**
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"><b>&#x53D6;&#x6D88;&#x65F6;&#x95F4;</b>
+      </th>
+      <th style="text-align:left"><b>&#x53D6;&#x6D88;&#x8BA2;&#x5355;&#x6536;&#x53D6;&#x8D39;&#x7528;</b>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">&#x5165;&#x4F4F;&#x5F53;&#x5929;&#x4E0B;&#x5348;18&#x70B9;&#x4E4B;&#x524D;&#xFF08;&#x5317;&#x4EAC;&#x65F6;&#x95F4;&#xFF09;</td>
+      <td
+      style="text-align:left">&#x514D;&#x8D39;&#x53D6;&#x6D88;&#xFF08;100%&#x9000;&#x6B3E;&#xFF09;</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">&#x5165;&#x4F4F;&#x5F53;&#x5929;&#x4E0B;&#x5348;18&#x70B9;&#x4E4B;&#x540E;&#xFF08;&#x5317;&#x4EAC;&#x65F6;&#x95F4;&#xFF09;</td>
+      <td
+      style="text-align:left">&#x8BA2;&#x623F;&#x65F6;&#x7B2C;&#x4E00;&#x665A;&#x7684;&#x623F;&#x4EF7;&#xFF08;&#x9884;&#x4ED8;&#xFF09;</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p>OYO APP&#x7AEF;&#x53CA;&#x5C0F;&#x7A0B;&#x5E8F;&#x7AEF;&#x4E0B;&#x5355;&#x540E;30&#x5206;&#x949F;&#x5185;&#xFF0C;</p>
+        <p>&#x542B;&#x5165;&#x4F4F;&#x5F53;&#x5929;18&#xFF1A;00&#x4E4B;&#x540E;&#x7684;&#x65F6;&#x6BB5;&#xFF08;&#x672A;&#x5165;&#x4F4F;&#xFF09;</p>
+      </td>
+      <td style="text-align:left">&#x514D;&#x8D39;&#x53D6;&#x6D88;&#xFF08;100%&#x9000;&#x6B3E;&#xFF09;</td>
+    </tr>
+  </tbody>
+</table>**入住后中途取消**
 
 若您在入住之后需要缩短入住天数，酒店将根据您的预计离店时间收取相应房费，剩余房费将被退还。
 
