@@ -25,7 +25,7 @@
 * 完善泰坦系统，使其可以对团队订单进行预定、入住、在住管理、取消、离店、查看日志及报表等操作。
 * 增加团队主账功能，并生成团队对账报表，进行账务处理及账目核对。
 
-![](../.gitbook/assets/image%20%28349%29.png)
+![](../.gitbook/assets/image%20%28354%29.png)
 
-![](../.gitbook/assets/image%20%28390%29.png)
+![](../.gitbook/assets/image%20%28395%29.png)
 
