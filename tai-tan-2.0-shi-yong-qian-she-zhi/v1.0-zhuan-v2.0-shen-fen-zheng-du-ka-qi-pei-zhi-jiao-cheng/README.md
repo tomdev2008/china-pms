@@ -20,31 +20,31 @@
 
 ### 1.鼠标对准chrome快捷方式，右键选择属性，打开
 
-![&#x6253;&#x5F00;chrome&#x5C5E;&#x6027;](../.gitbook/assets/image%20%28149%29.png)
+![&#x6253;&#x5F00;chrome&#x5C5E;&#x6027;](../../.gitbook/assets/image%20%28149%29.png)
 
                                       
 
 ### 2.chrome属性中复制“目标”栏中间路径链接
 
-![&#x590D;&#x5236;&#x8DEF;&#x5F84;&#x4F4D;&#x7F6E;](../.gitbook/assets/image%20%28255%29.png)
+![&#x590D;&#x5236;&#x8DEF;&#x5F84;&#x4F4D;&#x7F6E;](../../.gitbook/assets/image%20%28255%29.png)
 
 ### 3.鼠标对准OYO泰坦快捷方式，右键选择属性打开
 
-![](../.gitbook/assets/image%20%28473%29.png)
+![](../../.gitbook/assets/image%20%28473%29.png)
 
 ### 4.选择‘打开文件所在位置’
 
-![](../.gitbook/assets/image%20%28487%29.png)
+![](../../.gitbook/assets/image%20%28487%29.png)
 
 #### 
 
 #### 打开"文件所在的位置“选择”config”
 
-![](../.gitbook/assets/image%20%28378%29.png)
+![](../../.gitbook/assets/image%20%28378%29.png)
 
 将chrome复制的“目标”栏粘贴到“BrowserUrl”
 
-![](../.gitbook/assets/image%20%28227%29.png)
+![](../../.gitbook/assets/image%20%28227%29.png)
 
 
 
