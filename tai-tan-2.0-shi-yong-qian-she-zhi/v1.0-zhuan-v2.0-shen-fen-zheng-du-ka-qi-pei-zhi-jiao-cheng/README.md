@@ -29,7 +29,7 @@
 
 #### **读卡器提示；读取失败，显示未检测到身份证，请放置身份证。图（2）**
 
-![](../../.gitbook/assets/image%20%28464%29.png)
+![](../../.gitbook/assets/image%20%28465%29.png)
 
                                                          
 
@@ -87,11 +87,11 @@
 
 3.鼠标对准OYO泰坦快捷方式，右键选择属性打开
 
-![](../../.gitbook/assets/image%20%28473%29.png)
+![](../../.gitbook/assets/image%20%28474%29.png)
 
 4.选择‘打开文件所在位置’
 
-![](../../.gitbook/assets/image%20%28487%29.png)
+![](../../.gitbook/assets/image%20%28488%29.png)
 
 5.打开"文件所在的位置“选择”config”
 

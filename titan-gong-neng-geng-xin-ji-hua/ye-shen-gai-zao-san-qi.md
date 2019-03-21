@@ -37,7 +37,7 @@ description: 介绍夜审三期的改造
 
 ## 夜审之前需要做什么？
 
-![](../.gitbook/assets/image%20%28447%29.png)
+![](../.gitbook/assets/image%20%28448%29.png)
 
 根据以上变更，夜审前需要操作的事情也有所变化。
 
