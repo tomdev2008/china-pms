@@ -8,7 +8,7 @@
 
 * 选择合并结算
 
-![](../../../.gitbook/assets/image%20%28293%29.png)
+![](../../../.gitbook/assets/image%20%28294%29.png)
 
 * 合并结算后，账单转移显示
 
@@ -20,7 +20,7 @@
 
 目前系统不支持一个房间部分结算。
 
-![](../../../.gitbook/assets/image%20%2855%29.png)
+![](../../../.gitbook/assets/image%20%2856%29.png)
 
 
 
