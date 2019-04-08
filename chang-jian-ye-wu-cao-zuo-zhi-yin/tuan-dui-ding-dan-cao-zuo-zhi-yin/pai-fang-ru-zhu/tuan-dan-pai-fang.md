@@ -20,13 +20,13 @@
 * 页面左侧“订单信息”栏是该订单的详情，不可编辑。
 * 在中间“排房入住”栏中，点击一键排房，即可自动为订单分配符合的房间
 
-![](../../../.gitbook/assets/image%20%28471%29.png)
+![](../../../.gitbook/assets/image%20%28479%29.png)
 
-![](../../../.gitbook/assets/image%20%28294%29.png)
+![](../../../.gitbook/assets/image%20%28299%29.png)
 
 * 返回房态图可看到，房间已被安排好
 
-![](../../../.gitbook/assets/image%20%28394%29.png)
+![](../../../.gitbook/assets/image%20%28400%29.png)
 
 注：
 
