@@ -24,7 +24,7 @@
   * [客户政策及规则](oyo-jiu-dian-xi-tong-shi-yong-gui-fan/ke-hu-zheng-ce-ji-gui-ze.md)
 * [常见业务操作指引](chang-jian-ye-wu-cao-zuo-zhi-yin/README.md)
   * [订单创建/提醒/查询](chang-jian-ye-wu-cao-zuo-zhi-yin/ding-dan-chuang-jian-ti-xing-cha-xun/README.md)
-    * [订单创建](chang-jian-ye-wu-cao-zuo-zhi-yin/ding-dan-chuang-jian-ti-xing-cha-xun/ding-dan-chuang-jian.md)
+    * [创建预订单](chang-jian-ye-wu-cao-zuo-zhi-yin/ding-dan-chuang-jian-ti-xing-cha-xun/ding-dan-chuang-jian.md)
     * [订单提醒](chang-jian-ye-wu-cao-zuo-zhi-yin/ding-dan-chuang-jian-ti-xing-cha-xun/ding-dan-ti-xing.md)
     * [订单查询](chang-jian-ye-wu-cao-zuo-zhi-yin/ding-dan-chuang-jian-ti-xing-cha-xun/ding-dan-cha-xun.md)
   * [入住](chang-jian-ye-wu-cao-zuo-zhi-yin/ru-zhu/README.md)
@@ -176,7 +176,5 @@
   * [sales相关问题](tai-tan-2.0-chang-jian-wen-ti/sales-xiang-guan-wen-ti.md)
 * [Titan产品更新历史日志](tai-tan-chan-pin-geng-xin-ri-zhi.md)
 * [Titan功能更新计划](titan-gong-neng-geng-xin-ji-hua/README.md)
-  * [钟点房功能（一期）](titan-gong-neng-geng-xin-ji-hua/zhong-dian-fang-gong-neng-yi-qi.md)
-  * [团队功能（一期）](titan-gong-neng-geng-xin-ji-hua/tuan-dui-gong-neng-yi-qi.md)
   * [夜审改造（三期）](titan-gong-neng-geng-xin-ji-hua/ye-shen-gai-zao-san-qi.md)
 
