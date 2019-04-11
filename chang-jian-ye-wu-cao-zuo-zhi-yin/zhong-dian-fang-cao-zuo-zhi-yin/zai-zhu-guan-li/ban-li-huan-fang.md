@@ -4,11 +4,11 @@
 
 * 点击房间，点击“在住详情“进入在住详情页面，点击“换房”
 
-![](../../../.gitbook/assets/image%20%28224%29.png)
+![](../../../.gitbook/assets/image%20%28230%29.png)
 
-![](../../../.gitbook/assets/image%20%28111%29.png)
+![](../../../.gitbook/assets/image%20%28116%29.png)
 
 * 在跳转的页面中，选择更换到哪个房间，选择或备注换房原因，确认换房即可
 
-![](../../../.gitbook/assets/image%20%28344%29.png)
+![](../../../.gitbook/assets/image%20%28354%29.png)
 
