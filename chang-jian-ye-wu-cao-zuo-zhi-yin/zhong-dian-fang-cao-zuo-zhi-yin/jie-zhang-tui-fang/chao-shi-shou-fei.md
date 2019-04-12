@@ -4,11 +4,11 @@
 
 * 如钟点房超过预定时长，则点击【结账退房】按钮时会弹出提醒，需根据实际情况选择是否加收房费
 
-![](../../../.gitbook/assets/image%20%28234%29.png)
+![](../../../.gitbook/assets/image%20%28237%29.png)
 
 * 确认加收或不加收房费后，结清账务，确认退房即可
 
-![](../../../.gitbook/assets/image%20%28301%29.png)
+![](../../../.gitbook/assets/image%20%28306%29.png)
 
 ![](../../../.gitbook/assets/image.png)
 

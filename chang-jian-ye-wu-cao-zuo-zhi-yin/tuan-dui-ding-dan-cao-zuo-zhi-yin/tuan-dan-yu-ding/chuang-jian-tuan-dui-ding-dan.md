@@ -4,15 +4,15 @@ PMS可以创建团队订单，[点击查看操作视频](http://crs-pms-vidio.os
 
 * 在左侧菜单栏目中点击订单管理→新增订单，进入新增订单的页面
 
-![](../../../.gitbook/assets/image%20%28512%29.png)
+![](../../../.gitbook/assets/image%20%28520%29.png)
 
 * 在图示处选择“新建团队订单”
 
-![](../../../.gitbook/assets/image%20%28229%29.png)
+![](../../../.gitbook/assets/image%20%28232%29.png)
 
 * 在左侧栏填写团队信息，中间部分选择离店日期、需要的房型及数量，右侧填写收款信息，确认预订即可
 
-![](../../../.gitbook/assets/image%20%28566%29.png)
+![](../../../.gitbook/assets/image%20%28574%29.png)
 
 **注：支持预订多种房型。**
 
