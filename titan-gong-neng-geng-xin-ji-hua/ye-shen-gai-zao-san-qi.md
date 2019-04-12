@@ -36,7 +36,7 @@ description: 介绍夜审三期的改造
 
 ## 夜审之前需要做什么？
 
-![](../.gitbook/assets/image%20%28581%29.png)
+![](../.gitbook/assets/image%20%28606%29.png)
 
 根据以上变更，夜审前需要操作的事情也有所变化。
 
@@ -74,7 +74,7 @@ description: 介绍夜审三期的改造
 
 如需挽救，可以通过申诉功能来实现。申诉必须在预离日2天后的24：00之前完成。尽量在每日夜审之前完成申诉的检查，处理完当日的申诉。
 
-![](../.gitbook/assets/image%20%28354%29.png)
+![](../.gitbook/assets/image%20%28372%29.png)
 
 申诉功能在变更后，支持以下问题类型
 
@@ -102,9 +102,7 @@ description: 介绍夜审三期的改造
 
 点击“noshow”并确认，该房单会变为noshow状态（另外两个房间仍然可以办理入住）
 
-![](https://uploader.shimo.im/f/qjWNj0gz6Cs9v35I.png!thumbnail)
-
-![](https://uploader.shimo.im/f/FWF9PeEwcSAHaQXO.png!thumbnail)
+![](../.gitbook/assets/image%20%2867%29.png)
 
 * noshow后，库存释放、房态释放
 
@@ -112,11 +110,11 @@ description: 介绍夜审三期的改造
 
 在办理入住页面，找到需要取消的房单，点击“取消房单”并确认即可。
 
-![](https://uploader.shimo.im/f/rX4MBgx0KVUAsRb2.png!thumbnail)
+![](../.gitbook/assets/image%20%28645%29.png)
 
 取消成功后，原订单中的3间房会变成2间，且未操作noshow也未操作取消的房单仍然可以办理入住。
 
-![](../.gitbook/assets/image%20%2884%29.png)
+![](../.gitbook/assets/image%20%2896%29.png)
 
 ### 待入住订单手工noshow
 
@@ -124,17 +122,17 @@ description: 介绍夜审三期的改造
 
 点击订单列表，通过今日预抵，进入办理入住页面
 
-![](https://uploader.shimo.im/f/TcwHb7SKZ3otrET6.png!thumbnail)
+![](../.gitbook/assets/image%20%28314%29.png)
 
 点击“订单信息”栏右上角的三个点，点击“noshow”并确认，可以将该订单下所有未入住的房单变为noshow状态
 
-![](https://uploader.shimo.im/f/wHhKjW7YJQo7NjzI.png!thumbnail)
+![](../.gitbook/assets/image%20%28395%29.png)
 
-![](https://uploader.shimo.im/f/p2jRG5rdXwAHdZi2.png!thumbnail)
+![](../.gitbook/assets/image%20%28623%29.png)
 
 在全部订单中查看该订单状态，可以看到订单状态变为“noshow”
 
-![](https://uploader.shimo.im/f/tKkr46lRY6g2A9iY.png!thumbnail)
+![](../.gitbook/assets/image%20%28124%29.png)
 
 ### 待入住订单手工取消
 
@@ -142,11 +140,11 @@ description: 介绍夜审三期的改造
 
 进入办理入住页面，点击“订单信息”栏右上角的三个点，点击“取消订单”并确认，可以取消该订单。
 
-![](https://uploader.shimo.im/f/MNpOYoBUxU0jhf8G.png!thumbnail)
+![](../.gitbook/assets/image%20%28330%29.png)
 
 在全部订单中查看该订单状态，可以看到订单状态变为“取消”
 
-![](https://uploader.shimo.im/f/t8hHqfyyz2YGbeyd.png!thumbnail)
+![](../.gitbook/assets/image%20%28251%29.png)
 
 ### 团单手工NoShow/取消
 
@@ -156,23 +154,23 @@ description: 介绍夜审三期的改造
 
 通过“订单列表”→“团单”→“团单入住”，进入到团单入住页面。
 
-![](https://uploader.shimo.im/f/MgJ0VjN9PJk1ORJE.png!thumbnail)
+![](../.gitbook/assets/image%20%28162%29.png)
 
 单击排好的房间，下方会出现该房间信息。
 
-![](https://uploader.shimo.im/f/RXdugErFfQsnOytd.png!thumbnail)
+![](../.gitbook/assets/image%20%28179%29.png)
 
 点击“noshow”并确认，即可noshow该房单。
 
-![](https://uploader.shimo.im/f/QGyZdTF9LhMlAyq5.png!thumbnail)
+![](../.gitbook/assets/image%20%28563%29.png)
 
-![](https://uploader.shimo.im/f/JLUBsGrmwmQAnGv9.png!thumbnail)
+![](../.gitbook/assets/image%20%2813%29.png)
 
 点击“取消”并确认，即可取消该房单。 
 
-![](../.gitbook/assets/image%20%28265%29.png)
+![](../.gitbook/assets/image%20%2871%29.png)
 
-![](https://uploader.shimo.im/f/xSNi07q76hojox4B.png!thumbnail)
+![](../.gitbook/assets/image%20%28404%29.png)
 
 #### 整个团单noshow与取消
 
@@ -184,11 +182,11 @@ description: 介绍夜审三期的改造
 
 夜审时，所有待入住订单变更为入住状态，在“在住列表”中可以查看到，此类自动入住的订单，没有房间号。
 
-![](../.gitbook/assets/image%20%28405%29.png)
+![](../.gitbook/assets/image%20%28428%29.png)
 
 双击此条记录，跳转到在住详情页面，点击“日志”标签，可以查看到入住的操作人为：PMS系统
 
-![](../.gitbook/assets/image%20%28133%29.png)
+![](../.gitbook/assets/image%20%28141%29.png)
 
 ### 补排房/补入住人信息
 
@@ -196,11 +194,11 @@ description: 介绍夜审三期的改造
 
 找到需要补排房的订单，点击“排房”按钮
 
-![](../.gitbook/assets/image%20%28598%29.png)
+![](../.gitbook/assets/image%20%28624%29.png)
 
 进入到入住页面，排房读取客人身份信息，确认入住即可。
 
-![](../.gitbook/assets/image%20%28443%29.png)
+![](../.gitbook/assets/image%20%28466%29.png)
 
 ![](https://uploader.shimo.im/f/Io67fKtnVpAYw1oK.png!thumbnail)
 
@@ -216,15 +214,15 @@ description: 介绍夜审三期的改造
 
 确认需要申诉的订单号并复制（如下图）
 
-![](https://uploader.shimo.im/f/VJ8APXOvwnE9Ay3n.png!thumbnail)
+![](../.gitbook/assets/image%20%28397%29.png)
 
 点击页面悬浮框中的“申诉”按钮，跳转到申诉页面。
 
-![](https://uploader.shimo.im/f/bEK8uMdxpNojbR50.png!thumbnail)
+![](../.gitbook/assets/image%20%28296%29.png)
 
 将需要申诉的订单号粘贴进去，并点击“校验订单号”，若订单号正确且订单在申诉有效期内，页面下方会出现申请操作区。
 
-![](https://uploader.shimo.im/f/dXzDLa96W0wKvt5Y.png!thumbnail)
+![](../.gitbook/assets/image%20%28278%29.png)
 
 在下拉框中选择申诉的具体内容
 
@@ -232,17 +230,19 @@ description: 介绍夜审三期的改造
 
 选择完成后，在弹窗的框中填写相关信息（选择不同的申诉内容，需要填写的信息也不同）
 
+![](../.gitbook/assets/image%20%28533%29.png)
+
 如选择订单号错误，则需要填写以下信息
 
 ![](https://uploader.shimo.im/f/JaTy1sV7RBYPqxaU.png!thumbnail)
 
 点击“添加申诉原因”，可以添加订单的申诉原因
 
-![](https://uploader.shimo.im/f/Ho0GraBSax0H45Bd.png!thumbnail)
+![](../.gitbook/assets/image%20%2824%29.png)
 
 如此次选择“联系电话错误”，则需要填写以下信息
 
-![](https://uploader.shimo.im/f/yx4VpCK7SN4aAIWr.png!thumbnail)
+![](../.gitbook/assets/image%20%28174%29.png)
 
 申诉信息填写完毕后，点击右下角的“提交申诉”按钮即可
 
@@ -255,15 +255,13 @@ description: 介绍夜审三期的改造
 
 点击“在住管理”→“在住列表” 
 
-![](../.gitbook/assets/image%20%2846%29.png)
+![](../.gitbook/assets/image%20%2849%29.png)
 
 点击“申诉”标签，即可进入申诉列表，可以查看申诉的详情及日志
 
-![](https://uploader.shimo.im/f/SfJECtEPSYwF9itc.png!thumbnail)
+![](../.gitbook/assets/image%20%286%29.png)
 
-![](https://uploader.shimo.im/f/rT4eL4WH8AYigO4I.png!thumbnail)
+![](../.gitbook/assets/image%20%28425%29.png)
 
-![](https://uploader.shimo.im/f/bSOwOD9zynoA9kvQ.png!thumbnail)
-
-
+![](../.gitbook/assets/image%20%28326%29.png)
 

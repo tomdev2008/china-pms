@@ -14,15 +14,15 @@
 
 * 在左侧菜单栏目中点击订单管理→新增订单，进入新增订单的页面
 
-![](../../.gitbook/assets/image%20%28254%29.png)
+![](../../.gitbook/assets/image%20%28266%29.png)
 
 * 选择订单类型（散客订单/团队订单）
 
-![](../../.gitbook/assets/image%20%28547%29.png)
+![](../../.gitbook/assets/image%20%28572%29.png)
 
 * 在“预订信息”栏中填写预订信息，然后选择入离日期、房型及房间数量，确认预订即可
 
-![](../../.gitbook/assets/image%20%288%29.png)
+![](../../.gitbook/assets/image%20%289%29.png)
 
 注：
 
