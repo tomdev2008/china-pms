@@ -6,15 +6,15 @@
 
 * 在房态图中点击需要换房的房间，随后点击“在住详情”
 
-![](../../../.gitbook/assets/image%20%28298%29.png)
+![](../../../.gitbook/assets/image%20%28299%29.png)
 
 * 进入在住详情页面后，点击“换房”
 
-![](../../../.gitbook/assets/image%20%28111%29.png)
+![](../../../.gitbook/assets/image%20%28112%29.png)
 
 * 选择更换的房间，选择或备注换房原因，确认即可
 
-![](../../../.gitbook/assets/image%20%28436%29.png)
+![](../../../.gitbook/assets/image%20%28438%29.png)
 
 #### 续住
 
@@ -22,20 +22,20 @@
 
 * 在房态图中点击需要续住的房间，点击“办理续住”进入办理页面
 
-![](../../../.gitbook/assets/image%20%28343%29.png)
+![](../../../.gitbook/assets/image%20%28344%29.png)
 
 * 或点击“在住详情”后，点击“续住”进入办理页面
 
-![](../../../.gitbook/assets/image%20%2880%29.png)
+![](../../../.gitbook/assets/image%20%2881%29.png)
 
-![](../../../.gitbook/assets/image%20%28165%29.png)
+![](../../../.gitbook/assets/image%20%28166%29.png)
 
 * 选择续住天数（或选择离店日期）
 * 判断是否为原价续住（原价续住默认入住日期最后一天的价格；非原价续住则需要手动调整续住房价）
 
-![](../../../.gitbook/assets/image%20%2865%29.png)
+![](../../../.gitbook/assets/image%20%2866%29.png)
 
-![](../../../.gitbook/assets/image%20%28665%29.png)
+![](../../../.gitbook/assets/image%20%28668%29.png)
 
 * 确认续住即可
 

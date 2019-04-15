@@ -10,11 +10,11 @@
 
 * 进入全部订单页面，找到需要查看日志的订单，点击“详情”按钮
 
-![](../.gitbook/assets/image%20%28265%29.png)
+![](../.gitbook/assets/image%20%28266%29.png)
 
 * 点击“进入主房单”
 
-![](../.gitbook/assets/image%20%28505%29.png)
+![](../.gitbook/assets/image%20%28507%29.png)
 
 * 在主房单中点击“日志”，即可查看
 
@@ -24,9 +24,9 @@
 
 * 在房态图中找到需要查看日志的在住房间，点击“在住详情”
 
-![](../.gitbook/assets/image%20%28497%29.png)
+![](../.gitbook/assets/image%20%28499%29.png)
 
 * 在进入的页面中，点击“日志”标签即可查看
 
-![](../.gitbook/assets/image%20%28285%29.png)
+![](../.gitbook/assets/image%20%28286%29.png)
 

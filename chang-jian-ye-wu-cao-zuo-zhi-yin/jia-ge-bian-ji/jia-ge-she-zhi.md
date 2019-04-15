@@ -8,17 +8,17 @@ description: 通过系统设置进行价格修改
 
 * 鼠标放置至侧边栏，可弹出侧边栏详情
 
-![&#x9F20;&#x6807;&#x653E;&#x7F6E;&#x81F3;&#x4FA7;&#x8FB9;&#x680F;&#xFF0C;&#x53EF;&#x5F39;&#x51FA;&#x4FA7;&#x8FB9;&#x680F;&#x8BE6;&#x60C5;](../../.gitbook/assets/image%20%28355%29.png)
+![&#x9F20;&#x6807;&#x653E;&#x7F6E;&#x81F3;&#x4FA7;&#x8FB9;&#x680F;&#xFF0C;&#x53EF;&#x5F39;&#x51FA;&#x4FA7;&#x8FB9;&#x680F;&#x8BE6;&#x60C5;](../../.gitbook/assets/image%20%28356%29.png)
 
 * 点击系统设置，进入更改房价
 
-![&#x70B9;&#x51FB;&#x7CFB;&#x7EDF;&#x8BBE;&#x7F6E;&#xFF0C;&#x8FDB;&#x5165;&#x66F4;&#x6539;&#x623F;&#x4EF7;](../../.gitbook/assets/image%20%28103%29.png)
+![&#x70B9;&#x51FB;&#x7CFB;&#x7EDF;&#x8BBE;&#x7F6E;&#xFF0C;&#x8FDB;&#x5165;&#x66F4;&#x6539;&#x623F;&#x4EF7;](../../.gitbook/assets/image%20%28104%29.png)
 
 * 可通过选择单日、选择日期区间、选择周的方式来设置不同房型的价格。
 
-![&#x53EF;&#x9009;&#x62E9;&#x5355;&#x65E5;&#x3001;&#x65E5;&#x671F;&#x533A;&#x95F4;&#x3001;&#x5468;&#x6765;&#x4FEE;&#x6539;&#x7CFB;&#x7EDF;&#x7684;&#x9884;&#x8BBE;&#x4EF7;&#x683C;](../../.gitbook/assets/image%20%28657%29.png)
+![&#x53EF;&#x9009;&#x62E9;&#x5355;&#x65E5;&#x3001;&#x65E5;&#x671F;&#x533A;&#x95F4;&#x3001;&#x5468;&#x6765;&#x4FEE;&#x6539;&#x7CFB;&#x7EDF;&#x7684;&#x9884;&#x8BBE;&#x4EF7;&#x683C;](../../.gitbook/assets/image%20%28659%29.png)
 
 * 完成修改后，可在价格日历中查看未来价格。
 
-![](../../.gitbook/assets/image%20%28516%29.png)
+![](../../.gitbook/assets/image%20%28518%29.png)
 

@@ -6,13 +6,13 @@
 
 * 通过报表管理，进入“收银员收款信息报表”。
 
-![](../../../.gitbook/assets/image%20%28377%29.png)
+![](../../../.gitbook/assets/image%20%28378%29.png)
 
 * 自定义时间段并选择收银员，可查看到总览信息。
 
-![](../../../.gitbook/assets/image%20%28426%29.png)
+![](../../../.gitbook/assets/image%20%28428%29.png)
 
 * 点击“查看明细”，可以查到该收银员收款信息明细。
 
-![](../../../.gitbook/assets/image%20%28302%29.png)
+![](../../../.gitbook/assets/image%20%28303%29.png)
 
