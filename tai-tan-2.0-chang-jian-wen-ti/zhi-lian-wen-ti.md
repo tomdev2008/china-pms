@@ -6,7 +6,7 @@
 
 OTA直连钉钉审批通过后，一般约10个工作日完成OTA直连上线。
 
-![](../.gitbook/assets/image%20%28402%29.png)
+![](../.gitbook/assets/image%20%28404%29.png)
 
 ## OTA直连申请通过后，需要做什么
 
@@ -36,7 +36,7 @@ OTA直连完成后，Ebooking可以继续使用。OTA直连的价格和库存通
 
 OTA直连订单产生后是实时在PMS中同步的，不存在延迟。如OTA直连订单无法在PMS中查询，请在“OTA全国直连运营（API）”钉群反馈。
 
-![](../.gitbook/assets/image%20%28662%29.png)
+![](../.gitbook/assets/image%20%28665%29.png)
 
 ### OTA直连订单，若客人在平台取消了，但是PMS不同步取消信息，怎么办？
 

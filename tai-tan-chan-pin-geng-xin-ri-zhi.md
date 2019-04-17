@@ -1,5 +1,73 @@
 # Titan产品更新历史日志
 
+## v2.1.10.1 -2019-04-16
+
+### 新增
+
+#### 钟点房一期功能全国上线
+
+* 可以区分钟点房与全天房
+
+![](.gitbook/assets/image%20%28452%29.png)
+
+* 钟点房到时提醒
+
+![](.gitbook/assets/image%20%28580%29.png)
+
+* 钟点房加时/转全天房等
+
+![](.gitbook/assets/image%20%28507%29.png)
+
+#### 夜审三期功能在桂林的酒店及“oyo82559培训测试专用酒店”上线
+
+主要包含以下功能点：
+
+* 可实现订单的部分取消/NoShow
+* 夜审自动NoShow的订单会在改造后变成自动入住
+* 可使用人工NoShow的方式及时释放库存 
+* 申诉流程简化，酒店账单会更准确
+
+### 优化
+
+#### PMS打印机适配
+
+调整离店对账单样式\(横版、竖版、小票机、针式机 \)
+
+![](.gitbook/assets/image%20%2871%29.png)
+
+![](.gitbook/assets/image%20%28206%29.png)
+
+#### 订单列表排序
+
+* 今日预抵列表、noshow列表、已取消列表、全部订单列表调整，最新数据倒序排列
+* 列表中的字段名“预订人”和“联系方式”改为“联系人”和“联系方式”
+
+![](.gitbook/assets/image%20%28584%29.png)
+
+## v2.1.9.5 -2019-04-11
+
+### 新增
+
+#### 团队一期功能全国上线
+
+主要包含以下功能点：
+
+* PMS前台可以创建团队订单，订单支持多房型
+
+![](.gitbook/assets/image%20%28315%29.png)
+
+* 可以为团队订单批量排房、办理入住
+
+![](.gitbook/assets/image%20%28158%29.png)
+
+* 通过团队主账功能，调整整个团单是账务
+
+![](.gitbook/assets/image%20%28260%29.png)
+
+* 通过团队对账表实现以为团为单位对账
+
+![](.gitbook/assets/image%20%28222%29.png)
+
 ## v2.1.9.4 -2019-04-09
 
 ### 新增
@@ -8,13 +76,13 @@
 
 * 有OYO消息抵达时，会触发弹窗提醒，弹窗出现在页面右上角。点击弹窗会跳转到消息详情。
 
-![](.gitbook/assets/image%20%28540%29.png)
+![](.gitbook/assets/image%20%28542%29.png)
 
-![](.gitbook/assets/image%20%28446%29.png)
+![](.gitbook/assets/image%20%28448%29.png)
 
 *  PMS左侧按钮进入消息中心，可查看历史通知公告。
 
-![](.gitbook/assets/image%20%28140%29.png)
+![](.gitbook/assets/image%20%28141%29.png)
 
 ### 变更
 
@@ -22,7 +90,7 @@
 
 * 非PMS订单，如OTA单/OYO小程序订单等将无法通过PMS房费调整功能调整房费，如需调整，可联系您的OYO店长为您联系客服进行协助。
 
-![](.gitbook/assets/image%20%28240%29.png)
+![](.gitbook/assets/image%20%28242%29.png)
 
 ## v2.1.9.3 -2019-04-04
 
@@ -32,15 +100,15 @@
 
 * 可以区分钟点房与全天房
 
-![](.gitbook/assets/image%20%28450%29.png)
+![](.gitbook/assets/image%20%28452%29.png)
 
 * 钟点房到时提醒
 
-![](.gitbook/assets/image%20%28578%29.png)
+![](.gitbook/assets/image%20%28580%29.png)
 
 * 钟点房加时/转全天房等
 
-![](.gitbook/assets/image%20%28505%29.png)
+![](.gitbook/assets/image%20%28507%29.png)
 
 ### 优化
 
@@ -56,19 +124,19 @@
 
 * PMS前台可以创建团队订单，订单支持多房型
 
-![](.gitbook/assets/image%20%28313%29.png)
+![](.gitbook/assets/image%20%28315%29.png)
 
 * 可以为团队订单批量排房、办理入住
 
-![](.gitbook/assets/image%20%28157%29.png)
+![](.gitbook/assets/image%20%28158%29.png)
 
 * 通过团队主账功能，调整整个团单是账务
 
-![](.gitbook/assets/image%20%28258%29.png)
+![](.gitbook/assets/image%20%28260%29.png)
 
 * 通过团队对账表实现以为团为单位对账
 
-![](.gitbook/assets/image%20%28220%29.png)
+![](.gitbook/assets/image%20%28222%29.png)
 
 ### 优化
 
@@ -82,17 +150,17 @@
 
 在PMS右侧悬浮控件中，新增“使用帮助”按钮，点击后可跳转至 [http://wiki-dev.oyohotels.cn](http://wiki-dev.oyohotels.cn) ，可通过该处查阅使用帮助，了解学习PMS。
 
-![](.gitbook/assets/image%20%28432%29.png)
+![](.gitbook/assets/image%20%28434%29.png)
 
 **酒店营业收入报表**
 
 酒店营业收入报表：可通过酒店营业收入报表了解酒店收入构成，根据每日的总应收与总实收进行对账，该报表支持导出，导出后可打印**。**
 
-![](.gitbook/assets/image%20%28416%29.png)
+![](.gitbook/assets/image%20%28418%29.png)
 
-![](.gitbook/assets/image%20%28569%29.png)
+![](.gitbook/assets/image%20%28571%29.png)
 
-![](.gitbook/assets/image%20%28210%29.png)
+![](.gitbook/assets/image%20%28212%29.png)
 
 ### 优化
 
@@ -100,7 +168,7 @@
 
 进入“报表管理”页面后，所有报表根据用途分类展示，便于用户选择**。**
 
-![](.gitbook/assets/image%20%28509%29.png)
+![](.gitbook/assets/image%20%28511%29.png)
 
 ### 变更
 
@@ -108,7 +176,7 @@
 
 维修房权限收缩至CH。原OP、CP、酒店前台、酒店经理在房态图设置维修房的权限被关闭，后续仅CH可设置维修房。
 
-![](.gitbook/assets/image%20%28400%29.png)
+![](.gitbook/assets/image%20%28402%29.png)
 
 注：设置维修房按钮置灰，提示联系OP，再由于OP联系CH即可
 
@@ -124,17 +192,17 @@
 
 * 房态图联房标记（图1）： 可查看到哪间房间存在联房
 
-![](.gitbook/assets/image%20%28423%29.png)
+![](.gitbook/assets/image%20%28425%29.png)
 
 * 订单联房添加（如图2）：如存在一张订单多间房，需要一起结算时，可通过【在住详情】页面，单击下拉菜单，添加联房
 
 注：只有同一个订单的房间支持联房，目前不支持跨订单联房
 
-![](.gitbook/assets/image%20%2886%29.png)
+![](.gitbook/assets/image%20%2887%29.png)
 
 * 设置主从房：主房从房可以相互切换，主房是用于结算 房间，从房是被转入的房间。
 
-![](.gitbook/assets/image%20%2888%29.png)
+![](.gitbook/assets/image%20%2889%29.png)
 
 * 联账退房：将联房合并结算，并办理离店退房
 
@@ -142,11 +210,11 @@
 2. 选择合并结算
 3. 合并结算后，账单转移显示
 
-![](.gitbook/assets/image%20%28404%29.png)
+![](.gitbook/assets/image%20%28406%29.png)
 
-![](.gitbook/assets/image%20%28361%29.png)
+![](.gitbook/assets/image%20%28363%29.png)
 
-![](.gitbook/assets/image%20%28629%29.png)
+![](.gitbook/assets/image%20%28632%29.png)
 
 ### 优化
 
@@ -158,7 +226,7 @@
 
 #### 酒店账务对账表优化：增加导出功能，增加离店日期展示等）
 
-![](.gitbook/assets/image%20%28570%29.png)
+![](.gitbook/assets/image%20%28572%29.png)
 
 ![](.gitbook/assets/image%20%2863%29.png)
 
@@ -166,29 +234,29 @@
 
 该功能上线后，“入账”环节的“手动录入房费选项”已经取消，房费自动生成（上线前如图1，上线后如图2），降低酒店错误操作概率。
 
-![](.gitbook/assets/image%20%28487%29.png)
+![](.gitbook/assets/image%20%28489%29.png)
 
-![](.gitbook/assets/image%20%28471%29.png)
+![](.gitbook/assets/image%20%28473%29.png)
 
 #### 订单字段补全（客源结构、联系人、联系人电话）目前订单中联系人等字段未存，
 
 该功能上线后可以存储这些字段（如图）
 
-![](.gitbook/assets/image%20%28527%29.png)
+![](.gitbook/assets/image%20%28529%29.png)
 
 ### 营收分析&营收报表展示优化
 
 该功能上线后，业主可以更直观通过图表形式，查看收入、平均房价，间夜数等经营数据，可以选择时间跨度查看经营趋势，新增查询时间段的数据汇总。
 
-![](.gitbook/assets/image%20%28214%29.png)
+![](.gitbook/assets/image%20%28216%29.png)
 
-![](.gitbook/assets/image%20%28513%29.png)
+![](.gitbook/assets/image%20%28515%29.png)
 
 #### CRS新增酒店信息增加品牌字段
 
 为所有酒店增加一个品牌线字段（如图），现存酒店统一用smart。随着阿波罗上线，匹配三个品牌线（轻享、智享、尊享）
 
-![](.gitbook/assets/image%20%28539%29.png)
+![](.gitbook/assets/image%20%28541%29.png)
 
 #### 在线客服调整至私有云
 
@@ -205,7 +273,7 @@
 
 ![&#x56FE;1](.gitbook/assets/image%20%2865%29.png)
 
-![&#x56FE;2](.gitbook/assets/image%20%28640%29.png)
+![&#x56FE;2](.gitbook/assets/image%20%28643%29.png)
 
 ![&#x56FE;3](.gitbook/assets/image%20%2849%29.png)
 
@@ -215,9 +283,9 @@
 
 * 收银员交款明细表
 
-![](.gitbook/assets/image%20%28418%29.png)
+![](.gitbook/assets/image%20%28420%29.png)
 
-![](.gitbook/assets/image%20%28187%29.png)
+![](.gitbook/assets/image%20%28188%29.png)
 
 ## v2.1.7-2019-01-29
 
@@ -225,7 +293,7 @@
 
 * 会员转化报表
 
-![](.gitbook/assets/image%20%28443%29.png)
+![](.gitbook/assets/image%20%28445%29.png)
 
 * 订单来源表
 
@@ -233,7 +301,7 @@
 
 * 挂账报表
 
-![](.gitbook/assets/image%20%28424%29.png)
+![](.gitbook/assets/image%20%28426%29.png)
 
 * 身份证数据脱敏
 
@@ -246,7 +314,7 @@
 * 申诉列表页面默认显示为查询日期
 * 夜审逻辑优化：客服操作时间拉长至10天，预付支持NoShow申诉，申诉成功与驳回文字提示变更，申诉超时与人工驳回区分显示
 
-![](.gitbook/assets/image%20%28600%29.png)
+![](.gitbook/assets/image%20%28603%29.png)
 
 * 长住房：房态图入住及新建订单入离范围开放至180天
 * 订单房价修改-续住和换房支持按日改价
@@ -277,15 +345,15 @@
 
 * 全部订单页面筛选逻辑优化：新增支付状态，日期类型筛选
 
-![](.gitbook/assets/image%20%28498%29.png)
+![](.gitbook/assets/image%20%28500%29.png)
 
 * 在住订单详情页面展示每日房价
 
-![](.gitbook/assets/image%20%28193%29.png)
+![](.gitbook/assets/image%20%28194%29.png)
 
 * 订单详情页支持跳转房单
 
-![](.gitbook/assets/image%20%28441%29.png)
+![](.gitbook/assets/image%20%28443%29.png)
 
 ### 修复
 
@@ -484,7 +552,7 @@
 * 订单日志新增会员折扣、优惠券选项、续房记录
 * 登陆页面新增公告
 
-![&#x767B;&#x9646;&#x9875;&#x9762;&#x516C;&#x544A;](.gitbook/assets/image%20%28301%29.png)
+![&#x767B;&#x9646;&#x9875;&#x9762;&#x516C;&#x544A;](.gitbook/assets/image%20%28303%29.png)
 
 ### 修复
 
