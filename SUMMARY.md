@@ -169,7 +169,7 @@
 * [Titan常见问题](tai-tan-2.0-chang-jian-wen-ti/README.md)
   * [订单问题](tai-tan-2.0-chang-jian-wen-ti/ding-dan-wen-ti.md)
   * [账目问题](tai-tan-2.0-chang-jian-wen-ti/zhang-mu-wen-ti.md)
-  * [直连问题](tai-tan-2.0-chang-jian-wen-ti/zhi-lian-wen-ti.md)
+  * [OTA直连问题](tai-tan-2.0-chang-jian-wen-ti/zhi-lian-wen-ti.md)
   * [库存问题](tai-tan-2.0-chang-jian-wen-ti/ku-cun-wen-ti.md)
   * [身份证读卡器问题](tai-tan-2.0-chang-jian-wen-ti/shen-fen-zheng-du-ka-qi-wen-ti.md)
   * [报表问题](tai-tan-2.0-chang-jian-wen-ti/bao-biao-wen-ti.md)
