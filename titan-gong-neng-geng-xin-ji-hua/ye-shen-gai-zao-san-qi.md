@@ -116,6 +116,8 @@ description: 介绍夜审三期的改造
 
 ![](../.gitbook/assets/image%20%2898%29.png)
 
+* 取消是由客人发起的，noshow是由酒店发起的。
+
 ### 待入住订单手工noshow
 
 [点击查看订单noshow视频](http://crs-pms-vidio.oss-cn-beijing.aliyuncs.com/%E5%A4%9C%E5%AE%A1-%E6%95%B4%E5%8D%95noshow.mp4)
@@ -200,8 +202,6 @@ description: 介绍夜审三期的改造
 
 ![](../.gitbook/assets/image%20%28477%29.png)
 
-![](https://uploader.shimo.im/f/Io67fKtnVpAYw1oK.png!thumbnail)
-
 ### 异常订单申诉
 
 #### 申诉有效时间
@@ -230,19 +230,17 @@ description: 介绍夜审三期的改造
 
 选择完成后，在弹窗的框中填写相关信息（选择不同的申诉内容，需要填写的信息也不同）
 
-![](../.gitbook/assets/image%20%28545%29.png)
-
 如选择订单号错误，则需要填写以下信息
 
 ![](../.gitbook/assets/image%20%28332%29.png)
 
-如此次选择“联系电话错误”，则需要填写以下信息
-
-![](../.gitbook/assets/image%20%28178%29.png)
-
 点击“添加申诉原因”，可以添加订单的申诉原因
 
 ![](../.gitbook/assets/image%20%2824%29.png)
+
+如此次选择“联系电话错误”，则需要填写以下信息
+
+![](../.gitbook/assets/image%20%28178%29.png)
 
 申诉信息填写完毕后，点击右下角的“提交申诉”按钮即可
 
