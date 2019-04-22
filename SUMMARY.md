@@ -164,7 +164,7 @@
   * [sales相关问题](tai-tan-2.0-chang-jian-wen-ti/sales-xiang-guan-wen-ti.md)
 * [Titan产品更新历史日志](tai-tan-chan-pin-geng-xin-ri-zhi.md)
 * [Titan功能更新计划](titan-gong-neng-geng-xin-ji-hua/README.md)
-  * [夜审改造（三期）简介](titan-gong-neng-geng-xin-ji-hua/ye-shen-gai-zao-san-qi.md)
+  * [夜审改造（三期）](titan-gong-neng-geng-xin-ji-hua/ye-shen-gai-zao-san-qi.md)
   * [夜审三期的意义与优势](titan-gong-neng-geng-xin-ji-hua/ye-shen-san-qi-de-yi-yi-yu-you-shi.md)
   * [夜审前/后需要做什么](titan-gong-neng-geng-xin-ji-hua/ye-shen-qian-hou-xu-yao-zuo-shen-me.md)
   * [重点操作指引](titan-gong-neng-geng-xin-ji-hua/zhong-dian-cao-zuo-zhi-yin/README.md)
