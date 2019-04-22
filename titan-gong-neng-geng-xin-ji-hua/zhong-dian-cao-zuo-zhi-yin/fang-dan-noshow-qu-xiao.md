@@ -14,11 +14,11 @@ Noshow与取消的区别：
 
 * 点击订单列表，通过今日预抵，进入办理入住页面
 
-![](../../.gitbook/assets/image%20%28263%29.png)
+![](../../.gitbook/assets/image%20%28270%29.png)
 
 * 点击“noshow”并确认，该房单会变为noshow状态（另外两个房间仍然可以办理入住）
 
-![](../../.gitbook/assets/image%20%2869%29.png)
+![](../../.gitbook/assets/image%20%2870%29.png)
 
 * noshow后，库存释放、房态释放
 
@@ -26,11 +26,11 @@ Noshow与取消的区别：
 
 * 在办理入住页面，找到需要取消的房单，点击“取消房单”并确认即可。
 
-![](../../.gitbook/assets/image%20%28666%29.png)
+![](../../.gitbook/assets/image%20%28676%29.png)
 
 * 取消成功后，原订单中的3间房会变成2间，且未操作noshow也未操作取消的房单仍然可以办理入住。
 
-![](../../.gitbook/assets/image%20%2899%29.png)
+![](../../.gitbook/assets/image%20%28102%29.png)
 
 * PMS只能取消通过PMS创建的订单
 

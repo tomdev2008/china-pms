@@ -2,5 +2,5 @@
 
 在住钟点房在房态图中会有特殊标识，如下图：
 
-![](../../../.gitbook/assets/image%20%28321%29.png)
+![](../../../.gitbook/assets/image%20%28328%29.png)
 

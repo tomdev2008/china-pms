@@ -6,29 +6,29 @@
 
 * 点击房间，点击“账务/离店”
 
-![](../../../.gitbook/assets/image%20%28212%29.png)
+![](../../../.gitbook/assets/image%20%28218%29.png)
 
 * 结清账务，确认退房即可
 
-![](../../../.gitbook/assets/image%20%28646%29.png)
+![](../../../.gitbook/assets/image%20%28655%29.png)
 
-![](../../../.gitbook/assets/image%20%28512%29.png)
+![](../../../.gitbook/assets/image%20%28520%29.png)
 
 #### 通过在住详情办理结账退房
 
 * 点击房间，点击“在住详情”
 
-![](../../../.gitbook/assets/image%20%28500%29.png)
+![](../../../.gitbook/assets/image%20%28508%29.png)
 
 * 进入“账单/退房”页面，点击“结账退房”
 
-![](../../../.gitbook/assets/image%20%28572%29.png)
+![](../../../.gitbook/assets/image%20%28580%29.png)
 
 * 结清账务，确认离店即可
 
 ![](../../../.gitbook/assets/image%20%2820%29.png)
 
-![](../../../.gitbook/assets/image%20%28506%29.png)
+![](../../../.gitbook/assets/image%20%28514%29.png)
 
 
 

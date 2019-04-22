@@ -4,13 +4,13 @@
 
 OTA/MM/oyo官网渠道等非pms创建的订单，产生语音提醒与消息浮窗
 
-![&#x65B0;&#x8BA2;&#x5355;&#x63D0;&#x9192;](../../.gitbook/assets/image%20%28597%29.png)
+![&#x65B0;&#x8BA2;&#x5355;&#x63D0;&#x9192;](../../.gitbook/assets/image%20%28605%29.png)
 
 ## 订单取消提醒
 
 非PMS订单取消后，系统会发送语音与弹窗提醒进行通知。
 
-![&#x53D6;&#x6D88;&#x63D0;&#x9192;](../../.gitbook/assets/image%20%2891%29.png)
+![&#x53D6;&#x6D88;&#x63D0;&#x9192;](../../.gitbook/assets/image%20%2894%29.png)
 
 #### 
 
