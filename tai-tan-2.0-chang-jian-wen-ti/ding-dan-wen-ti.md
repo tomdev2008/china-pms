@@ -6,9 +6,9 @@
 
 解决办法：点击“在住管理”→“在住列表”→“全部房单”，找到该房单，点击“取消排房”即可。
 
-![](../.gitbook/assets/image%20%28599%29.png)
+![](../.gitbook/assets/image%20%28600%29.png)
 
-![](../.gitbook/assets/image%20%2869%29.png)
+![](../.gitbook/assets/image%20%2870%29.png)
 
 ## 销售订单客人正常入住，由于前台没有及时操作入住，导致订单NO SHOW，如何更改订单状态？
 
@@ -39,7 +39,7 @@ NoShow如果现付，入住次日12:00之前是可以办入住的；
 
 如下图所示：
 
-![](../.gitbook/assets/image%20%2896%29.png)
+![](../.gitbook/assets/image%20%2897%29.png)
 
 ## OTA订单取消了，PMS没有同步是什么问题？
 
@@ -49,5 +49,5 @@ NoShow如果现付，入住次日12:00之前是可以办入住的；
 
 店长可通过 [https://crsx.oyohotels.cn](https://crsx.oyohotels.cn) 登陆CRS，通过订单列表-渠道订单号查询对应订单状态信息。
 
-![&#x5B99;&#x65AF;&#x8BA2;&#x5355;&#x72B6;&#x6001;&#x67E5;&#x8BE2;&#x9875;&#x9762;](../.gitbook/assets/image%20%28254%29.png)
+![&#x5B99;&#x65AF;&#x8BA2;&#x5355;&#x72B6;&#x6001;&#x67E5;&#x8BE2;&#x9875;&#x9762;](../.gitbook/assets/image%20%28255%29.png)
 

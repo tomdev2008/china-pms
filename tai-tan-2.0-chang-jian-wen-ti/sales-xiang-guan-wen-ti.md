@@ -8,9 +8,9 @@ Sales订单与其他订单一样，也会出现在今日预抵的订单中，按
 
 * 进入今日预抵页面，为订单排房
 
-![](../.gitbook/assets/image%20%28472%29.png)
+![](../.gitbook/assets/image%20%28473%29.png)
 
-![](../.gitbook/assets/image%20%28129%29.png)
+![](../.gitbook/assets/image%20%28130%29.png)
 
 ## Sales订单客人实际入住，而订单Noshow，如何操作？
 
@@ -38,7 +38,7 @@ no show 订单若未申诉，在预离日早上6点将不再占用库存。
 
 * 进入宙斯系统的订单管理页面。输入订单信息，找到该订单，点击详情，进入到详情页面，创建人就是该订单的销售
 
-![](../.gitbook/assets/image%20%28207%29.png)
+![](../.gitbook/assets/image%20%28208%29.png)
 
-![](../.gitbook/assets/image%20%2831%29.png)
+![](../.gitbook/assets/image%20%2832%29.png)
 

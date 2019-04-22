@@ -6,11 +6,11 @@
 
 * 找到需要补排房的订单，点击“排房”按钮。
 
-![](../../../.gitbook/assets/image%20%28644%29.png)
+![](../../../.gitbook/assets/image%20%28645%29.png)
 
 * 进入到入住页面，排房读取客人身份信息，确认入住即可。
 
-![](../../../.gitbook/assets/image%20%28483%29.png)
+![](../../../.gitbook/assets/image%20%28484%29.png)
 
 ### 
 

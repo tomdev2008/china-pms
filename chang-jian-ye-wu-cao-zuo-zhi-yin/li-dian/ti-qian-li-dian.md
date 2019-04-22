@@ -18,72 +18,72 @@
 
 1.在房态图中找到需要办理离店的房间，点击“在住详情”查看入离时间。
 
-![](../../.gitbook/assets/image%20%28225%29.png)
+![](../../.gitbook/assets/image%20%28226%29.png)
 
 2.确认为当日入住订单，需要办理提前离店，点击右上角的结账退房。
 
-![](../../.gitbook/assets/image%20%28580%29.png)
+![](../../.gitbook/assets/image%20%28581%29.png)
 
 3.在弹出的提示页面选择“不生成房费”，根据提示退还客人押金，然后确认退房即可。
 
-![](../../.gitbook/assets/image%20%28392%29.png)
+![](../../.gitbook/assets/image%20%28393%29.png)
 
-![](../../.gitbook/assets/image%20%28373%29.png)
+![](../../.gitbook/assets/image%20%28374%29.png)
 
-![](../../.gitbook/assets/image%20%28381%29.png)
+![](../../.gitbook/assets/image%20%28382%29.png)
 
 #### 不收费提前离店--非当日入离
 
 1.在房态图中找到需要办理退房的房间，进入在住详情，查看入离时间，点击结账退房
 
-![](../../.gitbook/assets/image%20%28429%29.png)
+![](../../.gitbook/assets/image%20%28430%29.png)
 
 ![](../../.gitbook/assets/image%20%281%29.png)
 
 2.结清账务后确认退房（若押金剩余，则退还 押金；若存在欠款，则补收银）
 
-![](../../.gitbook/assets/image%20%28376%29.png)
+![](../../.gitbook/assets/image%20%28377%29.png)
 
-![](../../.gitbook/assets/image%20%28381%29.png)
+![](../../.gitbook/assets/image%20%28382%29.png)
 
 #### 收费提前离店-当日入离
 
 1.在房态图中找到需要办理离店的房间，点击“在住详情”查看入离时间。
 
-![](../../.gitbook/assets/image%20%28225%29.png)
+![](../../.gitbook/assets/image%20%28226%29.png)
 
 2.确认为当日入住订单，需要办理提前离店，点击右上角的结账退房。
 
-![](../../.gitbook/assets/image%20%28580%29.png)
+![](../../.gitbook/assets/image%20%28581%29.png)
 
 3.在弹出的提示页面选择“生成房费”，结清账务后确认退房（若押金剩余，则退还 押金；若存在欠款，则补收银）
 
-![](../../.gitbook/assets/image%20%2836%29.png)
+![](../../.gitbook/assets/image%20%2837%29.png)
 
-![](../../.gitbook/assets/image%20%28376%29.png)
+![](../../.gitbook/assets/image%20%28377%29.png)
 
-![](../../.gitbook/assets/image%20%28381%29.png)
+![](../../.gitbook/assets/image%20%28382%29.png)
 
 #### 收费提前离店--非当日入离
 
 1.在房态图中找到需要办理退房的房间，进入在住详情，查看入离时间。
 
-![](../../.gitbook/assets/image%20%2811%29.png)
+![](../../.gitbook/assets/image%20%2812%29.png)
 
 2.以该房间为例，预离开日期为3月13日，客人在3月12日需要提前离店，那么最后一日的房费需要手动入账，通过账单/退房页面下的【入账】，录入需收取费用。
 
-![](../../.gitbook/assets/image%20%28597%29.png)
+![](../../.gitbook/assets/image%20%28598%29.png)
 
 点击【房费调整】，录入房费调整金额\(此例子中，房价为200元），并备注【提前离店】。
 
-![](../../.gitbook/assets/image%20%28364%29.png)
+![](../../.gitbook/assets/image%20%28365%29.png)
 
   
 点击【结账退房】，根据提示结清账务后确认退房（若押金剩余，则退还 押金；若存在欠款，则补收银）
 
-![](../../.gitbook/assets/image%20%28328%29.png)
+![](../../.gitbook/assets/image%20%28329%29.png)
 
-![](../../.gitbook/assets/image%20%28476%29.png)
+![](../../.gitbook/assets/image%20%28477%29.png)
 
-![](../../.gitbook/assets/image%20%28417%29.png)
+![](../../.gitbook/assets/image%20%28418%29.png)
 
