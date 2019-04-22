@@ -4,7 +4,7 @@
 
 * 通过报表管理进入“酒店财务对账表”
 
-![](../../../.gitbook/assets/image%20%28240%29.png)
+![](../../../.gitbook/assets/image%20%28241%29.png)
 
 * 自定义日期及条件，查询相关财务数据，查询出的数据可以导出为excel报表。
 
@@ -16,7 +16,7 @@
 
 ![](../../../.gitbook/assets/image%20%2837%29.png)
 
-![](../../../.gitbook/assets/image%20%28460%29.png)
+![](../../../.gitbook/assets/image%20%28461%29.png)
 
 
 
