@@ -16,7 +16,7 @@
 
 ### 一.申请流程
 
-![](../../.gitbook/assets/image%20%28329%29.png)
+![](../../.gitbook/assets/image%20%28330%29.png)
 
 #### 点击“身份证读卡器申请”
 
@@ -24,7 +24,7 @@
 
 上传检测结果的图片，请用元道经纬拍摄，如下
 
-![](../../.gitbook/assets/image%20%28377%29.png)
+![](../../.gitbook/assets/image%20%28378%29.png)
 
 ## 发货流程
 
@@ -32,7 +32,7 @@
 
 #### 物流信息可在身份证问题反馈群里查看
 
-![](../../.gitbook/assets/image%20%28469%29.png)
+![](../../.gitbook/assets/image%20%28470%29.png)
 
 ## 到货验收
 
