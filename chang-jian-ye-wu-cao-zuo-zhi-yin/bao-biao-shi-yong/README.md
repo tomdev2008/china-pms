@@ -4,5 +4,5 @@
 
 ## 进入“报表管理”页面后，所有报表根据用途分类展示
 
-![](../../.gitbook/assets/image%20%2892%29.png)
+![](../../.gitbook/assets/image%20%2893%29.png)
 
