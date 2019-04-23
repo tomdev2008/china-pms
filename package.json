@@ -1,0 +1,22 @@
+{
+  "name": "china-pms",
+  "version": "1.0.0",
+  "description": "--- description: 本使用帮助主要是针对Titan的功能和界面进行介绍，并针对常见问题进行答疑。 ---",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonoyozhou/china-pms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasonoyozhou/china-pms/issues"
+  },
+  "homepage": "https://github.com/jasonoyozhou/china-pms#readme",
+  "dependencies": {
+    "gitbook-plugin-search-pro": "^2.0.2"
+  }
+}
