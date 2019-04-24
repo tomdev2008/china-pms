@@ -4,15 +4,15 @@
 
 整单取消的规则如下：
 
-![](../../../.gitbook/assets/image%20%28649%29.png)
+![](../../../.gitbook/assets/image%20%28651%29.png)
 
 * 进入团单“排房入住”页面
 
-![](../../../.gitbook/assets/image%20%28610%29.png)
+![](../../../.gitbook/assets/image%20%28612%29.png)
 
 * 在左侧“订单信息”栏的图示处选择“取消订单”→“确认”即可
 
-![](../../../.gitbook/assets/image%20%28617%29.png)
+![](../../../.gitbook/assets/image%20%28619%29.png)
 
-![](../../../.gitbook/assets/image%20%28380%29.png)
+![](../../../.gitbook/assets/image%20%28381%29.png)
 

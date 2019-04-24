@@ -14,11 +14,11 @@
 
 #### 1.在房态图中找到需要办理退房的房间，点击“在住详情”，离店日期
 
-![](../../.gitbook/assets/image%20%28558%29.png)
+![](../../.gitbook/assets/image%20%28560%29.png)
 
 #### 2.确定离店日期为今日，点击结账退房。
 
-![](../../.gitbook/assets/image%20%28604%29.png)
+![](../../.gitbook/assets/image%20%28606%29.png)
 
 * **（无需收款也无需退款）**提示结账成功 ，确认退房即可。
 
@@ -32,7 +32,7 @@
 
 * **（客人押金有剩余，需退款）**根据提示，退还客人押金后会提示结账成功，点击确认退房即可。
 
-![](../../.gitbook/assets/image%20%28483%29.png)
+![](../../.gitbook/assets/image%20%28485%29.png)
 
-![](../../.gitbook/assets/image%20%28378%29.png)
+![](../../.gitbook/assets/image%20%28379%29.png)
 

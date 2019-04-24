@@ -5,7 +5,7 @@
 * 点击报表管理→报表目录→团队对账表
 * 选择时间段，可以进行查看（报表支持导出）
 
-![](../../../.gitbook/assets/image%20%28313%29.png)
+![](../../../.gitbook/assets/image%20%28314%29.png)
 
 ![](../../../.gitbook/assets/image%20%28281%29.png)
 

@@ -8,7 +8,7 @@
 
 * 确认加收或不加收房费后，结清账务，确认退房即可
 
-![](../../../.gitbook/assets/image%20%28339%29.png)
+![](../../../.gitbook/assets/image%20%28340%29.png)
 
 ![](../../../.gitbook/assets/image.png)
 

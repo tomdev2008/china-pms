@@ -6,7 +6,7 @@
 
 解决办法：点击“在住管理”→“在住列表”→“全部房单”，找到该房单，点击“取消排房”即可。
 
-![](../.gitbook/assets/image%20%28637%29.png)
+![](../.gitbook/assets/image%20%28639%29.png)
 
 ![](../.gitbook/assets/image%20%2874%29.png)
 
