@@ -12,31 +12,31 @@
 
 * 确认需要申诉的订单号并复制（如下图）。
 
-![](../../../.gitbook/assets/image%20%28426%29.png)
+![](../../../.gitbook/assets/image%20%28431%29.png)
 
 * 点击页面悬浮框中的“申诉”按钮，跳转到申诉页面。
 
-![](../../../.gitbook/assets/image%20%28321%29.png)
+![](../../../.gitbook/assets/image%20%28326%29.png)
 
 * 将需要申诉的订单号粘贴进去，并点击“校验订单号”，若订单号正确且订单在申诉有效期内，页面下方会出现申请操作区。
 
-![](../../../.gitbook/assets/image%20%28303%29.png)
+![](../../../.gitbook/assets/image%20%28308%29.png)
 
 * 在下拉框中选择申诉的具体内容。
 
-![](../../../.gitbook/assets/image%20%28140%29.png)
+![](../../../.gitbook/assets/image%20%28142%29.png)
 
 * 选择完成后，在弹窗的框中填写相关信息（选择不同的申诉内容，需要填写的信息也不同）如选择订单号错误，则需要填写以下信息
 
-![](../../../.gitbook/assets/image%20%28350%29.png)
+![](../../../.gitbook/assets/image%20%28355%29.png)
 
 * 点击“添加申诉原因”，可以添加订单的申诉原因。
 
-![](../../../.gitbook/assets/image%20%2825%29.png)
+![](../../../.gitbook/assets/image%20%2826%29.png)
 
 * 如此次选择“联系电话错误”，则需要填写以下信息。
 
-![](../../../.gitbook/assets/image%20%28190%29.png)
+![](../../../.gitbook/assets/image%20%28193%29.png)
 
 * 申诉信息填写完毕后，点击右下角的“提交申诉”按钮即可。
 
@@ -50,11 +50,11 @@
 
 * 点击“在住管理”→“在住列表” 。
 
-![](../../../.gitbook/assets/image%20%28158%29.png)
+![](../../../.gitbook/assets/image%20%28161%29.png)
 
 * 点击“申诉”标签，即可进入申诉列表，可以查看申诉的详情及日志。
 
-![](../../../.gitbook/assets/image%20%28544%29.png)
+![](../../../.gitbook/assets/image%20%28550%29.png)
 
-![](../../../.gitbook/assets/image%20%28302%29.png)
+![](../../../.gitbook/assets/image%20%28307%29.png)
 

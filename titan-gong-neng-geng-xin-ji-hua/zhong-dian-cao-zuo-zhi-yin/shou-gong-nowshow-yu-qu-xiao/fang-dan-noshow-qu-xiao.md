@@ -1,9 +1,5 @@
 # 房单Noshow/取消
 
-Noshow与取消的区别：
-
-取消是由客人发起的，noshow是由酒店发起的。
-
 ## 待入住房单手工NoShow   
 
 酒店可以在入住日当日23：00~次日6：00之间，对未到店的客人标记NoShow
@@ -14,11 +10,11 @@ Noshow与取消的区别：
 
 * 点击订单列表，通过今日预抵，进入办理入住页面
 
-![](../../.gitbook/assets/image%20%28275%29.png)
+![](../../../.gitbook/assets/image%20%28279%29.png)
 
 * 点击“noshow”并确认，该房单会变为noshow状态（另外两个房间仍然可以办理入住）
 
-![](../../.gitbook/assets/image%20%2870%29.png)
+![](../../../.gitbook/assets/image%20%2871%29.png)
 
 * noshow后，库存释放、房态释放
 
@@ -26,11 +22,13 @@ Noshow与取消的区别：
 
 * 在办理入住页面，找到需要取消的房单，点击“取消房单”并确认即可。
 
-![](../../.gitbook/assets/image%20%28688%29.png)
+![](../../../.gitbook/assets/image%20%28695%29.png)
 
 * 取消成功后，原订单中的3间房会变成2间，且未操作noshow也未操作取消的房单仍然可以办理入住。
 
-![](../../.gitbook/assets/image%20%28103%29.png)
+![](../../../.gitbook/assets/image%20%28104%29.png)
 
-* PMS只能取消通过PMS创建的订单
+
+
+#### 
 

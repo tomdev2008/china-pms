@@ -6,17 +6,17 @@
 
 * 点击订单列表，通过今日预抵，进入办理入住页面。
 
-![](../../.gitbook/assets/image%20%28340%29.png)
+![](../../../.gitbook/assets/image%20%28345%29.png)
 
 * 点击“订单信息”栏右上角的三个点，点击“noshow”并确认，可以将该订单下所有未入住的房单变为noshow状态。
 
-![](../../.gitbook/assets/image%20%28424%29.png)
+![](../../../.gitbook/assets/image%20%28429%29.png)
 
-![](../../.gitbook/assets/image%20%28664%29.png)
+![](../../../.gitbook/assets/image%20%28671%29.png)
 
 * 在全部订单中查看该订单状态，可以看到订单状态变为“noshow”。
 
-![](../../.gitbook/assets/image%20%28132%29.png)
+![](../../../.gitbook/assets/image%20%28134%29.png)
 
 ## 待入住订单手工取消
 
@@ -24,11 +24,11 @@
 
 * 进入办理入住页面，点击“订单信息”栏右上角的三个点，点击“取消订单”并确认，可以取消该订单。
 
-![](../../.gitbook/assets/image%20%28357%29.png)
+![](../../../.gitbook/assets/image%20%28362%29.png)
 
 * 在全部订单中查看该订单状态，可以看到订单状态变为“取消”。
 
-![](../../.gitbook/assets/image%20%28273%29.png)
+![](../../../.gitbook/assets/image%20%28277%29.png)
 
 ### 
 

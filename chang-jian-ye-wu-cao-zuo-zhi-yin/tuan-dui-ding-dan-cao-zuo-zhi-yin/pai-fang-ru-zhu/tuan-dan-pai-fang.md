@@ -11,22 +11,22 @@
 
 * 点击左侧菜单栏中的“订单管理”→“订单列表”→“团单”，进入团队订单列表
 
-![](../../../.gitbook/assets/image%20%28148%29.png)
+![](../../../.gitbook/assets/image%20%28151%29.png)
 
 * 找到需要排房的订单，点击右侧“排房入住”按钮，可进入排房入住页面
 
-![](../../../.gitbook/assets/image%20%28107%29.png)
+![](../../../.gitbook/assets/image%20%28108%29.png)
 
 * 页面左侧“订单信息”栏是该订单的详情，不可编辑。
 * 在中间“排房入住”栏中，点击一键排房，即可自动为订单分配符合的房间
 
-![](../../../.gitbook/assets/image%20%28561%29.png)
+![](../../../.gitbook/assets/image%20%28567%29.png)
 
-![](../../../.gitbook/assets/image%20%28360%29.png)
+![](../../../.gitbook/assets/image%20%28365%29.png)
 
 * 返回房态图可看到，房间已被安排好
 
-![](../../../.gitbook/assets/image%20%28475%29.png)
+![](../../../.gitbook/assets/image%20%28481%29.png)
 
 注：
 
