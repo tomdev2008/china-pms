@@ -7,10 +7,10 @@
   
 点击远程协助应用后的下载，获取远程协助工具。
 
-![&#x70B9;&#x51FB;&#x4E0B;&#x8F7D;](../../.gitbook/assets/image%20%28500%29.png)
+![&#x70B9;&#x51FB;&#x4E0B;&#x8F7D;](../../.gitbook/assets/image%20%28504%29.png)
 
   
 将下载好的应用安装完毕后，提供远程协助工具的id与密码即可获得技术支持。
 
-![&#x63D0;&#x4F9B;&#x8FDC;&#x7A0B;&#x7684;ID&#x548C;&#x5BC6;&#x7801;](../../.gitbook/assets/image%20%28455%29.png)
+![&#x63D0;&#x4F9B;&#x8FDC;&#x7A0B;&#x7684;ID&#x548C;&#x5BC6;&#x7801;](../../.gitbook/assets/image%20%28459%29.png)
 

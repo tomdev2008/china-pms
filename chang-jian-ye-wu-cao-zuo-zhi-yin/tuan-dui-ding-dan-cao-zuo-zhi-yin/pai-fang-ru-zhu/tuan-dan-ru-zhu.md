@@ -18,21 +18,21 @@
 
 * 读取客人身份信息后，该房号左下角会有相应显示
 
-![](../../../.gitbook/assets/image%20%28474%29.png)
+![](../../../.gitbook/assets/image%20%28478%29.png)
 
 * 逐个房间读取客人信息
 
-![](../../../.gitbook/assets/image%20%28569%29.png)
+![](../../../.gitbook/assets/image%20%28573%29.png)
 
-![](../../../.gitbook/assets/image%20%28538%29.png)
+![](../../../.gitbook/assets/image%20%28542%29.png)
 
 * 在右侧“收款信息”栏，对整个团单收取押金，确认入住即可
 
-![](../../../.gitbook/assets/image%20%28206%29.png)
+![](../../../.gitbook/assets/image%20%28207%29.png)
 
 * 返回房态图查看，房间均变为在住状态
 
-![](../../../.gitbook/assets/image%20%28352%29.png)
+![](../../../.gitbook/assets/image%20%28354%29.png)
 
 注： 
 
