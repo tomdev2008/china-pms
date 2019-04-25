@@ -4,49 +4,49 @@
 
 * 在房态图中点击需要单独退房的房间，点击“账务/离店”，进入离店页面
 
-![](../../../.gitbook/assets/image%20%28668%29.png)
+![](../../../.gitbook/assets/image%20%28695%29.png)
 
 * 或者单击房间，点击“在住详情”，点击“账单退房”，点击“结账退房”进入退房页面
 
-![](../../../.gitbook/assets/image%20%28393%29.png)
+![](../../../.gitbook/assets/image%20%28410%29.png)
 
-![](../../../.gitbook/assets/image%20%28160%29.png)
+![](../../../.gitbook/assets/image%20%28168%29.png)
 
 * 会出现提示框，可选择将账单转给主房，也可以选择单独结账
 
-![](../../../.gitbook/assets/image%20%2824%29.png)
+![](../../../.gitbook/assets/image%20%2828%29.png)
 
 * 若选择转给主房，会显示结账成功，确认退房即可
 
-![](../../../.gitbook/assets/image%20%28555%29.png)
+![](../../../.gitbook/assets/image%20%28579%29.png)
 
 若选择单独结账，则需要根据提示结清账务，结账成功后确认退房即可
 
-![](../../../.gitbook/assets/image%20%28669%29.png)
+![](../../../.gitbook/assets/image%20%28696%29.png)
 
-![](../../../.gitbook/assets/image%20%28572%29.png)
+![](../../../.gitbook/assets/image%20%28596%29.png)
 
 * 若团单中的其他房间均已退房离店（如下图中402房），在办理最后一间在住房结账离店时，需要结清整个团单的账务（确认退房时提示：团单最后一间离店必须主房平账才能离店）
 
-![](../../../.gitbook/assets/image%20%28392%29.png)
+![](../../../.gitbook/assets/image%20%28409%29.png)
 
-![](../../../.gitbook/assets/image%20%28403%29.png)
+![](../../../.gitbook/assets/image%20%28420%29.png)
 
 * 此时需要切换到团单的主账单，点击“结账退房”
 
-![](../../../.gitbook/assets/image%20%28500%29.png)
+![](../../../.gitbook/assets/image%20%28523%29.png)
 
 * 选择结账的房号，确认结账
 
-![](../../../.gitbook/assets/image%20%28605%29.png)
+![](../../../.gitbook/assets/image%20%28629%29.png)
 
 * 根据提示结清账务
 
-![](../../../.gitbook/assets/image%20%28488%29.png)
+![](../../../.gitbook/assets/image%20%28509%29.png)
 
 * 确认退房即可
 
-![](../../../.gitbook/assets/image%20%28356%29.png)
+![](../../../.gitbook/assets/image%20%28370%29.png)
 
 
 
