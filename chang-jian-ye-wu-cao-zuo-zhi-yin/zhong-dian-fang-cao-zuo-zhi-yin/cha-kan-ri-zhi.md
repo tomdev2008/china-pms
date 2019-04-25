@@ -6,7 +6,7 @@
 
 * 点击房间，点击“在住详情”
 
-![](../../.gitbook/assets/image%20%28415%29.png)
+![](../../.gitbook/assets/image%20%28417%29.png)
 
 * 点击“日志”，即可查看该房间的操作日志
 
@@ -21,7 +21,7 @@
 
 * 点击“进入主房单”
 
-![](../../.gitbook/assets/image%20%28668%29.png)
+![](../../.gitbook/assets/image%20%28670%29.png)
 
 * 点击“日志”即可查看
 
