@@ -4,14 +4,14 @@
 
 * 通过“报表管理”→“报表目录”进入“交班记录表”。
 
-![](../../.gitbook/assets/image%20%28312%29.png)
+![](../../.gitbook/assets/image%20%28330%29.png)
 
 * 选择需要查询的营业日时间段，点击查询后，会出现查询结果。
 
-![](../../.gitbook/assets/image%20%28647%29.png)
+![](../../.gitbook/assets/image%20%28688%29.png)
 
 * 展示该当班时段的备用金记录、收款汇总及消费汇总。
 * 点击“查看明细”可以查看明细数据。
 
-![](../../.gitbook/assets/image%20%28136%29.png)
+![](../../.gitbook/assets/image%20%28143%29.png)
 
