@@ -35,7 +35,7 @@
 
 ![](../../../.gitbook/assets/image%20%2881%29.png)
 
-![](../../../.gitbook/assets/image%20%28818%29.png)
+![](../../../.gitbook/assets/image%20%28819%29.png)
 
 * 确认续住即可
 

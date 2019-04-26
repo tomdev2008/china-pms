@@ -8,7 +8,7 @@
 
 * 下载内容；谷歌浏览器、泰坦安装包、远程工具（Teamvivew）
 
-![](../../.gitbook/assets/image%20%28602%29.png)
+![](../../.gitbook/assets/image%20%28603%29.png)
 
 友情提示
 
@@ -29,7 +29,7 @@
 
 #### **读卡器提示；读取失败，显示未检测到身份证，请放置身份证。图（2）**
 
-![](../../.gitbook/assets/image%20%28781%29.png)
+![](../../.gitbook/assets/image%20%28782%29.png)
 
                                                          
 
@@ -87,15 +87,15 @@
 
 3.鼠标对准OYO泰坦快捷方式，右键选择属性打开
 
-![](../../.gitbook/assets/image%20%28792%29.png)
+![](../../.gitbook/assets/image%20%28793%29.png)
 
 4.选择‘打开文件所在位置’
 
-![](../../.gitbook/assets/image%20%28811%29.png)
+![](../../.gitbook/assets/image%20%28812%29.png)
 
 5.打开"文件所在的位置“选择”config”
 
-![](../../.gitbook/assets/image%20%28644%29.png)
+![](../../.gitbook/assets/image%20%28645%29.png)
 
 6.将chrome复制的“目标”栏粘贴到“BrowserUrl”
 

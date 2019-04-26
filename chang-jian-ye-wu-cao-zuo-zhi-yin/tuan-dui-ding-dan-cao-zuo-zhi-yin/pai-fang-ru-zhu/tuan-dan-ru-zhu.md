@@ -22,9 +22,9 @@
 
 * 逐个房间读取客人信息
 
-![](../../../.gitbook/assets/image%20%28648%29.png)
+![](../../../.gitbook/assets/image%20%28649%29.png)
 
-![](../../../.gitbook/assets/image%20%28614%29.png)
+![](../../../.gitbook/assets/image%20%28615%29.png)
 
 * 在右侧“收款信息”栏，对整个团单收取押金，确认入住即可
 

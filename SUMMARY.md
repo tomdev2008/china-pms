@@ -112,7 +112,6 @@
       * [查看非OTA挂账信息](chang-jian-ye-wu-cao-zuo-zhi-yin/bao-biao-shi-yong/bao-biao-fen-lei/gua-zhang-bao-biao.md)
       * [根据渠道核对账目](chang-jian-ye-wu-cao-zuo-zhi-yin/bao-biao-shi-yong/bao-biao-fen-lei/ding-dan-lai-yuan-biao.md)
       * [查看交接班账务信息](chang-jian-ye-wu-cao-zuo-zhi-yin/bao-biao-shi-yong/bao-biao-fen-lei/untitled.md)
-      * [查看收银员收款信息](chang-jian-ye-wu-cao-zuo-zhi-yin/bao-biao-shi-yong/bao-biao-fen-lei/shou-yin-yuan-shou-kuan-bao-biao.md)
     * [查看会员信息](chang-jian-ye-wu-cao-zuo-zhi-yin/bao-biao-shi-yong/hui-yuan-bao-biao/README.md)
       * [查看注册会员信息](chang-jian-ye-wu-cao-zuo-zhi-yin/bao-biao-shi-yong/hui-yuan-bao-biao/zhu-ce-hui-yuan-bao-biao.md)
       * [查看会员转化情况](chang-jian-ye-wu-cao-zuo-zhi-yin/bao-biao-shi-yong/hui-yuan-bao-biao/jiu-dian-hui-yuan-zhuan-hua-bao-biao.md)
