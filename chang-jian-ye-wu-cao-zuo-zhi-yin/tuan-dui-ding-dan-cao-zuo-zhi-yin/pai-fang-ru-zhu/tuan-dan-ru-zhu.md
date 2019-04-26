@@ -6,33 +6,33 @@
 
 * 点击左侧菜单栏中的“订单管理”→“订单列表”→“团单”，进入团队订单列表
 
-![](../../../.gitbook/assets/image%20%28169%29.png)
+![](../../../.gitbook/assets/image%20%28173%29.png)
 
 * 找到需要排房的订单，点击右侧“排房入住”按钮，可进入排房入住页面
 
-![](../../../.gitbook/assets/image%20%28120%29.png)
+![](../../../.gitbook/assets/image%20%28123%29.png)
 
 * 在“排房入住”栏中，单击排好的房间号，下方会出现录入客人信息的对话框，读取客人信息即可（若要增加该房间入住人，点击“增加房客”按钮，然后填写入住人信息）
 
-![](../../../.gitbook/assets/image%20%2843%29.png)
+![](../../../.gitbook/assets/image%20%2845%29.png)
 
 * 读取客人身份信息后，该房号左下角会有相应显示
 
-![](../../../.gitbook/assets/image%20%28538%29.png)
+![](../../../.gitbook/assets/image%20%28544%29.png)
 
 * 逐个房间读取客人信息
 
-![](../../../.gitbook/assets/image%20%28639%29.png)
+![](../../../.gitbook/assets/image%20%28648%29.png)
 
-![](../../../.gitbook/assets/image%20%28605%29.png)
+![](../../../.gitbook/assets/image%20%28614%29.png)
 
 * 在右侧“收款信息”栏，对整个团单收取押金，确认入住即可
 
-![](../../../.gitbook/assets/image%20%28227%29.png)
+![](../../../.gitbook/assets/image%20%28231%29.png)
 
 * 返回房态图查看，房间均变为在住状态
 
-![](../../../.gitbook/assets/image%20%28397%29.png)
+![](../../../.gitbook/assets/image%20%28401%29.png)
 
 注： 
 

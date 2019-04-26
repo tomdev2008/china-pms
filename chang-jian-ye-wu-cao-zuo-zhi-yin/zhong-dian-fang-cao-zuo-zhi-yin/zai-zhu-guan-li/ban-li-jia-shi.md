@@ -6,25 +6,25 @@
 
 * 点击房间，在弹出框中点击“办理加时”
 
-![](../../../.gitbook/assets/image%20%28265%29.png)
+![](../../../.gitbook/assets/image%20%28269%29.png)
 
 * 在跳出的“加时对话框”中，选择需加时长，录入加收金额，点击“确认加时”
 
-![](../../../.gitbook/assets/image%20%28701%29.png)
+![](../../../.gitbook/assets/image%20%28710%29.png)
 
 #### 通过“在住管理”办理加时
 
 * 点击房间，在弹出框中点击“在住管理”
 
-![](../../../.gitbook/assets/image%20%28520%29.png)
+![](../../../.gitbook/assets/image%20%28526%29.png)
 
 * 点击“加时”
 
-![](../../../.gitbook/assets/image%20%28427%29.png)
+![](../../../.gitbook/assets/image%20%28432%29.png)
 
 * 在跳出的“加时对话框”中，选择需加时长，录入加收金额，点击“确认加时”
 
-![](../../../.gitbook/assets/image%20%28319%29.png)
+![](../../../.gitbook/assets/image%20%28323%29.png)
 
 注：
 

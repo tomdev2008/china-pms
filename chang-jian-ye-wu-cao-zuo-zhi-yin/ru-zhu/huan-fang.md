@@ -6,15 +6,15 @@
 
 在房态图找到在住房间，点击“在住详情”
 
-![](../../.gitbook/assets/image%20%28432%29.png)
+![](../../.gitbook/assets/image%20%28437%29.png)
 
 点击“换房”--默认免费换房
 
-![](../../.gitbook/assets/image%20%28151%29.png)
+![](../../.gitbook/assets/image%20%28155%29.png)
 
 选择更换的房间，选择换房原因，确认换房
 
-![](../../.gitbook/assets/image%20%28101%29.png)
+![](../../.gitbook/assets/image%20%28104%29.png)
 
 ## 改价换房
 
@@ -22,5 +22,5 @@
 
 注：修改首日房价后，后续日期的价格会自动变为与首日房价一致；可逐一修改每日房价
 
-![](../../.gitbook/assets/image%20%28147%29.png)
+![](../../.gitbook/assets/image%20%28151%29.png)
 
