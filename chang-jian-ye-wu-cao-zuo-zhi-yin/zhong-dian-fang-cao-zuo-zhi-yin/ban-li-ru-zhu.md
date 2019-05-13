@@ -4,14 +4,14 @@
 
 * .找到可办理入住的房间，点击办理入住
 
-![](../../.gitbook/assets/image%20%28748%29.png)
+![](../../.gitbook/assets/image%20%28766%29.png)
 
 * 入住类型选择钟点房
 * 读取客人身份信息
 * 收取款项
 * 打印票据并点击“确认入住”即可
 
-![](../../.gitbook/assets/image%20%28271%29.png)
+![](../../.gitbook/assets/image%20%28283%29.png)
 
 注：
 

@@ -6,24 +6,24 @@
 
 * 点击房间，点击“在住详情”
 
-![](../../.gitbook/assets/image%20%28422%29.png)
+![](../../.gitbook/assets/image%20%28435%29.png)
 
 * 点击“日志”，即可查看该房间的操作日志
 
-![](../../.gitbook/assets/image%20%28215%29.png)
+![](../../.gitbook/assets/image%20%28220%29.png)
 
 #### 通过全部订单查看操作日志
 
 * 通过订单管理，进入订单列表页，点击“全部订单标签”
 * 找到需要查看日志的订单，点击详情
 
-![](../../.gitbook/assets/image%20%28181%29.png)
+![](../../.gitbook/assets/image%20%28183%29.png)
 
 * 点击“进入主房单”
 
-![](../../.gitbook/assets/image%20%28680%29.png)
+![](../../.gitbook/assets/image%20%28693%29.png)
 
 * 点击“日志”即可查看
 
-![](../../.gitbook/assets/image%20%28115%29.png)
+![](../../.gitbook/assets/image%20%28112%29.png)
 

@@ -4,11 +4,11 @@
 
 * 点击查看明细，可跳转到当班收款明细表，查看明细数据。
 
-![](../../../.gitbook/assets/image%20%28523%29.png)
+![](../../../.gitbook/assets/image%20%28539%29.png)
 
 * 在明细表中点击订单号，可以跳转到订单的账单详情。
 
-![](../../../.gitbook/assets/image%20%28815%29.png)
+![](../../../.gitbook/assets/image%20%28832%29.png)
 
-![](../../../.gitbook/assets/image%20%2899%29.png)
+![](../../../.gitbook/assets/image%20%2894%29.png)
 

@@ -4,13 +4,13 @@ PMS创建的团队订单，在全部未入住的情况下支持修改
 
 * 进入团单“排房入住”页面
 
-![](../../../.gitbook/assets/image%20%28693%29.png)
+![](../../../.gitbook/assets/image%20%28704%29.png)
 
 * 在左侧“订单信息”栏的图示处选择“修改订单”
 
-![](../../../.gitbook/assets/image%20%28673%29.png)
+![](../../../.gitbook/assets/image%20%28686%29.png)
 
 * 修改信息后，点击“保存修改”即可
 
-![](../../../.gitbook/assets/image%20%28508%29.png)
+![](../../../.gitbook/assets/image%20%28523%29.png)
 

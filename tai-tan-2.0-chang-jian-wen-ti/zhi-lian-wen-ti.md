@@ -25,7 +25,7 @@
 
 OTA直连钉钉审批通过后，一般约10个工作日完成OTA直连上线。
 
-![](../.gitbook/assets/image%20%28563%29.png)
+![](../.gitbook/assets/image%20%28579%29.png)
 
 ### OTA直连申请通过后，需要做什么
 
@@ -43,7 +43,7 @@ OTA直连订单进入PMS后，PMS会语音提示“鸥游提醒您，您有新�
 
 酒店不想继续OTA直连，请OTAM/OP提交钉钉审批申请下线“OTA直连渠道关闭申请—QU/EL”。
 
-![](../.gitbook/assets/image%20%2841%29.png)
+![](../.gitbook/assets/image%20%2842%29.png)
 
 ## 其他常见直连问题
 
@@ -59,7 +59,7 @@ OTA直连不能关房，及时做好PMS的库存管理就是做好了OTA直连�
 
 OTA直连订单产生后是实时在PMS中同步的，不存在延迟。如OTA直连订单无法在PMS中查询，请在“OTA全国直连运营（API）”钉群反馈。
 
-![](../.gitbook/assets/image%20%28811%29.png)
+![](../.gitbook/assets/image%20%28828%29.png)
 
 ### OTA直连订单，若客人在平台取消了，但是PMS不同步取消信息，怎么办？
 
