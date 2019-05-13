@@ -155,7 +155,7 @@
       * [房态图显示](chang-jian-ye-wu-cao-zuo-zhi-yin/tuan-dui-ding-dan-cao-zuo-zhi-yin/zai-zhu-guan-li/fang-tai-tu-xian-shi.md)
       * [办理换房/续住](chang-jian-ye-wu-cao-zuo-zhi-yin/tuan-dui-ding-dan-cao-zuo-zhi-yin/zai-zhu-guan-li/ban-li-huan-fang-xu-zhu.md)
       * [团队主账](chang-jian-ye-wu-cao-zuo-zhi-yin/tuan-dui-ding-dan-cao-zuo-zhi-yin/zai-zhu-guan-li/tuan-dui-zhu-zhang.md)
-    * [离店退房](chang-jian-ye-wu-cao-zuo-zhi-yin/tuan-dui-ding-dan-cao-zuo-zhi-yin/li-dian-tui-fang/README.md)
+    * [团单离店](chang-jian-ye-wu-cao-zuo-zhi-yin/tuan-dui-ding-dan-cao-zuo-zhi-yin/li-dian-tui-fang/README.md)
       * [单独退房](chang-jian-ye-wu-cao-zuo-zhi-yin/tuan-dui-ding-dan-cao-zuo-zhi-yin/li-dian-tui-fang/dan-du-tui-fang.md)
       * [批量退房](chang-jian-ye-wu-cao-zuo-zhi-yin/tuan-dui-ding-dan-cao-zuo-zhi-yin/li-dian-tui-fang/pi-liang-tui-fang.md)
     * [修改与取消](chang-jian-ye-wu-cao-zuo-zhi-yin/tuan-dui-ding-dan-cao-zuo-zhi-yin/xiu-gai-yu-qu-xiao/README.md)
