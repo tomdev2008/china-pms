@@ -8,7 +8,7 @@
 
 * 在明细表中点击订单号，可以跳转到订单的账单详情。
 
-![](../../../.gitbook/assets/image%20%28832%29.png)
+![](../../../.gitbook/assets/image%20%28834%29.png)
 
 ![](../../../.gitbook/assets/image%20%2894%29.png)
 

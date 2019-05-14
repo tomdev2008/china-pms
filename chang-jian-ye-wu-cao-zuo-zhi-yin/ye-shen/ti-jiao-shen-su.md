@@ -6,7 +6,7 @@
 
 订单的申诉有效期为：从下单开始，至离店日后2天内的24：00之前。
 
-![](../../.gitbook/assets/image%20%28834%29.png)
+![](../../.gitbook/assets/image%20%28836%29.png)
 
 ### 申诉操作流程
 
@@ -56,7 +56,7 @@
 
 * 点击“申诉”标签，即可进入申诉列表，可以查看申诉的详情及日志。
 
-![](../../.gitbook/assets/image%20%28655%29.png)
+![](../../.gitbook/assets/image%20%28656%29.png)
 
 ![](../../.gitbook/assets/image%20%28371%29.png)
 

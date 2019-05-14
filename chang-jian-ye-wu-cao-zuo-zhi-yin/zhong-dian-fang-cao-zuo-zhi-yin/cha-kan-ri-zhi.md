@@ -21,7 +21,7 @@
 
 * 点击“进入主房单”
 
-![](../../.gitbook/assets/image%20%28693%29.png)
+![](../../.gitbook/assets/image%20%28694%29.png)
 
 * 点击“日志”即可查看
 

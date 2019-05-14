@@ -12,7 +12,7 @@
 
 ![](../../../.gitbook/assets/image%20%28518%29.png)
 
-![](../../../.gitbook/assets/image%20%28799%29.png)
+![](../../../.gitbook/assets/image%20%28801%29.png)
 
 * 在全部订单中查看该订单状态，可以看到订单状态变为“noshow”。
 

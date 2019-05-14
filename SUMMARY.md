@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Titan v2.1使用帮助](README.md)
+* [Titan使用规范](titan-shi-yong-gui-fan.md)
 * [Titan使用前设置](tai-tan-2.0-shi-yong-qian-she-zhi/README.md)
   * [电脑领用申请流程](tai-tan-2.0-shi-yong-qian-she-zhi/dian-nao-ling-yong-shen-qing-liu-cheng.md)
   * [读卡器申请流程](tai-tan-2.0-shi-yong-qian-she-zhi/si-du-ka-qi-shen-qing-liu-cheng/README.md)
@@ -156,8 +157,8 @@
       * [办理换房/续住](chang-jian-ye-wu-cao-zuo-zhi-yin/tuan-dui-ding-dan-cao-zuo-zhi-yin/zai-zhu-guan-li/ban-li-huan-fang-xu-zhu.md)
       * [团队主账](chang-jian-ye-wu-cao-zuo-zhi-yin/tuan-dui-ding-dan-cao-zuo-zhi-yin/zai-zhu-guan-li/tuan-dui-zhu-zhang.md)
     * [团单离店](chang-jian-ye-wu-cao-zuo-zhi-yin/tuan-dui-ding-dan-cao-zuo-zhi-yin/li-dian-tui-fang/README.md)
-      * [单独退房](chang-jian-ye-wu-cao-zuo-zhi-yin/tuan-dui-ding-dan-cao-zuo-zhi-yin/li-dian-tui-fang/dan-du-tui-fang.md)
-      * [批量退房](chang-jian-ye-wu-cao-zuo-zhi-yin/tuan-dui-ding-dan-cao-zuo-zhi-yin/li-dian-tui-fang/pi-liang-tui-fang.md)
+      * [团单离店-单独退房](chang-jian-ye-wu-cao-zuo-zhi-yin/tuan-dui-ding-dan-cao-zuo-zhi-yin/li-dian-tui-fang/dan-du-tui-fang.md)
+      * [团单离店-批量退房](chang-jian-ye-wu-cao-zuo-zhi-yin/tuan-dui-ding-dan-cao-zuo-zhi-yin/li-dian-tui-fang/pi-liang-tui-fang.md)
     * [修改与取消](chang-jian-ye-wu-cao-zuo-zhi-yin/tuan-dui-ding-dan-cao-zuo-zhi-yin/xiu-gai-yu-qu-xiao/README.md)
       * [团单修改](chang-jian-ye-wu-cao-zuo-zhi-yin/tuan-dui-ding-dan-cao-zuo-zhi-yin/xiu-gai-yu-qu-xiao/tuan-dan-xiu-gai.md)
       * [团单取消](chang-jian-ye-wu-cao-zuo-zhi-yin/tuan-dui-ding-dan-cao-zuo-zhi-yin/xiu-gai-yu-qu-xiao/tuan-dan-qu-xiao.md)
@@ -196,6 +197,7 @@
   * [传统门锁适配](titan-gong-neng-geng-xin-ji-hua/chuan-tong-men-suo-shi-pei/README.md)
     * [办理入住时门卡使用流程](titan-gong-neng-geng-xin-ji-hua/chuan-tong-men-suo-shi-pei/ban-li-ru-zhu-shi-men-ka-shi-yong-liu-cheng.md)
     * [在住管理中门卡使用流程](titan-gong-neng-geng-xin-ji-hua/chuan-tong-men-suo-shi-pei/zai-zhu-guan-li-zhong-men-ka-shi-yong-liu-cheng/README.md)
+      * [设置客人房卡 失效时间](titan-gong-neng-geng-xin-ji-hua/chuan-tong-men-suo-shi-pei/zai-zhu-guan-li-zhong-men-ka-shi-yong-liu-cheng/she-zhi-ke-ren-fang-ka-shi-xiao-shi-jian.md)
       * [读卡](titan-gong-neng-geng-xin-ji-hua/chuan-tong-men-suo-shi-pei/zai-zhu-guan-li-zhong-men-ka-shi-yong-liu-cheng/du-ka.md)
       * [重新制卡](titan-gong-neng-geng-xin-ji-hua/chuan-tong-men-suo-shi-pei/zai-zhu-guan-li-zhong-men-ka-shi-yong-liu-cheng/zhong-xin-zhi-ka.md)
       * [复制卡](titan-gong-neng-geng-xin-ji-hua/chuan-tong-men-suo-shi-pei/zai-zhu-guan-li-zhong-men-ka-shi-yong-liu-cheng/untitled-2.md)

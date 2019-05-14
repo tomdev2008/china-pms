@@ -14,7 +14,7 @@
 
 * 点击“noshow”并确认，即可noshow该房单。
 
-![](../../../.gitbook/assets/image%20%28717%29.png)
+![](../../../.gitbook/assets/image%20%28718%29.png)
 
 ![](../../../.gitbook/assets/image%20%2818%29.png)
 

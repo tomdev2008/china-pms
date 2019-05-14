@@ -1,5 +1,27 @@
 # Titan产品更新历史日志
 
+## v2.1.10.6-2019-05-09
+
+### 新增
+
+#### 挂账核销功能开放
+
+酒店经理/酒店业主可以进行挂账核销，保证挂账账务正确处理。
+
+#### PMS关闭入账房费科目，房费调整仅能调整为正数
+
+可减少PMS因入账房费带来的误操作，减少使用房费调整进行舞弊的操作。
+
+### 优化
+
+#### 报表说明优化
+
+报表目录页增加报表使用说明。
+
+#### 一键排房功能优化
+
+一键排房成功后，页面下方会直接出现可以操作的对话框。
+
 ## v2.1.10.5-2019-05-07
 
 ### 新增
@@ -86,7 +108,7 @@
 
 * 房态图中关联制卡详情，增加“已制卡”标识并显示门卡数量
 
-![](.gitbook/assets/image%20%28815%29.png)
+![](.gitbook/assets/image%20%28817%29.png)
 
 * 在住详情页面支持读卡操作
 
@@ -102,7 +124,7 @@
 
 * PMS左侧栏不再显示营业额数据
 
-![](.gitbook/assets/image%20%28776%29.png)
+![](.gitbook/assets/image%20%28778%29.png)
 
 ## v2.1.10.1 -2019-04-16
 
@@ -112,15 +134,15 @@
 
 * 可以区分钟点房与全天房
 
-![](.gitbook/assets/image%20%28581%29.png)
+![](.gitbook/assets/image%20%28582%29.png)
 
 * 钟点房到时提醒
 
-![](.gitbook/assets/image%20%28724%29.png)
+![](.gitbook/assets/image%20%28725%29.png)
 
 * 钟点房加时/转全天房等
 
-![](.gitbook/assets/image%20%28639%29.png)
+![](.gitbook/assets/image%20%28640%29.png)
 
 #### 夜审三期功能在桂林的酒店及“oyo82559培训测试专用酒店”上线
 
@@ -146,7 +168,7 @@
 * 今日预抵列表、noshow列表、已取消列表、全部订单列表调整，最新数据倒序排列
 * 列表中的字段名“预订人”和“联系方式”改为“联系人”和“联系方式”
 
-![](.gitbook/assets/image%20%28728%29.png)
+![](.gitbook/assets/image%20%28729%29.png)
 
 ## v2.1.9.5 -2019-04-11
 
@@ -180,9 +202,9 @@
 
 * 有OYO消息抵达时，会触发弹窗提醒，弹窗出现在页面右上角。点击弹窗会跳转到消息详情。
 
-![](.gitbook/assets/image%20%28680%29.png)
+![](.gitbook/assets/image%20%28681%29.png)
 
-![](.gitbook/assets/image%20%28575%29.png)
+![](.gitbook/assets/image%20%28576%29.png)
 
 *  PMS左侧按钮进入消息中心，可查看历史通知公告。
 
@@ -204,15 +226,15 @@
 
 * 可以区分钟点房与全天房
 
-![](.gitbook/assets/image%20%28581%29.png)
+![](.gitbook/assets/image%20%28582%29.png)
 
 * 钟点房到时提醒
 
-![](.gitbook/assets/image%20%28724%29.png)
+![](.gitbook/assets/image%20%28725%29.png)
 
 * 钟点房加时/转全天房等
 
-![](.gitbook/assets/image%20%28639%29.png)
+![](.gitbook/assets/image%20%28640%29.png)
 
 ### 优化
 
@@ -262,7 +284,7 @@
 
 ![](.gitbook/assets/image%20%28535%29.png)
 
-![](.gitbook/assets/image%20%28709%29.png)
+![](.gitbook/assets/image%20%28710%29.png)
 
 ![](.gitbook/assets/image%20%28274%29.png)
 
@@ -272,7 +294,7 @@
 
 进入“报表管理”页面后，所有报表根据用途分类展示，便于用户选择**。**
 
-![](.gitbook/assets/image%20%28644%29.png)
+![](.gitbook/assets/image%20%28645%29.png)
 
 ### 变更
 
@@ -318,7 +340,7 @@
 
 ![](.gitbook/assets/image%20%28471%29.png)
 
-![](.gitbook/assets/image%20%28794%29.png)
+![](.gitbook/assets/image%20%28796%29.png)
 
 ### 优化
 
@@ -330,7 +352,7 @@
 
 #### 酒店账务对账表优化：增加导出功能，增加离店日期展示等）
 
-![](.gitbook/assets/image%20%28712%29.png)
+![](.gitbook/assets/image%20%28713%29.png)
 
 ![](.gitbook/assets/image%20%2874%29.png)
 
@@ -338,15 +360,15 @@
 
 该功能上线后，“入账”环节的“手动录入房费选项”已经取消，房费自动生成（上线前如图1，上线后如图2），降低酒店错误操作概率。
 
-![](.gitbook/assets/image%20%28621%29.png)
+![](.gitbook/assets/image%20%28622%29.png)
 
-![](.gitbook/assets/image%20%28603%29.png)
+![](.gitbook/assets/image%20%28604%29.png)
 
 #### 订单字段补全（客源结构、联系人、联系人电话）目前订单中联系人等字段未存，
 
 该功能上线后可以存储这些字段（如图）
 
-![](.gitbook/assets/image%20%28665%29.png)
+![](.gitbook/assets/image%20%28666%29.png)
 
 ### 营收分析&营收报表展示优化
 
@@ -354,13 +376,13 @@
 
 ![](.gitbook/assets/image%20%28278%29.png)
 
-![](.gitbook/assets/image%20%28649%29.png)
+![](.gitbook/assets/image%20%28650%29.png)
 
 #### CRS新增酒店信息增加品牌字段
 
 为所有酒店增加一个品牌线字段（如图），现存酒店统一用smart。随着阿波罗上线，匹配三个品牌线（轻享、智享、尊享）
 
-![](.gitbook/assets/image%20%28679%29.png)
+![](.gitbook/assets/image%20%28680%29.png)
 
 #### 在线客服调整至私有云
 
@@ -377,7 +399,7 @@
 
 ![&#x56FE;1](.gitbook/assets/image%20%2876%29.png)
 
-![&#x56FE;2](.gitbook/assets/image%20%28806%29.png)
+![&#x56FE;2](.gitbook/assets/image%20%28808%29.png)
 
 ![&#x56FE;3](.gitbook/assets/image%20%2861%29.png)
 
@@ -397,7 +419,7 @@
 
 * 会员转化报表
 
-![](.gitbook/assets/image%20%28570%29.png)
+![](.gitbook/assets/image%20%28571%29.png)
 
 * 订单来源表
 
@@ -418,7 +440,7 @@
 * 申诉列表页面默认显示为查询日期
 * 夜审逻辑优化：客服操作时间拉长至10天，预付支持NoShow申诉，申诉成功与驳回文字提示变更，申诉超时与人工驳回区分显示
 
-![](.gitbook/assets/image%20%28754%29.png)
+![](.gitbook/assets/image%20%28755%29.png)
 
 * 长住房：房态图入住及新建订单入离范围开放至180天
 * 订单房价修改-续住和换房支持按日改价
@@ -449,7 +471,7 @@
 
 * 全部订单页面筛选逻辑优化：新增支付状态，日期类型筛选
 
-![](.gitbook/assets/image%20%28631%29.png)
+![](.gitbook/assets/image%20%28632%29.png)
 
 * 在住订单详情页面展示每日房价
 
