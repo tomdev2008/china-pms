@@ -4,7 +4,7 @@
 
 * 进入订单日志页面，选择“门锁记录”标签，即可查看
 
-![](../../.gitbook/assets/image%20%28569%29.png)
+![](../../.gitbook/assets/image%20%28571%29.png)
 
 ![](../../.gitbook/assets/image%20%2833%29.png)
 
@@ -12,7 +12,7 @@
 
 * 通过报表管理，进入房卡操作报表。
 
-![](../../.gitbook/assets/image%20%28627%29.png)
+![](../../.gitbook/assets/image%20%28629%29.png)
 
 * 筛选时间段即可查询。
 

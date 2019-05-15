@@ -2,7 +2,7 @@
 
 * 确认无误后，打印单据，交班人与接班人签字确认。
 
-![](../../../.gitbook/assets/image%20%28643%29.png)
+![](../../../.gitbook/assets/image%20%28645%29.png)
 
 * 单据有三种样式：A4横向、A4竖向、针式。默认A4横向，可自行选择切换。
 
@@ -10,7 +10,7 @@
 
 
 
-![](../../../.gitbook/assets/image%20%28738%29.png)
+![](../../../.gitbook/assets/image%20%28740%29.png)
 
 ![](../../../.gitbook/assets/image%20%28314%29.png)
 

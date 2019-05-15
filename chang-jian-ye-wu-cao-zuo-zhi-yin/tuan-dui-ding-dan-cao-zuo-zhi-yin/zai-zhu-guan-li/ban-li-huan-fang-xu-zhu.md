@@ -14,7 +14,7 @@
 
 * 选择更换的房间，选择或备注换房原因，确认即可
 
-![](../../../.gitbook/assets/image%20%28563%29.png)
+![](../../../.gitbook/assets/image%20%28564%29.png)
 
 #### 续住
 
@@ -35,7 +35,7 @@
 
 ![](../../../.gitbook/assets/image%20%2877%29.png)
 
-![](../../../.gitbook/assets/image%20%28839%29.png)
+![](../../../.gitbook/assets/image%20%28842%29.png)
 
 * 确认续住即可
 

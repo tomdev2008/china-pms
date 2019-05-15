@@ -10,9 +10,9 @@
 
 * 点击“订单信息”栏右上角的三个点，点击“noshow”并确认，可以将该订单下所有未入住的房单变为noshow状态。
 
-![](../../../.gitbook/assets/image%20%28518%29.png)
+![](../../../.gitbook/assets/image%20%28519%29.png)
 
-![](../../../.gitbook/assets/image%20%28801%29.png)
+![](../../../.gitbook/assets/image%20%28804%29.png)
 
 * 在全部订单中查看该订单状态，可以看到订单状态变为“noshow”。
 

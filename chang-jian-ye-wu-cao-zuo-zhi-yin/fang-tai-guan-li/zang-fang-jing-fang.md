@@ -6,12 +6,12 @@
 
 脏房不可办入住。
 
-![&#x79BB;&#x5E97;&#x810F;&#x623F;&#x5728;&#x623F;&#x6001;&#x56FE;&#x663E;&#x793A;&#x4E3A;&#x7070;&#x8272;](../../.gitbook/assets/image%20%28701%29.png)
+![&#x79BB;&#x5E97;&#x810F;&#x623F;&#x5728;&#x623F;&#x6001;&#x56FE;&#x663E;&#x793A;&#x4E3A;&#x7070;&#x8272;](../../.gitbook/assets/image%20%28703%29.png)
 
 在脏房打扫完成后，可点击脏房，将其设为干净房。  
 
 
-![&#x70B9;&#x51FB;&#x8BBE;&#x4E3A;&#x5E72;&#x51C0;&#x623F;&#x8BBE;&#x4E3A;&#x5E72;&#x51C0;&#x623F;](../../.gitbook/assets/image%20%28752%29.png)
+![&#x70B9;&#x51FB;&#x8BBE;&#x4E3A;&#x5E72;&#x51C0;&#x623F;&#x8BBE;&#x4E3A;&#x5E72;&#x51C0;&#x623F;](../../.gitbook/assets/image%20%28754%29.png)
 
 ## 在住脏房
 
@@ -22,7 +22,7 @@
 点击在住脏房，可切换为干净房。  
 
 
-![&#x70B9;&#x51FB;&#x6253;&#x626B;&#x5B8C;&#x6210;&#xFF0C;&#x5728;&#x4F4F;&#x810F;&#x623F;&#x53D8;&#x4E3A;&#x5728;&#x4F4F;&#x51C0;&#x623F;](../../.gitbook/assets/image%20%28811%29.png)
+![&#x70B9;&#x51FB;&#x6253;&#x626B;&#x5B8C;&#x6210;&#xFF0C;&#x5728;&#x4F4F;&#x810F;&#x623F;&#x53D8;&#x4E3A;&#x5728;&#x4F4F;&#x51C0;&#x623F;](../../.gitbook/assets/image%20%28814%29.png)
 
 #### 脏房净房相关操作视频：[点击查看](http://crs-pms-vidio.oss-cn-beijing.aliyuncs.com/%E8%84%8F%E6%88%BF%E5%87%80%E6%88%BF.mp4)
 
@@ -30,7 +30,7 @@
 
 点击房态图页面下方的“脏房置净”按钮
 
-![](../../.gitbook/assets/image%20%28636%29.png)
+![](../../.gitbook/assets/image%20%28638%29.png)
 
 在弹出的对话框中勾选需要置净的脏房类型：全部脏房/在住脏房/空脏房（即离店脏房）
 
