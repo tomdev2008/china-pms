@@ -15,7 +15,9 @@
 
 ## OTA订单与EBK未同步如何处理？
 
-非直连订单，请联系店长，由店长联系建单组协助处理；
+OTA订单搬单延迟，需要区分是否为直连订单。
+
+非直连订单，请联系店长，由店长联系建单组，建单组会尽快处理；
 
 直连订单，请联系店长，由店长邮件至&lt;techsupport@oyohotels.cn&gt;处理；
 
@@ -25,7 +27,7 @@
 
 如下图所示：
 
-![](../.gitbook/assets/image%20%28114%29.png)
+![](../.gitbook/assets/image%20%28118%29.png)
 
 ## OTA订单取消了，PMS没有同步是什么问题？
 
@@ -35,5 +37,5 @@
 
 店长可通过 [https://crsx.oyohotels.cn](https://crsx.oyohotels.cn) 登陆CRS，通过订单列表-渠道订单号查询对应订单状态信息。
 
-![&#x5B99;&#x65AF;&#x8BA2;&#x5355;&#x72B6;&#x6001;&#x67E5;&#x8BE2;&#x9875;&#x9762;](../.gitbook/assets/image%20%28322%29.png)
+![&#x5B99;&#x65AF;&#x8BA2;&#x5355;&#x72B6;&#x6001;&#x67E5;&#x8BE2;&#x9875;&#x9762;](../.gitbook/assets/image%20%28331%29.png)
 

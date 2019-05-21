@@ -1,20 +1,20 @@
 # 换房
 
-换房是指为在住客人更换房间。[（点击查看操作视频，视频包含换房及续住）](http://crs-pms-vidio.oss-cn-beijing.aliyuncs.com/%E6%8D%A2%E6%88%BF%26%E7%BB%AD%E4%BD%8F.mp4)
+换房是指为在住客人更换房间（支持更换其他房型）。[（点击查看操作视频，视频包含换房及续住）](http://crs-pms-vidio.oss-cn-beijing.aliyuncs.com/%E6%8D%A2%E6%88%BF%26%E7%BB%AD%E4%BD%8F.mp4)
 
 ## 免费换房
 
 在房态图找到在住房间，点击“在住详情”
 
-![](../../.gitbook/assets/image%20%28450%29.png)
+![](../../.gitbook/assets/image%20%28461%29.png)
 
 点击“换房”--默认免费换房
 
-![](../../.gitbook/assets/image%20%28155%29.png)
+![](../../.gitbook/assets/image%20%28159%29.png)
 
 选择更换的房间，选择换房原因，确认换房
 
-![](../../.gitbook/assets/image%20%2899%29.png)
+![](../../.gitbook/assets/image%20%28102%29.png)
 
 ## 改价换房
 
@@ -22,9 +22,9 @@
 
 注：修改首日房价后，后续日期的价格会自动变为与首日房价一致；可逐一修改每日房价
 
-![](../../.gitbook/assets/image%20%28151%29.png)
+![](../../.gitbook/assets/image%20%28155%29.png)
 
 进行换房收款时，也可以选择“银联POS机扫码”或“银联POS机刷卡”，操作流程与办理入住时选择该方式收款的流程相同
 
-![](../../.gitbook/assets/image%20%28752%29.png)
+![](../../.gitbook/assets/image%20%28772%29.png)
 
