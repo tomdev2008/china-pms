@@ -14,7 +14,7 @@
 
 * 点击“noshow”并确认，即可noshow该房单。
 
-![](../../../.gitbook/assets/image%20%28739%29.png)
+![](../../../.gitbook/assets/image%20%28745%29.png)
 
 ![](../../../.gitbook/assets/image%20%2818%29.png)
 
@@ -22,7 +22,7 @@
 
 ![](../../../.gitbook/assets/image%20%2890%29.png)
 
-![](../../../.gitbook/assets/image%20%28544%29.png)
+![](../../../.gitbook/assets/image%20%28549%29.png)
 
 ## 整个团单noshow与取消
 

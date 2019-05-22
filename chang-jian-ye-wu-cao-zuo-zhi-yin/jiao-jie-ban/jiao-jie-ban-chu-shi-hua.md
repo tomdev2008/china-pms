@@ -4,7 +4,7 @@
 
 * 点击侧边栏控件进入交接班界面。
 
-![](../../.gitbook/assets/image%20%28438%29.png)
+![](../../.gitbook/assets/image%20%28441%29.png)
 
 * 点击“交班”按钮。
 

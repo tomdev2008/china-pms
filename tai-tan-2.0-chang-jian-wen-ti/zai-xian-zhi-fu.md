@@ -11,7 +11,7 @@
 
 * 联系申请签署在线支付补充协议《OYO自有平台补充协议》，店长钉钉提交审批（流程如下图），审批后开通速度：2个工作日左右。
 
-![](../.gitbook/assets/image%20%28489%29.png)
+![](../.gitbook/assets/image%20%28493%29.png)
 
 ## **开通在线支付需要业主额外付费吗？**
 
@@ -63,13 +63,13 @@
 
 * 快速入住小程序码使用在线支付，视频教程请点击链接[https://pan.baidu.com/s/1I15byucgHw6fIwG-4Nf5jg](https://pan.baidu.com/s/1I15byucgHw6fIwG-4Nf5jg) ![](https://uploader.shimo.im/f/fJX7CoKceQwl8KkH.jpg!thumbnail) 
 
-![](../.gitbook/assets/image%20%28391%29.png)
+![](../.gitbook/assets/image%20%28393%29.png)
 
 ![](../.gitbook/assets/image%20%28165%29.png)
 
-![](../.gitbook/assets/image%20%28789%29.png)
+![](../.gitbook/assets/image%20%28795%29.png)
 
-![](../.gitbook/assets/image%20%28822%29.png)
+![](../.gitbook/assets/image%20%28828%29.png)
 
 ![](../.gitbook/assets/image%20%28127%29.png)
 
@@ -83,7 +83,7 @@
 
 **详见以下流程图：**
 
-![](../.gitbook/assets/image%20%28450%29.png)
+![](../.gitbook/assets/image%20%28453%29.png)
 
 \*\*\*\*
 
