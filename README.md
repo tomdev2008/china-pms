@@ -8,5 +8,5 @@ description: 系统使用帮助
 
 点击搜索结果可以快速跳转到该页面。
 
-![](.gitbook/assets/image%20%28139%29.png)
+![](.gitbook/assets/image%20%28142%29.png)
 

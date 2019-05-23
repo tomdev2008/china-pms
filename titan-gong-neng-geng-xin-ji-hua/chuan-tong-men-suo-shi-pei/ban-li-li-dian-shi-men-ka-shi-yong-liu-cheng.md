@@ -4,11 +4,11 @@
 
 * 进入在住管理页面，将门卡放置在卡机上，点击页面下方的“注销卡”。
 
-![](../../.gitbook/assets/image%20%28830%29.png)
+![](../../.gitbook/assets/image%20%28851%29.png)
 
 * 注销成功后，页面上方会出现提示。
 
-![](../../.gitbook/assets/image%20%28475%29.png)
+![](../../.gitbook/assets/image%20%28486%29.png)
 
 * 此后再为客人办理结账离店。
 

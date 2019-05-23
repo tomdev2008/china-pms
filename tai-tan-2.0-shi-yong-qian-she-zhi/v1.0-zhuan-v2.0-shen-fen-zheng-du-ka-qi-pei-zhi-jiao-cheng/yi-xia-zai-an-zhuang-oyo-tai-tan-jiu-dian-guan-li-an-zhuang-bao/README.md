@@ -4,7 +4,7 @@
 
 * 下载内容；谷歌浏览器、泰坦安装包、远程工具（Teamvivew）
 
-![](../../../.gitbook/assets/image%20%28644%29.png)
+![](../../../.gitbook/assets/image%20%28660%29.png)
 
 友情提示
 
