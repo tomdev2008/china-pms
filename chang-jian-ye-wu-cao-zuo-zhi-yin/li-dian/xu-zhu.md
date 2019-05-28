@@ -6,7 +6,7 @@
 
 在房态图找到在住房间，可点击办理续住
 
-![&#x70B9;&#x51FB;&#x529E;&#x7406;&#x7EED;&#x4F4F;](../../.gitbook/assets/image%20%28833%29.png)
+![&#x70B9;&#x51FB;&#x529E;&#x7406;&#x7EED;&#x4F4F;](../../.gitbook/assets/image%20%28836%29.png)
 
 系统默认原价续住
 

@@ -8,7 +8,7 @@
 
 * 下载内容；谷歌浏览器、泰坦安装包、远程工具（Teamvivew）
 
-![](../../.gitbook/assets/image%20%28660%29.png)
+![](../../.gitbook/assets/image%20%28663%29.png)
 
 友情提示
 
@@ -29,7 +29,7 @@
 
 #### **读卡器提示；读取失败，显示未检测到身份证，请放置身份证。图（2）**
 
-![](../../.gitbook/assets/image%20%28856%29.png)
+![](../../.gitbook/assets/image%20%28860%29.png)
 
                                                          
 
@@ -49,7 +49,7 @@
 
 #### **读卡器提示； 链接身份证阅读器失败，请检查。下图\(3\)**
 
-![](../../.gitbook/assets/image%20%28506%29.png)
+![](../../.gitbook/assets/image%20%28507%29.png)
 
                                                           
 
@@ -83,19 +83,19 @@
 
  2.chrome属性中复制“目标”栏中间路径链接
 
-![&#x590D;&#x5236;&#x8DEF;&#x5F84;&#x4F4D;&#x7F6E;](../../.gitbook/assets/image%20%28493%29.png)
+![&#x590D;&#x5236;&#x8DEF;&#x5F84;&#x4F4D;&#x7F6E;](../../.gitbook/assets/image%20%28494%29.png)
 
 3.鼠标对准OYO泰坦快捷方式，右键选择属性打开
 
-![](../../.gitbook/assets/image%20%28868%29.png)
+![](../../.gitbook/assets/image%20%28872%29.png)
 
 4.选择‘打开文件所在位置’
 
-![](../../.gitbook/assets/image%20%28885%29.png)
+![](../../.gitbook/assets/image%20%28889%29.png)
 
 5.打开"文件所在的位置“选择”config”
 
-![](../../.gitbook/assets/image%20%28702%29.png)
+![](../../.gitbook/assets/image%20%28705%29.png)
 
 6.将chrome复制的“目标”栏粘贴到“BrowserUrl”
 

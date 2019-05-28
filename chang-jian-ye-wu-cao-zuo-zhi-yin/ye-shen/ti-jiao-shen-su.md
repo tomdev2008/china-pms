@@ -6,7 +6,7 @@
 
 订单的申诉有效期为：从下单开始，至离店日后2天内的24：00之前。
 
-![](../../.gitbook/assets/image%20%28890%29.png)
+![](../../.gitbook/assets/image%20%28894%29.png)
 
 ### 申诉操作流程
 
@@ -14,7 +14,7 @@
 
 * 确认需要申诉的订单号并复制（如下图）。
 
-![](../../.gitbook/assets/image%20%28552%29.png)
+![](../../.gitbook/assets/image%20%28553%29.png)
 
 * 点击页面悬浮框中的“申诉”按钮，跳转到申诉页面。
 
@@ -54,7 +54,7 @@
 
 * 选择需要申诉的房单，可多选，选中后房单后方会有“√”标识
 
-![](../../.gitbook/assets/image%20%28533%29.png)
+![](../../.gitbook/assets/image%20%28534%29.png)
 
 * 选择需要将房单修改为什么状态
 
@@ -72,7 +72,7 @@
 
 * 选择一个房单
 
-![](../../.gitbook/assets/image%20%28572%29.png)
+![](../../.gitbook/assets/image%20%28574%29.png)
 
 * 选择需要将房单修改为什么状态
 
@@ -84,7 +84,7 @@
 
 * 原因仍然选择“房单取消/noshow”
 
-![](../../.gitbook/assets/image%20%28656%29.png)
+![](../../.gitbook/assets/image%20%28659%29.png)
 
 * 选择需要申诉的另一个房单
 
@@ -92,11 +92,11 @@
 
 * 选择需要将房单修改为什么状态
 
-![](../../.gitbook/assets/image%20%28808%29.png)
+![](../../.gitbook/assets/image%20%28811%29.png)
 
 * 通过此方法将需要申诉的房单全部选择后，点击“提交申诉”即可
 
-![](../../.gitbook/assets/image%20%28544%29.png)
+![](../../.gitbook/assets/image%20%28545%29.png)
 
 
 
@@ -114,7 +114,7 @@
 
 * 点击“申诉”标签，即可进入申诉列表，可以查看申诉的详情及日志。
 
-![](../../.gitbook/assets/image%20%28698%29.png)
+![](../../.gitbook/assets/image%20%28701%29.png)
 
 ![](../../.gitbook/assets/image%20%28393%29.png)
 

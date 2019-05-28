@@ -8,7 +8,7 @@ Sales订单与其他订单一样，也会出现在今日预抵的订单中，按
 
 * 进入今日预抵页面，为订单排房
 
-![](../.gitbook/assets/image%20%28635%29.png)
+![](../.gitbook/assets/image%20%28637%29.png)
 
 ![](../.gitbook/assets/image%20%28164%29.png)
 

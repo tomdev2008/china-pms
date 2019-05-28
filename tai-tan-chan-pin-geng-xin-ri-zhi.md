@@ -48,7 +48,7 @@ OYO-APP（直连）、OYO-小程序（直连）、OYO-支付宝小程序（直�
 
 #### 酒店合规表增加首页入口&酒店运营合规报表放开权限
 
-支持China2.0酒店的前线运营。
+支持保底酒店的前线运营。
 
 ### 优化
 
@@ -62,7 +62,7 @@ OYO-APP（直连）、OYO-小程序（直连）、OYO-支付宝小程序（直�
 
 默认改为即日起至未来一个月
 
-![](.gitbook/assets/image%20%28883%29.png)
+![](.gitbook/assets/image%20%28887%29.png)
 
 ## v2.1.10.6-2019-05-09
 
@@ -76,9 +76,9 @@ OYO-APP（直连）、OYO-小程序（直连）、OYO-支付宝小程序（直�
 
 可减少PMS因入账房费带来的误操作，减少使用房费调整进行舞弊的操作。
 
-#### China2.0向上改价控制
+#### 保底酒店向上改价控制
 
-支持China2.0酒店的订单控价。所有PMS新建订单改价控制，PMS更改房价设置隐藏。
+支持保底酒店的订单控价。所有PMS新建订单改价控制，PMS更改房价设置隐藏。
 
 ### 优化
 
@@ -194,7 +194,7 @@ OYO-APP（直连）、OYO-小程序（直连）、OYO-支付宝小程序（直�
 
 * 房态图中关联制卡详情，增加“已制卡”标识并显示门卡数量
 
-![](.gitbook/assets/image%20%28869%29.png)
+![](.gitbook/assets/image%20%28873%29.png)
 
 * 在住详情页面支持读卡操作
 
@@ -204,13 +204,13 @@ OYO-APP（直连）、OYO-小程序（直连）、OYO-支付宝小程序（直�
 
 ![](.gitbook/assets/image%20%2887%29.png)
 
-![](.gitbook/assets/image%20%28491%29.png)
+![](.gitbook/assets/image%20%28492%29.png)
 
 #### 泰坦系统左侧栏中营业额数字隐藏
 
 * PMS左侧栏不再显示营业额数据
 
-![](.gitbook/assets/image%20%28828%29.png)
+![](.gitbook/assets/image%20%28831%29.png)
 
 ## v2.1.10.1 -2019-04-16
 
@@ -220,15 +220,15 @@ OYO-APP（直连）、OYO-小程序（直连）、OYO-支付宝小程序（直�
 
 * 可以区分钟点房与全天房
 
-![](.gitbook/assets/image%20%28619%29.png)
+![](.gitbook/assets/image%20%28621%29.png)
 
 * 钟点房到时提醒
 
-![](.gitbook/assets/image%20%28771%29.png)
+![](.gitbook/assets/image%20%28774%29.png)
 
 * 钟点房加时/转全天房等
 
-![](.gitbook/assets/image%20%28681%29.png)
+![](.gitbook/assets/image%20%28684%29.png)
 
 #### 夜审三期功能在桂林的酒店及“oyo82559培训测试专用酒店”上线
 
@@ -254,7 +254,7 @@ OYO-APP（直连）、OYO-小程序（直连）、OYO-支付宝小程序（直�
 * 今日预抵列表、noshow列表、已取消列表、全部订单列表调整，最新数据倒序排列
 * 列表中的字段名“预订人”和“联系方式”改为“联系人”和“联系方式”
 
-![](.gitbook/assets/image%20%28775%29.png)
+![](.gitbook/assets/image%20%28778%29.png)
 
 ## v2.1.9.5 -2019-04-11
 
@@ -288,9 +288,9 @@ OYO-APP（直连）、OYO-小程序（直连）、OYO-支付宝小程序（直�
 
 * 有OYO消息抵达时，会触发弹窗提醒，弹窗出现在页面右上角。点击弹窗会跳转到消息详情。
 
-![](.gitbook/assets/image%20%28723%29.png)
+![](.gitbook/assets/image%20%28726%29.png)
 
-![](.gitbook/assets/image%20%28613%29.png)
+![](.gitbook/assets/image%20%28615%29.png)
 
 *  PMS左侧按钮进入消息中心，可查看历史通知公告。
 
@@ -312,15 +312,15 @@ OYO-APP（直连）、OYO-小程序（直连）、OYO-支付宝小程序（直�
 
 * 可以区分钟点房与全天房
 
-![](.gitbook/assets/image%20%28619%29.png)
+![](.gitbook/assets/image%20%28621%29.png)
 
 * 钟点房到时提醒
 
-![](.gitbook/assets/image%20%28771%29.png)
+![](.gitbook/assets/image%20%28774%29.png)
 
 * 钟点房加时/转全天房等
 
-![](.gitbook/assets/image%20%28681%29.png)
+![](.gitbook/assets/image%20%28684%29.png)
 
 ### 优化
 
@@ -362,15 +362,15 @@ OYO-APP（直连）、OYO-小程序（直连）、OYO-支付宝小程序（直�
 
 在PMS右侧悬浮控件中，新增“使用帮助”按钮，点击后可跳转至 [http://wiki-dev.oyohotels.cn](http://wiki-dev.oyohotels.cn) ，可通过该处查阅使用帮助，了解学习PMS。
 
-![](.gitbook/assets/image%20%28592%29.png)
+![](.gitbook/assets/image%20%28594%29.png)
 
 **酒店营业收入报表**
 
 酒店营业收入报表：可通过酒店营业收入报表了解酒店收入构成，根据每日的总应收与总实收进行对账，该报表支持导出，导出后可打印**。**
 
-![](.gitbook/assets/image%20%28567%29.png)
+![](.gitbook/assets/image%20%28569%29.png)
 
-![](.gitbook/assets/image%20%28754%29.png)
+![](.gitbook/assets/image%20%28757%29.png)
 
 ![](.gitbook/assets/image%20%28289%29.png)
 
@@ -380,7 +380,7 @@ OYO-APP（直连）、OYO-小程序（直连）、OYO-支付宝小程序（直�
 
 进入“报表管理”页面后，所有报表根据用途分类展示，便于用户选择**。**
 
-![](.gitbook/assets/image%20%28686%29.png)
+![](.gitbook/assets/image%20%28689%29.png)
 
 ### 变更
 
@@ -388,7 +388,7 @@ OYO-APP（直连）、OYO-小程序（直连）、OYO-支付宝小程序（直�
 
 维修房权限收缩至CH。原OP、CP、酒店前台、酒店经理在房态图设置维修房的权限被关闭，后续仅CH可设置维修房。
 
-![](.gitbook/assets/image%20%28547%29.png)
+![](.gitbook/assets/image%20%28548%29.png)
 
 注：设置维修房按钮置灰，提示联系OP，再由于OP联系CH即可
 
@@ -404,7 +404,7 @@ OYO-APP（直连）、OYO-小程序（直连）、OYO-支付宝小程序（直�
 
 * 房态图联房标记（图1）： 可查看到哪间房间存在联房
 
-![](.gitbook/assets/image%20%28580%29.png)
+![](.gitbook/assets/image%20%28582%29.png)
 
 * 订单联房添加（如图2）：如存在一张订单多间房，需要一起结算时，可通过【在住详情】页面，单击下拉菜单，添加联房
 
@@ -422,11 +422,11 @@ OYO-APP（直连）、OYO-小程序（直连）、OYO-支付宝小程序（直�
 2. 选择合并结算
 3. 合并结算后，账单转移显示
 
-![](.gitbook/assets/image%20%28551%29.png)
+![](.gitbook/assets/image%20%28552%29.png)
 
-![](.gitbook/assets/image%20%28497%29.png)
+![](.gitbook/assets/image%20%28498%29.png)
 
-![](.gitbook/assets/image%20%28847%29.png)
+![](.gitbook/assets/image%20%28851%29.png)
 
 ### 优化
 
@@ -438,7 +438,7 @@ OYO-APP（直连）、OYO-小程序（直连）、OYO-支付宝小程序（直�
 
 #### 酒店账务对账表优化：增加导出功能，增加离店日期展示等）
 
-![](.gitbook/assets/image%20%28757%29.png)
+![](.gitbook/assets/image%20%28760%29.png)
 
 ![](.gitbook/assets/image%20%2877%29.png)
 
@@ -446,15 +446,15 @@ OYO-APP（直连）、OYO-小程序（直连）、OYO-支付宝小程序（直�
 
 该功能上线后，“入账”环节的“手动录入房费选项”已经取消，房费自动生成（上线前如图1，上线后如图2），降低酒店错误操作概率。
 
-![](.gitbook/assets/image%20%28663%29.png)
+![](.gitbook/assets/image%20%28666%29.png)
 
-![](.gitbook/assets/image%20%28642%29.png)
+![](.gitbook/assets/image%20%28644%29.png)
 
 #### 订单字段补全（客源结构、联系人、联系人电话）目前订单中联系人等字段未存，
 
 该功能上线后可以存储这些字段（如图）
 
-![](.gitbook/assets/image%20%28708%29.png)
+![](.gitbook/assets/image%20%28711%29.png)
 
 ### 营收分析&营收报表展示优化
 
@@ -462,13 +462,13 @@ OYO-APP（直连）、OYO-小程序（直连）、OYO-支付宝小程序（直�
 
 ![](.gitbook/assets/image%20%28293%29.png)
 
-![](.gitbook/assets/image%20%28691%29.png)
+![](.gitbook/assets/image%20%28694%29.png)
 
 #### CRS新增酒店信息增加品牌字段
 
 为所有酒店增加一个品牌线字段（如图），现存酒店统一用smart。随着阿波罗上线，匹配三个品牌线（轻享、智享、尊享）
 
-![](.gitbook/assets/image%20%28722%29.png)
+![](.gitbook/assets/image%20%28725%29.png)
 
 #### 在线客服调整至私有云
 
@@ -485,7 +485,7 @@ OYO-APP（直连）、OYO-小程序（直连）、OYO-支付宝小程序（直�
 
 ![&#x56FE;1](.gitbook/assets/image%20%2880%29.png)
 
-![&#x56FE;2](.gitbook/assets/image%20%28860%29.png)
+![&#x56FE;2](.gitbook/assets/image%20%28864%29.png)
 
 ![&#x56FE;3](.gitbook/assets/image%20%2863%29.png)
 
@@ -495,7 +495,7 @@ OYO-APP（直连）、OYO-小程序（直连）、OYO-支付宝小程序（直�
 
 * 收银员交款明细表
 
-![](.gitbook/assets/image%20%28571%29.png)
+![](.gitbook/assets/image%20%28573%29.png)
 
 ![](.gitbook/assets/image%20%28256%29.png)
 
@@ -505,7 +505,7 @@ OYO-APP（直连）、OYO-小程序（直连）、OYO-支付宝小程序（直�
 
 * 会员转化报表
 
-![](.gitbook/assets/image%20%28608%29.png)
+![](.gitbook/assets/image%20%28610%29.png)
 
 * 订单来源表
 
@@ -513,7 +513,7 @@ OYO-APP（直连）、OYO-小程序（直连）、OYO-支付宝小程序（直�
 
 * 挂账报表
 
-![](.gitbook/assets/image%20%28582%29.png)
+![](.gitbook/assets/image%20%28584%29.png)
 
 * 身份证数据脱敏
 
@@ -526,7 +526,7 @@ OYO-APP（直连）、OYO-小程序（直连）、OYO-支付宝小程序（直�
 * 申诉列表页面默认显示为查询日期
 * 夜审逻辑优化：客服操作时间拉长至10天，预付支持NoShow申诉，申诉成功与驳回文字提示变更，申诉超时与人工驳回区分显示
 
-![](.gitbook/assets/image%20%28802%29.png)
+![](.gitbook/assets/image%20%28805%29.png)
 
 * 长住房：房态图入住及新建订单入离范围开放至180天
 * 订单房价修改-续住和换房支持按日改价
@@ -557,7 +557,7 @@ OYO-APP（直连）、OYO-小程序（直连）、OYO-支付宝小程序（直�
 
 * 全部订单页面筛选逻辑优化：新增支付状态，日期类型筛选
 
-![](.gitbook/assets/image%20%28673%29.png)
+![](.gitbook/assets/image%20%28676%29.png)
 
 * 在住订单详情页面展示每日房价
 
@@ -565,7 +565,7 @@ OYO-APP（直连）、OYO-小程序（直连）、OYO-支付宝小程序（直�
 
 * 订单详情页支持跳转房单
 
-![](.gitbook/assets/image%20%28604%29.png)
+![](.gitbook/assets/image%20%28606%29.png)
 
 ### 修复
 

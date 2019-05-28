@@ -22,29 +22,29 @@
 
 2.确认为当日入住订单，需要办理提前离店，点击右上角的结账退房。
 
-![](../../.gitbook/assets/image%20%28763%29.png)
+![](../../.gitbook/assets/image%20%28766%29.png)
 
 3.在弹出的提示页面选择“不生成房费”，根据提示退还客人押金，然后确认退房即可。
 
-![](../../.gitbook/assets/image%20%28525%29.png)
+![](../../.gitbook/assets/image%20%28526%29.png)
 
-![](../../.gitbook/assets/image%20%28503%29.png)
+![](../../.gitbook/assets/image%20%28504%29.png)
 
-![](../../.gitbook/assets/image%20%28513%29.png)
+![](../../.gitbook/assets/image%20%28514%29.png)
 
 #### 不收费提前离店--非当日入离
 
 1.在房态图中找到需要办理退房的房间，进入在住详情，查看入离时间，点击结账退房
 
-![](../../.gitbook/assets/image%20%28578%29.png)
+![](../../.gitbook/assets/image%20%28580%29.png)
 
 ![](../../.gitbook/assets/image%20%283%29.png)
 
 2.结清账务后确认退房（若押金剩余，则退还 押金；若存在欠款，则补收银。收款或退款操作，参考正常离店流程）
 
-![](../../.gitbook/assets/image%20%28508%29.png)
+![](../../.gitbook/assets/image%20%28509%29.png)
 
-![](../../.gitbook/assets/image%20%28513%29.png)
+![](../../.gitbook/assets/image%20%28514%29.png)
 
 #### 收费提前离店-当日入离
 
@@ -54,15 +54,15 @@
 
 2.确认为当日入住订单，需要办理提前离店，点击右上角的结账退房。
 
-![](../../.gitbook/assets/image%20%28763%29.png)
+![](../../.gitbook/assets/image%20%28766%29.png)
 
 3.在弹出的提示页面选择“生成房费”，结清账务后确认退房（若押金剩余，则退还 押金；若存在欠款，则补收银。收款或退款操作，参考正常离店流程）
 
 ![](../../.gitbook/assets/image%20%2849%29.png)
 
-![](../../.gitbook/assets/image%20%28508%29.png)
+![](../../.gitbook/assets/image%20%28509%29.png)
 
-![](../../.gitbook/assets/image%20%28513%29.png)
+![](../../.gitbook/assets/image%20%28514%29.png)
 
 #### 收费提前离店--非当日入离
 
@@ -72,18 +72,18 @@
 
 2.以该房间为例，预离开日期为3月13日，客人在3月12日需要提前离店，那么最后一日的房费需要手动入账，通过账单/退房页面下的【入账】，录入需收取费用。
 
-![](../../.gitbook/assets/image%20%28784%29.png)
+![](../../.gitbook/assets/image%20%28787%29.png)
 
 点击【房费调整】，录入房费金额\(此例子中，房价为200元），并备注【提前离店】。
 
-![](../../.gitbook/assets/image%20%28492%29.png)
+![](../../.gitbook/assets/image%20%28493%29.png)
 
   
 点击【结账退房】，根据提示结清账务后确认退房（若押金剩余，则退还 押金；若存在欠款，则补收银。收款或退款操作，参考正常离店流程）
 
 ![](../../.gitbook/assets/image%20%28444%29.png)
 
-![](../../.gitbook/assets/image%20%28639%29.png)
+![](../../.gitbook/assets/image%20%28641%29.png)
 
-![](../../.gitbook/assets/image%20%28560%29.png)
+![](../../.gitbook/assets/image%20%28561%29.png)
 
