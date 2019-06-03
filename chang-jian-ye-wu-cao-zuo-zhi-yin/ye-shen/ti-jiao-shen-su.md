@@ -6,8 +6,6 @@
 
 订单的申诉有效期为：从下单开始，至离店日后3天内的24：00之前。
 
-![](../../.gitbook/assets/image%20%28908%29.png)
-
 ### 申诉操作流程
 
 [点击查看视频](http://crs-pms-vidio.oss-cn-beijing.aliyuncs.com/%E5%A4%9C%E5%AE%A1-%E6%8F%90%E4%BA%A4%E7%94%B3%E8%AF%89.mp4)
