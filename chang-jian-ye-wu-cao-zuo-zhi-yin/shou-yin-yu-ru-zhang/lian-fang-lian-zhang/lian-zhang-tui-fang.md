@@ -8,7 +8,7 @@
 
 * 选择合并结算
 
-![](../../../.gitbook/assets/image%20%28558%29.png)
+![](../../../.gitbook/assets/image%20%28568%29.png)
 
 * 合并结算后，账单转移显示
 

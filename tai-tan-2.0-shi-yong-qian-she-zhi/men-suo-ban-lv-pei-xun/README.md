@@ -2,29 +2,29 @@
 
 ## 前言 门锁伴侣是一个将传统电子锁变为智能锁的配件，改造后客人在前台使用微信扫码领取“电子房卡”，领取成功后会收到一条微信服务通知，提示生效时间，房间号，订单信息。客人在客房门口使用微信扫描房门上二维码可以直接开门，同时可以监控房间开门记录（含IC卡）。
 
-![](../../.gitbook/assets/image%20%28505%29.png)
+![](../../.gitbook/assets/image%20%28513%29.png)
 
 ## 1、订单入住 
 
 ### 订单入住时按常规流程正常入住，需要在客人确定订单后让其扫码前台二维码领取房间智能卡。注意：如果授权智能卡的话，手机号会直接带入到入住人信息的。
 
-![](../../.gitbook/assets/image%20%28765%29.png)
+![](../../.gitbook/assets/image%20%28778%29.png)
 
                                           图一：订单入住—办理入住
 
-![](../../.gitbook/assets/image%20%28572%29.png)
+![](../../.gitbook/assets/image%20%28584%29.png)
 
                                            图二：订单入住—排房、录入客人信息、点击门锁按键
 
-![](../../.gitbook/assets/image%20%28422%29.png)
+![](../../.gitbook/assets/image%20%28430%29.png)
 
                                                  **图三：订单入住—核对客人手机尾号**
 
-![](../../.gitbook/assets/image%20%28753%29.png)
+![](../../.gitbook/assets/image%20%28766%29.png)
 
 ####                                                 ****图四：订单入住—确定下发
 
-![](../../.gitbook/assets/image%20%28634%29.png)
+![](../../.gitbook/assets/image%20%28646%29.png)
 
                                                   图五：订单入住—确定入住
 
@@ -34,31 +34,31 @@
 
 图七：散客入住—到店客人办理\(如图下\)
 
-![](../../.gitbook/assets/image%20%28285%29.png)
+![](../../.gitbook/assets/image%20%28289%29.png)
 
 图八：散客入住—排房收款确定入住\(如图下\)
 
-![](../../.gitbook/assets/image%20%28362%29.png)
+![](../../.gitbook/assets/image%20%28370%29.png)
 
 图九：散客入住—入住成功\(如图下\)
 
-![](../../.gitbook/assets/image%20%28259%29.png)
+![](../../.gitbook/assets/image%20%28262%29.png)
 
 图十：散客入住—办理智能卡入口   \(如图下）
 
-![](../../.gitbook/assets/image%20%28833%29.png)
+![](../../.gitbook/assets/image%20%28846%29.png)
 
 图十一：散客入住—智能卡授权按键   \(如图下）
 
-![](../../.gitbook/assets/image%20%28357%29.png)
+![](../../.gitbook/assets/image%20%28365%29.png)
 
 图十二：散客入住—授权手机号   \(如图下）
 
-![](../../.gitbook/assets/image%20%28660%29.png)
+![](../../.gitbook/assets/image%20%28672%29.png)
 
 图十三：散客入住—添加同住人授权   \(如图下）
 
-![](../../.gitbook/assets/image%20%28603%29.png)
+![](../../.gitbook/assets/image%20%28615%29.png)
 
 图十四：散客入住—同住人授权智能卡   \(如图下）
 
@@ -74,7 +74,7 @@
 
 图十六：退房—自动注销智能卡    \(如图下）
 
-![](../../.gitbook/assets/image%20%28853%29.png)
+![](../../.gitbook/assets/image%20%28867%29.png)
 
 ## 4、续住：
 
@@ -82,11 +82,11 @@
 
 图十七：续住—自动延期智能卡    \(如图下）
 
-![](../../.gitbook/assets/image%20%28251%29.png)
+![](../../.gitbook/assets/image%20%28253%29.png)
 
 图十八：续住—自动延期智能卡    \(如图下）
 
-![](../../.gitbook/assets/image%20%28699%29.png)
+![](../../.gitbook/assets/image%20%28711%29.png)
 
 ## 5、换房
 

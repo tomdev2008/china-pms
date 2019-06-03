@@ -8,5 +8,5 @@
 
 * 复制成功后，页面上方会出现提示：复制卡成功
 
-![](../../../.gitbook/assets/image%20%28813%29.png)
+![](../../../.gitbook/assets/image%20%28826%29.png)
 
