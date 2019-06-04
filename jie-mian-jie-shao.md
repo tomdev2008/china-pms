@@ -2,7 +2,7 @@
 description: Titan系统主要界面说明
 ---
 
-# 界面介绍
+# Titan界面介绍
 
 ## 界面介绍
 
@@ -10,19 +10,19 @@ description: Titan系统主要界面说明
 
 可使用账号密码或手机验证码登录系统。也可点击微信扫码登陆绑定微信账号，首次使用微信登陆，需要先绑定账号。
 
-![](.gitbook/assets/image%20%28320%29.png)
+![](.gitbook/assets/image%20%28322%29.png)
 
 ### 侧边栏
 
 侧边栏是Titan的导航页面，可以通过侧边栏跳转对应的界面处理业务。
 
-![](.gitbook/assets/image%20%28614%29.png)
+![](.gitbook/assets/image%20%28617%29.png)
 
 ### 使用帮助&联系客服&申诉
 
 使用帮助&联系客服&申诉为可拖动控件。
 
-![](.gitbook/assets/image%20%28517%29.png)
+![](.gitbook/assets/image%20%28520%29.png)
 
 点击联系客服，可发送截图向客服请求协助。
 
@@ -34,5 +34,5 @@ description: Titan系统主要界面说明
 
 房态图是Titan的核心页面，支持查看干净房/在住/待入住/脏房/停售房，支持楼层筛选，房态筛选，并办理预抵排房、快速快速入住、进行脏房批量置净。
 
-![](.gitbook/assets/image%20%28842%29.png)
+![](.gitbook/assets/image%20%28848%29.png)
 

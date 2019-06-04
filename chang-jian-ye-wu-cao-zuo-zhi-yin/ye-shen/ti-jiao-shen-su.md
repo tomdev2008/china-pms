@@ -12,23 +12,23 @@
 
 * 确认需要申诉的订单号并复制（如下图）。
 
-![](../../.gitbook/assets/image%20%28564%29.png)
+![](../../.gitbook/assets/image%20%28567%29.png)
 
 * 点击页面悬浮框中的“申诉”按钮，弹出申诉弹窗。该弹窗可自由拖动。
 
-![](../../.gitbook/assets/image%20%28427%29.png)
+![](../../.gitbook/assets/image%20%28429%29.png)
 
 * 将需要申诉的订单号粘贴进去，并点击“查询”，若订单号正确且订单在申诉有效期内，页面下方会出现申请操作区。
 
-![](../../.gitbook/assets/image%20%28572%29.png)
+![](../../.gitbook/assets/image%20%28575%29.png)
 
 * 在下拉框中选择申诉的具体内容。
 
-![](../../.gitbook/assets/image%20%28311%29.png)
+![](../../.gitbook/assets/image%20%28313%29.png)
 
 * 选择完成后，在弹窗的框中填写相关信息（选择不同的申诉内容，需要填写的信息也不同）如选择订单号错误，则需要填写以下信息
 
-![](../../.gitbook/assets/image%20%28465%29.png)
+![](../../.gitbook/assets/image%20%28467%29.png)
 
 * 点击“添加申诉原因”，可以添加订单的申诉原因。
 
@@ -36,7 +36,7 @@
 
 * 如此次选择“联系电话错误”，则需要填写以下信息。
 
-![](../../.gitbook/assets/image%20%28243%29.png)
+![](../../.gitbook/assets/image%20%28244%29.png)
 
 * 申诉信息填写完毕后，点击右下角的“提交申诉”按钮即可。
 
@@ -48,53 +48,53 @@
 
 * 申诉原因选择“房单Nshow/取消“
 
-![](../../.gitbook/assets/image%20%2882%29.png)
+![](../../.gitbook/assets/image%20%2883%29.png)
 
 * 选择需要申诉的房单，可多选，选中后房单后方会有“√”标识
 
-![](../../.gitbook/assets/image%20%28545%29.png)
+![](../../.gitbook/assets/image%20%28548%29.png)
 
 * 选择需要将房单修改为什么状态
 
-![](../../.gitbook/assets/image%20%28108%29.png)
+![](../../.gitbook/assets/image%20%28109%29.png)
 
 * 选择完毕后，点击“提交申诉”即可
 
-![](../../.gitbook/assets/image%20%28404%29.png)
+![](../../.gitbook/assets/image%20%28406%29.png)
 
 方法二：
 
 * 申诉原因选择“房单取消/noshow“
 
-![](../../.gitbook/assets/image%20%2882%29.png)
+![](../../.gitbook/assets/image%20%2883%29.png)
 
 * 选择一个房单
 
-![](../../.gitbook/assets/image%20%28587%29.png)
+![](../../.gitbook/assets/image%20%28590%29.png)
 
 * 选择需要将房单修改为什么状态
 
-![](../../.gitbook/assets/image%20%28108%29.png)
+![](../../.gitbook/assets/image%20%28109%29.png)
 
 * 点击“添加申诉原因”
 
-![](../../.gitbook/assets/image%20%28381%29.png)
+![](../../.gitbook/assets/image%20%28383%29.png)
 
 * 原因仍然选择“房单取消/noshow”
 
-![](../../.gitbook/assets/image%20%28672%29.png)
+![](../../.gitbook/assets/image%20%28676%29.png)
 
 * 选择需要申诉的另一个房单
 
-![](../../.gitbook/assets/image%20%28212%29.png)
+![](../../.gitbook/assets/image%20%28213%29.png)
 
 * 选择需要将房单修改为什么状态
 
-![](../../.gitbook/assets/image%20%28825%29.png)
+![](../../.gitbook/assets/image%20%28831%29.png)
 
 * 通过此方法将需要申诉的房单全部选择后，点击“提交申诉”即可
 
-![](../../.gitbook/assets/image%20%28556%29.png)
+![](../../.gitbook/assets/image%20%28559%29.png)
 
 
 
@@ -108,11 +108,11 @@
 
 * 点击“在住管理”→“在住列表” 。
 
-![](../../.gitbook/assets/image%20%28194%29.png)
+![](../../.gitbook/assets/image%20%28195%29.png)
 
 * 点击“申诉”标签，即可进入申诉列表，可以查看申诉的详情及日志。
 
-![](../../.gitbook/assets/image%20%28714%29.png)
+![](../../.gitbook/assets/image%20%28718%29.png)
 
-![](../../.gitbook/assets/image%20%28402%29.png)
+![](../../.gitbook/assets/image%20%28404%29.png)
 

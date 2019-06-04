@@ -27,7 +27,7 @@ OTA订单搬单延迟，需要区分是否为直连订单。
 
 如下图所示：
 
-![](../.gitbook/assets/image%20%28121%29.png)
+![](../.gitbook/assets/image%20%28122%29.png)
 
 ## OTA订单取消了，PMS没有同步是什么问题？
 
@@ -37,5 +37,19 @@ OTA订单搬单延迟，需要区分是否为直连订单。
 
 店长可通过 [https://crsx.oyohotels.cn](https://crsx.oyohotels.cn) 登陆CRS，通过订单列表-渠道订单号查询对应订单状态信息。
 
-![&#x5B99;&#x65AF;&#x8BA2;&#x5355;&#x72B6;&#x6001;&#x67E5;&#x8BE2;&#x9875;&#x9762;](../.gitbook/assets/image%20%28347%29.png)
+![&#x5B99;&#x65AF;&#x8BA2;&#x5355;&#x72B6;&#x6001;&#x67E5;&#x8BE2;&#x9875;&#x9762;](../.gitbook/assets/image%20%28349%29.png)
+
+## Sales订单如何排房？
+
+Sales订单与其他订单一样，也会出现在今日预抵的订单中，按照预抵排房操作即可：进入今日预抵页面，为订单排房。
+
+## Sales下单后，来客实际入住数量，订单价格与sales订单情况不符的情况应该如何处理？ <a id="sales-xia-dan-hou-lai-ke-shi-ji-ru-zhu-shu-liang-ding-dan-jia-ge-yu-sales-ding-dan-qing-kuang-bu-fu-de-qing-kuang-ying-gai-ru-he-chu-li"></a>
+
+联系订单的销售人员解决。具体方法如下：
+
+* 进入宙斯系统的订单管理页面。输入订单信息，找到该订单，点击详情，进入到详情页面，创建人就是该订单的销售
+
+![](../.gitbook/assets/image%20%28672%29.png)
+
+![](../.gitbook/assets/image%20%28496%29.png)
 
