@@ -26,14 +26,14 @@
 2. 缩放比例100%
 3. 打印机：针式打印机  
 
-![](../.gitbook/assets/image%20%28870%29.png)
+![](../.gitbook/assets/image%20%28875%29.png)
 
 ## 流水单、结算单打印
 
 * 选择再住列表——账单/退房
 * 选择更多操作——打印账务水单 
 
-![](../.gitbook/assets/image%20%28375%29.png)
+![](../.gitbook/assets/image%20%28376%29.png)
 
 * 显示打印账单水流 项目名称
 
@@ -42,7 +42,7 @@
 3. 选择后点击默认格式
 4. 按确认键
 
-![](../.gitbook/assets/image%20%28593%29.png)
+![](../.gitbook/assets/image%20%28596%29.png)
 
 * 确认按钮点击后，打印配置功能会自动打开
 
@@ -59,5 +59,5 @@
 2. 缩放比例100%
 3. 打印机：针式打印机
 
-![](../.gitbook/assets/image%20%28579%29.png)
+![](../.gitbook/assets/image%20%28582%29.png)
 

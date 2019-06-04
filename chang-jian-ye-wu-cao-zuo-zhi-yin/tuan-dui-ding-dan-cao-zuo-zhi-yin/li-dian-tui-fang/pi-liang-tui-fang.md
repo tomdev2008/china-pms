@@ -8,21 +8,21 @@
 
 * 在图示处切换到团队的主账单后，点击右上角“结账退房”
 
-![](../../../.gitbook/assets/image%20%28632%29.png)
+![](../../../.gitbook/assets/image%20%28635%29.png)
 
 * 如存在房间未生成房费，则弹窗提示生成房费，根据提示操作
 
-![](../../../.gitbook/assets/image%20%28454%29.png)
+![](../../../.gitbook/assets/image%20%28455%29.png)
 
 * 选择全部房间，确认结账
 
-![](../../../.gitbook/assets/image%20%28361%29.png)
+![](../../../.gitbook/assets/image%20%28362%29.png)
 
 * 根据提示结清账务
 
-![](../../../.gitbook/assets/image%20%28636%29.png)
+![](../../../.gitbook/assets/image%20%28639%29.png)
 
 * 结账成功后，确认退房即可
 
-![](../../../.gitbook/assets/image%20%28343%29.png)
+![](../../../.gitbook/assets/image%20%28344%29.png)
 

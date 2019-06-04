@@ -2,23 +2,23 @@
 
 * 确认无误后，打印单据，交班人与接班人签字确认。
 
-![](../../../.gitbook/assets/image%20%28704%29.png)
+![](../../../.gitbook/assets/image%20%28707%29.png)
 
 * 单据有三种样式：A4横向、A4竖向、针式。默认A4横向，可自行选择切换。
 
-![](../../../.gitbook/assets/image%20%28421%29.png)
+![](../../../.gitbook/assets/image%20%28422%29.png)
 
 
 
-![](../../../.gitbook/assets/image%20%28808%29.png)
+![](../../../.gitbook/assets/image%20%28811%29.png)
 
-![](../../../.gitbook/assets/image%20%28340%29.png)
+![](../../../.gitbook/assets/image%20%28341%29.png)
 
 * 双方签字后，交班人点击页面右下角“交班”按钮，进行交班。
 
-![](../../../.gitbook/assets/image%20%28359%29.png)
+![](../../../.gitbook/assets/image%20%28360%29.png)
 
 * 点击“确认”后，系统将登出当前账号，需要接班人登录自己的账号。
 
-![](../../../.gitbook/assets/image%20%28265%29.png)
+![](../../../.gitbook/assets/image%20%28266%29.png)
 

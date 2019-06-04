@@ -4,15 +4,29 @@
 
 点击“订单管理”→“订单列表” ，可根据上方标签筛选不同类型的订单
 
-![](../../.gitbook/assets/image%20%28431%29.png)
+![](../../.gitbook/assets/image%20%28817%29.png)
 
 在“全部订单”标签下，可自定义条件，对订单进行筛选查看
 
-![](../../.gitbook/assets/image%20%28804%29.png)
+![](../../.gitbook/assets/image%20%28865%29.png)
 
-## 订单查询视频指南
+订单查询视频指南：[点击查看操作视频](http://crs-pms-vidio.oss-cn-beijing.aliyuncs.com/订单查询.mp4)
 
-[点击查看操作视频](http://crs-pms-vidio.oss-cn-beijing.aliyuncs.com/订单查询.mp4)
+## 在住订单查询
+
+在住管理→在住列表可以查看今日在住、历史在住及全部房单
+
+![](../../.gitbook/assets/image%20%28513%29.png)
+
+“今日在住”标签下可以对房单进行筛选，选择自动入住房单或手工入住房单
+
+![](../../.gitbook/assets/image%20%28576%29.png)
+
+“申诉”标签下可以查看提交过申诉的订单的处理进度及结果
+
+![](../../.gitbook/assets/image%20%28258%29.png)
+
+
 
 #### 
 

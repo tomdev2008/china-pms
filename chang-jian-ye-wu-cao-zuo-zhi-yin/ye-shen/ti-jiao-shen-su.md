@@ -12,23 +12,23 @@
 
 * 确认需要申诉的订单号并复制（如下图）。
 
-![](../../.gitbook/assets/image%20%28567%29.png)
+![](../../.gitbook/assets/image%20%28569%29.png)
 
 * 点击页面悬浮框中的“申诉”按钮，弹出申诉弹窗。该弹窗可自由拖动。
 
-![](../../.gitbook/assets/image%20%28429%29.png)
+![](../../.gitbook/assets/image%20%28430%29.png)
 
 * 将需要申诉的订单号粘贴进去，并点击“查询”，若订单号正确且订单在申诉有效期内，页面下方会出现申请操作区。
 
-![](../../.gitbook/assets/image%20%28575%29.png)
+![](../../.gitbook/assets/image%20%28578%29.png)
 
 * 在下拉框中选择申诉的具体内容。
 
-![](../../.gitbook/assets/image%20%28313%29.png)
+![](../../.gitbook/assets/image%20%28314%29.png)
 
 * 选择完成后，在弹窗的框中填写相关信息（选择不同的申诉内容，需要填写的信息也不同）如选择订单号错误，则需要填写以下信息
 
-![](../../.gitbook/assets/image%20%28467%29.png)
+![](../../.gitbook/assets/image%20%28468%29.png)
 
 * 点击“添加申诉原因”，可以添加订单的申诉原因。
 
@@ -52,7 +52,7 @@
 
 * 选择需要申诉的房单，可多选，选中后房单后方会有“√”标识
 
-![](../../.gitbook/assets/image%20%28548%29.png)
+![](../../.gitbook/assets/image%20%28550%29.png)
 
 * 选择需要将房单修改为什么状态
 
@@ -60,7 +60,7 @@
 
 * 选择完毕后，点击“提交申诉”即可
 
-![](../../.gitbook/assets/image%20%28406%29.png)
+![](../../.gitbook/assets/image%20%28407%29.png)
 
 方法二：
 
@@ -70,7 +70,7 @@
 
 * 选择一个房单
 
-![](../../.gitbook/assets/image%20%28590%29.png)
+![](../../.gitbook/assets/image%20%28593%29.png)
 
 * 选择需要将房单修改为什么状态
 
@@ -78,11 +78,11 @@
 
 * 点击“添加申诉原因”
 
-![](../../.gitbook/assets/image%20%28383%29.png)
+![](../../.gitbook/assets/image%20%28384%29.png)
 
 * 原因仍然选择“房单取消/noshow”
 
-![](../../.gitbook/assets/image%20%28676%29.png)
+![](../../.gitbook/assets/image%20%28679%29.png)
 
 * 选择需要申诉的另一个房单
 
@@ -90,11 +90,11 @@
 
 * 选择需要将房单修改为什么状态
 
-![](../../.gitbook/assets/image%20%28831%29.png)
+![](../../.gitbook/assets/image%20%28835%29.png)
 
 * 通过此方法将需要申诉的房单全部选择后，点击“提交申诉”即可
 
-![](../../.gitbook/assets/image%20%28559%29.png)
+![](../../.gitbook/assets/image%20%28561%29.png)
 
 
 
@@ -112,7 +112,7 @@
 
 * 点击“申诉”标签，即可进入申诉列表，可以查看申诉的详情及日志。
 
-![](../../.gitbook/assets/image%20%28718%29.png)
+![](../../.gitbook/assets/image%20%28721%29.png)
 
-![](../../.gitbook/assets/image%20%28404%29.png)
+![](../../.gitbook/assets/image%20%28405%29.png)
 

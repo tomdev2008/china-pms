@@ -16,7 +16,7 @@
 
 * 下单成功，收到系统提示。
 
-![](../../.gitbook/assets/image%20%28367%29.png)
+![](../../.gitbook/assets/image%20%28368%29.png)
 
 
 
