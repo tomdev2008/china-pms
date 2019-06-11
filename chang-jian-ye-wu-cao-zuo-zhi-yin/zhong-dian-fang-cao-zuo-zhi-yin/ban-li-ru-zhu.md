@@ -1,4 +1,4 @@
-# 办理入住
+# 办理钟点房入住
 
 钟点房入住操作视频：[点击查看](http://crs-pms-vidio.oss-cn-beijing.aliyuncs.com/%E9%92%9F%E7%82%B9%E6%88%BF%E5%85%A5%E4%BD%8F.mp4)
 

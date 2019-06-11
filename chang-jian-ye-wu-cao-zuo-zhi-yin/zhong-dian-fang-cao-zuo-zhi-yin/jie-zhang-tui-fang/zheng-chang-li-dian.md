@@ -1,4 +1,4 @@
-# 正常离店
+# 钟点房正常离店
 
 钟点房到时正常办理离店，[点击查看操作视频](http://crs-pms-vidio.oss-cn-beijing.aliyuncs.com/%E9%92%9F%E7%82%B9%E6%88%BF%E9%80%80%E6%88%BF.mp4)
 

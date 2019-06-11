@@ -1,4 +1,4 @@
-# 查看日志
+# 查看钟点房日志
 
 钟点房查看日志流程与全天房查看日志流程相似，[点击查看操作视频](http://crs-pms-vidio.oss-cn-beijing.aliyuncs.com/%E9%92%9F%E7%82%B9%E6%88%BF%E6%97%A5%E5%BF%97.mp4)
 

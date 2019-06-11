@@ -6,7 +6,7 @@ description: 通过系统设置进行价格修改
 
 开始使用系统前，请将前台散客价录入系统。[（点击查看操作视频）](http://crs-pms-vidio.oss-cn-beijing.aliyuncs.com/%E4%BB%B7%E6%A0%BC%E8%AE%BE%E7%BD%AE.mp4)
 
-**酒店经理、酒店业主有权限更改房价**
+**HOO、酒店经理、酒店业主有权限更改房价**
 
 * 鼠标放置至侧边栏，可弹出侧边栏详情
 

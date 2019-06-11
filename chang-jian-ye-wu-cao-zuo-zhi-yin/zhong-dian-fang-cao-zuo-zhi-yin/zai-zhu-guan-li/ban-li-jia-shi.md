@@ -1,4 +1,4 @@
-# 办理加时
+# 办理钟点房加时
 
 钟点房到时可以办理加时，[点击查看操作视频](http://crs-pms-vidio.oss-cn-beijing.aliyuncs.com/%E9%92%9F%E7%82%B9%E6%88%BF%E5%8A%A0%E6%97%B6.mp4)
 

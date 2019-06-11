@@ -1,4 +1,4 @@
-# 办理换房
+# 办理钟点房换房
 
 钟点房换房操作与全天房换房操作类似：[点击查看操作视频](http://crs-pms-vidio.oss-cn-beijing.aliyuncs.com/%E9%92%9F%E7%82%B9%E6%88%BF%E6%8D%A2%E6%88%BF.mp4)
 
