@@ -10,11 +10,11 @@
 
 * 单击排好的房间，下方会出现该房间信息。
 
-![](../../../.gitbook/assets/image%20%28251%29.png)
+![](../../../.gitbook/assets/image%20%28252%29.png)
 
 * 点击“noshow”并确认，即可noshow该房单。
 
-![](../../../.gitbook/assets/image%20%28789%29.png)
+![](../../../.gitbook/assets/image%20%28791%29.png)
 
 ![](../../../.gitbook/assets/image%20%2818%29.png)
 
@@ -22,7 +22,7 @@
 
 ![](../../../.gitbook/assets/image%20%2893%29.png)
 
-![](../../../.gitbook/assets/image%20%28580%29.png)
+![](../../../.gitbook/assets/image%20%28582%29.png)
 
 ## 整个团单noshow与取消
 

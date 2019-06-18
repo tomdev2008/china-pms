@@ -1,6 +1,6 @@
 # 联账退房
 
-将联房合并结算，并办理离店退房
+将联房合并结算，并办理离店退房   [点击查看操作视频](https://crs-pms-vidio.oss-cn-beijing.aliyuncs.com/%E8%81%94%E6%88%BF%E9%80%80%E6%88%BF.mp4)
 
 * 联房生成应收
 
@@ -8,7 +8,7 @@
 
 * 选择合并结算
 
-![](../../../.gitbook/assets/image%20%28574%29.png)
+![](../../../.gitbook/assets/image%20%28576%29.png)
 
 * 合并结算后，账单转移显示
 

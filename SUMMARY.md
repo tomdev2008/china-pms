@@ -68,7 +68,7 @@
       * [预付单Noshow后补入住](chang-jian-ye-wu-cao-zuo-zhi-yin/ye-shen/bu-dan-bu-pai-fang-bu-ru-zhu-zhi-yin/noshow-de-yu-fu-dan-pai-fang-ru-zhu.md)
       * [补录前一日入住的散客单](chang-jian-ye-wu-cao-zuo-zhi-yin/ye-shen/bu-dan-bu-pai-fang-bu-ru-zhu-zhi-yin/ye-shen-hou-bu-dan.md)
       * [自动入住订单补排房/补入住人信息](chang-jian-ye-wu-cao-zuo-zhi-yin/ye-shen/bu-dan-bu-pai-fang-bu-ru-zhu-zhi-yin/bu-pai-fang-bu-ru-zhu-ren-xin-xi.md)
-    * [提交申诉](chang-jian-ye-wu-cao-zuo-zhi-yin/ye-shen/ti-jiao-shen-su.md)
+    * [异常订单申诉](chang-jian-ye-wu-cao-zuo-zhi-yin/ye-shen/ti-jiao-shen-su.md)
     * [自动离店](chang-jian-ye-wu-cao-zuo-zhi-yin/ye-shen/qiang-zhi-li-dian.md)
     * [案例解读](chang-jian-ye-wu-cao-zuo-zhi-yin/ye-shen/an-li-jie-du.md)
   * [交接班](chang-jian-ye-wu-cao-zuo-zhi-yin/jiao-jie-ban/README.md)
@@ -201,4 +201,5 @@
     * [办理离店时门卡使用流程](ying-jian-shen-qing-an-zhuang-shi-yong/chuan-tong-men-suo-shi-pei/ban-li-li-dian-shi-men-ka-shi-yong-liu-cheng.md)
     * [查看门锁记录与报表](ying-jian-shen-qing-an-zhuang-shi-yong/chuan-tong-men-suo-shi-pei/cha-kan-men-suo-ji-lu-yu-bao-biao.md)
 * [Titan更新历史日志](tai-tan-chan-pin-geng-xin-ri-zhi.md)
+* [Titan功能更新计划](titan-gong-neng-geng-xin-ji-hua.md)
 
