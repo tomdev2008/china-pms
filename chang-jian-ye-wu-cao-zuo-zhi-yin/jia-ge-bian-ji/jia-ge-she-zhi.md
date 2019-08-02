@@ -4,25 +4,37 @@ description: 通过系统设置进行价格修改
 
 # 价格设置流程
 
-开始使用系统前，请将前台散客价录入系统。[（点击查看操作视频）](http://crs-pms-vidio.oss-cn-beijing.aliyuncs.com/%E4%BB%B7%E6%A0%BC%E8%AE%BE%E7%BD%AE.mp4)
+**HOO、酒店经理、酒店业主有权限更改房价，**[**点击查看操作视频**](https://crs-pms-vidio.oss-cn-beijing.aliyuncs.com/%E6%9B%B4%E6%94%B9%E6%88%BF%E4%BB%B70625.mp4)\*\*\*\*
 
-**HOO、酒店经理、酒店业主有权限更改房价**
+* 在左侧菜单栏中，点击系统设置，进入更改房价
 
-* 鼠标放置至侧边栏，可弹出侧边栏详情
+![](../../.gitbook/assets/image%20%28416%29.png)
 
-![&#x9F20;&#x6807;&#x653E;&#x7F6E;&#x81F3;&#x4FA7;&#x8FB9;&#x680F;&#xFF0C;&#x53EF;&#x5F39;&#x51FA;&#x4FA7;&#x8FB9;&#x680F;&#x8BE6;&#x60C5;](../../.gitbook/assets/image%20%28503%29.png)
+* 选择需要修改价格的时间区间
 
-* 点击系统设置，进入更改房价
+![](../../.gitbook/assets/image%20%2849%29.png)
 
-![&#x70B9;&#x51FB;&#x7CFB;&#x7EDF;&#x8BBE;&#x7F6E;&#xFF0C;&#x8FDB;&#x5165;&#x66F4;&#x6539;&#x623F;&#x4EF7;](../../.gitbook/assets/image%20%28136%29.png)
+* 时间段选择完毕后，选择需要修改星期几的价格，如只修改工作日、只修改周末等
 
-* 可通过选择单日、选择日期区间、选择周的方式来设置不同房型的价格。
+![](../../.gitbook/assets/image%20%28681%29.png)
 
-![&#x53EF;&#x9009;&#x62E9;&#x5355;&#x65E5;&#x3001;&#x65E5;&#x671F;&#x533A;&#x95F4;&#x3001;&#x5468;&#x6765;&#x4FEE;&#x6539;&#x7CFB;&#x7EDF;&#x7684;&#x9884;&#x8BBE;&#x4EF7;&#x683C;](../../.gitbook/assets/image%20%28912%29.png)
+* 时间周期与星期几选择完毕后，点击右侧“对选择范围改价”按钮，下方会弹出该酒店的全部房型，与对应房型的最高限价
 
-* 完成修改后，可在价格日历中查看未来价格。
+![](../../.gitbook/assets/image%20%28296%29.png)
 
-![](../../.gitbook/assets/image%20%28722%29.png)
+* 点击“改价”按钮，可修改对应房型的价格
+
+![](../../.gitbook/assets/image%20%28441%29.png)
+
+* 手动输入价格后，点击“保存”即可
+
+![](../../.gitbook/assets/image%20%28554%29.png)
+
+* 完成修改后，可在价格日历中查看不同房型的未来价格
+
+![](../../.gitbook/assets/image%20%2850%29.png)
+
+
 
 #### 注：保底酒店无法通过PMS修改基准价
 

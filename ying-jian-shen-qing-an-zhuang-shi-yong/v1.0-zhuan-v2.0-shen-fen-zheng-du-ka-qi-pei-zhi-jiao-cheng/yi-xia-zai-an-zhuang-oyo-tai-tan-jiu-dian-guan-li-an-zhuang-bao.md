@@ -6,7 +6,7 @@
 
 * 下载内容；谷歌浏览器、泰坦安装包、远程工具（Teamvivew）
 
-![](../../.gitbook/assets/image%20%28685%29.png)
+![](../../.gitbook/assets/image%20%28697%29.png)
 
 友情提示
 
@@ -19,7 +19,7 @@
 
 ### 下载OYO泰坦安装包失败，提示如下图
 
-![](../../.gitbook/assets/image%20%28132%29.png)
+![](../../.gitbook/assets/image%20%28134%29.png)
 
 ###  解决方案 
 

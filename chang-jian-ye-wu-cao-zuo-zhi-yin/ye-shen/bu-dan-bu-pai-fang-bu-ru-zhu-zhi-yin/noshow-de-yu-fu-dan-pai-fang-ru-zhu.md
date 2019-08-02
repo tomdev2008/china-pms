@@ -10,13 +10,13 @@
 
 * 进入操作页面，进行排房并读取客人身份信息，保存后点击“确认入住”，根据提示录入收款信息，确认即可。
 
-![](../../../.gitbook/assets/image%20%28372%29.png)
+![](../../../.gitbook/assets/image%20%28377%29.png)
 
 * 返回房态图查看，8501房间变为在住状态。
 
-![](../../../.gitbook/assets/image%20%28634%29.png)
+![](../../../.gitbook/assets/image%20%28645%29.png)
 
 * 已Noshow的预付订单下所有房间都排房入住后，整个订单的状态会由“Noshow”变更为“在住”。
 
-![](../../../.gitbook/assets/image%20%28134%29.png)
+![](../../../.gitbook/assets/image%20%28136%29.png)
 

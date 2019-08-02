@@ -6,23 +6,23 @@
 
 * 通过“订单列表”→“团单”→“团单入住”，进入到团单入住页面。
 
-![](../../../.gitbook/assets/image%20%28229%29.png)
+![](../../../.gitbook/assets/image%20%28233%29.png)
 
 * 单击排好的房间，下方会出现该房间信息。
 
-![](../../../.gitbook/assets/image%20%28252%29.png)
+![](../../../.gitbook/assets/image%20%28256%29.png)
 
 * 点击“noshow”并确认，即可noshow该房单。
 
-![](../../../.gitbook/assets/image%20%28791%29.png)
+![](../../../.gitbook/assets/image%20%28804%29.png)
 
 ![](../../../.gitbook/assets/image%20%2818%29.png)
 
 * 点击“取消”并确认，即可取消该房单。 
 
-![](../../../.gitbook/assets/image%20%2893%29.png)
+![](../../../.gitbook/assets/image%20%2895%29.png)
 
-![](../../../.gitbook/assets/image%20%28582%29.png)
+![](../../../.gitbook/assets/image%20%28593%29.png)
 
 ## 整个团单noshow与取消
 

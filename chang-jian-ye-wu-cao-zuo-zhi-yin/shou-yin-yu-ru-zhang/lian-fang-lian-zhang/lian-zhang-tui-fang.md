@@ -4,11 +4,11 @@
 
 * 联房生成应收
 
-![](../../../.gitbook/assets/image%20%2869%29.png)
+![](../../../.gitbook/assets/image%20%2871%29.png)
 
 * 选择合并结算
 
-![](../../../.gitbook/assets/image%20%28576%29.png)
+![](../../../.gitbook/assets/image%20%28587%29.png)
 
 * 合并结算后，账单转移显示
 
@@ -20,7 +20,7 @@
 
 目前系统不支持一个房间部分结算。
 
-![](../../../.gitbook/assets/image%20%2894%29.png)
+![](../../../.gitbook/assets/image%20%2896%29.png)
 
 
 

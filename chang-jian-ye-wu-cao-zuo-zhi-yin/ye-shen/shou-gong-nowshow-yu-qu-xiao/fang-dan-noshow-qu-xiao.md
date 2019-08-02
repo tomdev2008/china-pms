@@ -10,11 +10,11 @@
 
 * 点击订单列表，通过今日预抵，进入办理入住页面
 
-![](../../../.gitbook/assets/image%20%28360%29.png)
+![](../../../.gitbook/assets/image%20%28365%29.png)
 
 * 点击“noshow”并确认，该房单会变为noshow状态（另外两个房间仍然可以办理入住）
 
-![](../../../.gitbook/assets/image%20%2885%29.png)
+![](../../../.gitbook/assets/image%20%2887%29.png)
 
 * noshow后，库存释放、房态释放
 
@@ -22,11 +22,11 @@
 
 * 在办理入住页面，找到需要取消的房单，点击“取消房单”并确认即可。
 
-![](../../../.gitbook/assets/image%20%28908%29.png)
+![](../../../.gitbook/assets/image%20%28921%29.png)
 
 * 取消成功后，原订单中的3间房会变成2间，且未操作noshow也未操作取消的房单仍然可以办理入住。
 
-![](../../../.gitbook/assets/image%20%28125%29.png)
+![](../../../.gitbook/assets/image%20%28127%29.png)
 
 
 
