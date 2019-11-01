@@ -4,18 +4,18 @@
 
 * 通过报表管理，进入“HMI看板”。
 
-![](../../../.gitbook/assets/image%20%28533%29.png)
+![](../../../.gitbook/assets/image%20%28546%29.png)
 
 * 看板可查看酒店本月、上月及上上月的HMI数据。
 * 包括：预计获得奖金、基准条件达标情况、奖金指标当月实际数据、单项分数、权重及单项加权分数
 
-![](../../../.gitbook/assets/image%20%28564%29.png)
+![](../../../.gitbook/assets/image%20%28577%29.png)
 
 * 鼠标单击小圆圈，可以弹出对应的文字说明。
 
-![](../../../.gitbook/assets/image%20%28373%29.png)
+![](../../../.gitbook/assets/image%20%28381%29.png)
 
-![](../../../.gitbook/assets/image%20%28163%29.png)
+![](../../../.gitbook/assets/image%20%28166%29.png)
 
-![](../../../.gitbook/assets/image%20%28275%29.png)
+![](../../../.gitbook/assets/image%20%28279%29.png)
 

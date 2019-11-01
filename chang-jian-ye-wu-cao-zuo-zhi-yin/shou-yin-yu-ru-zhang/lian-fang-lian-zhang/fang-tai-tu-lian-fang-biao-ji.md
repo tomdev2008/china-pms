@@ -2,7 +2,7 @@
 
 房态图中可查看到哪间房间存在联房
 
-![](../../../.gitbook/assets/image%20%28599%29.png)
+![](../../../.gitbook/assets/image%20%28612%29.png)
 
 
 

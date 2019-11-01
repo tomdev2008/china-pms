@@ -8,31 +8,31 @@ description: 通过系统设置进行价格修改
 
 * 在左侧菜单栏中，点击系统设置，进入更改房价
 
-![](../../.gitbook/assets/image%20%28416%29.png)
+![](../../.gitbook/assets/image%20%28424%29.png)
 
 * 选择需要修改价格的时间区间
 
-![](../../.gitbook/assets/image%20%2849%29.png)
+![](../../.gitbook/assets/image%20%2850%29.png)
 
 * 时间段选择完毕后，选择需要修改星期几的价格，如只修改工作日、只修改周末等
 
-![](../../.gitbook/assets/image%20%28681%29.png)
+![](../../.gitbook/assets/image%20%28696%29.png)
 
 * 时间周期与星期几选择完毕后，点击右侧“对选择范围改价”按钮，下方会弹出该酒店的全部房型，与对应房型的最高限价
 
-![](../../.gitbook/assets/image%20%28296%29.png)
+![](../../.gitbook/assets/image%20%28300%29.png)
 
 * 点击“改价”按钮，可修改对应房型的价格
 
-![](../../.gitbook/assets/image%20%28441%29.png)
+![](../../.gitbook/assets/image%20%28449%29.png)
 
 * 手动输入价格后，点击“保存”即可
 
-![](../../.gitbook/assets/image%20%28554%29.png)
+![](../../.gitbook/assets/image%20%28567%29.png)
 
 * 完成修改后，可在价格日历中查看不同房型的未来价格
 
-![](../../.gitbook/assets/image%20%2850%29.png)
+![](../../.gitbook/assets/image%20%2851%29.png)
 
 
 

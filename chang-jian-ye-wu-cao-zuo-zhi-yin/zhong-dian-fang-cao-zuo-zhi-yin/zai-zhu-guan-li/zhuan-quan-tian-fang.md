@@ -4,11 +4,11 @@
 
 * 进入房间的在住详情页面，点击“转全天房”
 
-![](../../../.gitbook/assets/image%20%28399%29.png)
+![](../../../.gitbook/assets/image%20%28407%29.png)
 
 * 在弹出框中选择离店日期，录入每日房价，点击“确认”即可
 
-![](../../../.gitbook/assets/image%20%28162%29.png)
+![](../../../.gitbook/assets/image%20%28165%29.png)
 
 注：
 
