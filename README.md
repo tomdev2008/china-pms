@@ -1,8 +1,8 @@
-# Titan v2.1使用帮助
+# 泰坦 （OYO酒店管理系统）使用帮助
 
 ### 使用帮助页面支持关键词搜索
 
 点击搜索结果，可以快速跳转到该页面。
 
-![](.gitbook/assets/image%20%28148%29.png)
+![](.gitbook/assets/image%20%28147%29.png)
 

@@ -14,56 +14,54 @@
 
 #### 1.在房态图中找到需要办理退房的房间，点击“在住详情”，离店日期
 
-![](../../.gitbook/assets/image%20%28748%29.png)
+![](../../.gitbook/assets/image%20%28817%29.png)
 
 #### 2.确定离店日期为今日，点击结账退房。
 
-![](../../.gitbook/assets/image%20%28799%29.png)
+![](../../.gitbook/assets/image%20%28870%29.png)
 
 * **（无需收款也无需退款）**提示结账成功 ，确认退房即可。
 
-![](../../.gitbook/assets/image%20%28270%29.png)
+![](../../.gitbook/assets/image%20%28297%29.png)
 
 * **（存在欠款需要补收银）**根据页面提示，收取欠款后提示结账成功，点击确认退房即可。收款方式选择“银联POS扫码”或“银联POS刷卡”时，操作流程与办理入住时选择该方式收款的流程相同   [点击查看操作视频](https://crs-pms-vidio.oss-cn-beijing.aliyuncs.com/%E7%A6%BB%E5%BA%97-%E8%A1%A5%E6%94%B6%E6%AC%A0%E6%AC%BE.mp4)
 
-![](../../.gitbook/assets/image%20%28126%29.png)
-
-![](../../.gitbook/assets/image%20%28247%29.png)
+![&#x7CFB;&#x7EDF;&#x544A;&#x77E5;&#x9700;&#x6536;&#x94F6;&#x539F;&#x56E0;&#xFF0C;&#x5E76;&#x63D0;&#x793A;&#x6536;&#x94F6;&#x91D1;&#x989D;&#x3002;&#x4F9D;&#x7167;&#x7CFB;&#x7EDF;&#x63D0;&#x793A;&#x8FDB;&#x884C;&#x6536;&#x94F6;&#x5373;&#x53EF;&#x3002;](../../.gitbook/assets/image%20%28915%29.png)
 
 * **（客人押金有剩余，需退款）**根据提示，退还客人押金后会提示结账成功，点击确认退房即可。    [点击查看操作视频](https://crs-pms-vidio.oss-cn-beijing.aliyuncs.com/%E7%A6%BB%E5%BA%97-%E9%80%80%E8%BF%98%E6%8A%BC%E9%87%91.mp4)
 
-![](../../.gitbook/assets/image%20%28658%29.png)
+![](../../.gitbook/assets/image%20%28716%29.png)
 
-![](../../.gitbook/assets/image%20%28506%29.png)
+![](../../.gitbook/assets/image%20%28550%29.png)
 
 若果该房间之前的款项有通过银联支付的，在退款时，该款项只能通过“银联POS在线退款”退还给客人，点击后方的“退款”按钮（不是通过银联POS支付的款项，可以选择其他退款方式）[点击查看操作视频](http://crs-pms-vidio.oss-cn-beijing.aliyuncs.com/%E9%93%B6%E8%81%94%E5%9C%A8%E7%BA%BF%E9%80%80%E6%AC%BE.mp4)
 
-![](../../.gitbook/assets/image%20%28197%29.png)
+![](../../.gitbook/assets/image%20%28219%29.png)
 
 在弹出的对话框中，点击操作栏的“退款xxx元”，比如此时点击第一个“退款0.02元”
 
-![](../../.gitbook/assets/image%20%28128%29.png)
+![](../../.gitbook/assets/image%20%28138%29.png)
 
 根据提示完成退款：
 
-![](../../.gitbook/assets/image%20%28614%29.png)
+![](../../.gitbook/assets/image%20%28665%29.png)
 
 * 若付款时是扫码支付的，退款时不需要扫码，会自动完成退款，将POS打印出的两联小票交给客人，请客人在第一联“商户存根”联签字后，回收该联即可
 * .若付款时是刷卡支付的，退款时需要再次刷卡，且该卡必须与付款的卡是同一张卡。刷卡后会完成退款，将POS打印出的两联小票交给客人，请客人在第一联“商户存根”联签字后，回收该联即可
 
 退款完成后会出现页面会出现提示。此时如果不需要继续退款，点击“确认“即可。若需继续退款，则按照上述流程继续操作
 
-![](../../.gitbook/assets/image%20%28438%29.png)
+![](../../.gitbook/assets/image%20%28478%29.png)
 
 如果提示退款失败，会提示失败原因，可以点击“重试”
 
-![](../../.gitbook/assets/image%20%28932%29.png)
+![](../../.gitbook/assets/image%20%281020%29.png)
 
 退款全部完成后，会提示结账成功，确认退房即可
 
-![](../../.gitbook/assets/image%20%28249%29.png)
+![](../../.gitbook/assets/image%20%28274%29.png)
 
 **注：**如果退款时候页面无反应，可联系客服，并按客服反馈操作
 
-![](../../.gitbook/assets/image%20%28752%29.png)
+![](../../.gitbook/assets/image%20%28821%29.png)
 

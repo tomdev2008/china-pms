@@ -6,15 +6,15 @@
 
 在房态图找到在住房间，点击“在住详情”
 
-![](../../.gitbook/assets/image%20%28507%29.png)
+![](../../.gitbook/assets/image%20%28551%29.png)
 
 点击“换房”--默认免费换房
 
-![](../../.gitbook/assets/image%20%28169%29.png)
+![](../../.gitbook/assets/image%20%28188%29.png)
 
 选择更换的房间，选择换房原因，确认换房
 
-![](../../.gitbook/assets/image%20%28110%29.png)
+![](../../.gitbook/assets/image%20%28119%29.png)
 
 ## 改价换房
 
@@ -22,9 +22,9 @@
 
 注：修改首日房价后，后续日期的价格会自动变为与首日房价一致；可逐一修改每日房价
 
-![](../../.gitbook/assets/image%20%28164%29.png)
+![](../../.gitbook/assets/image%20%28183%29.png)
 
 进行换房收款时，也可以选择“银联POS机扫码”或“银联POS机刷卡”，操作流程与办理入住时选择该方式收款的流程相同
 
-![](../../.gitbook/assets/image%20%28858%29.png)
+![](../../.gitbook/assets/image%20%28939%29.png)
 
