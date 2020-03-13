@@ -4,5 +4,5 @@
 
 点击搜索结果，可以快速跳转到该页面。
 
-![](.gitbook/assets/image%20%28147%29.png)
+![](.gitbook/assets/image%20%28164%29.png)
 

@@ -4,13 +4,13 @@
 
 * 点击左侧菜单栏，进入钟点房设置
 
-![](../../.gitbook/assets/image%20%281016%29.png)
+![](../../.gitbook/assets/image%20%281101%29.png)
 
 * 可以针对不同售卖渠道进行配置。点击“编辑”按钮，可以配置该渠道的基础时长、基础收费、可售房型
 
-![](../../.gitbook/assets/image%20%28165%29.png)
+![](../../.gitbook/assets/image%20%28184%29.png)
 
 * 填写基础时长、基础收费，勾选可售房型后，点击保存即可
 
-![](../../.gitbook/assets/image%20%28254%29.png)
+![](../../.gitbook/assets/image%20%28283%29.png)
 

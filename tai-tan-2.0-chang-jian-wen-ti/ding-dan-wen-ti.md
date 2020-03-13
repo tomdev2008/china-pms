@@ -36,11 +36,11 @@
 
 前台散客可使用15分钟内入住取消功能
 
-![](../.gitbook/assets/image%20%28884%29.png)
+![](../.gitbook/assets/image%20%28962%29.png)
 
 使用时准确选择取消原因
 
-![](../.gitbook/assets/image%20%28373%29.png)
+![](../.gitbook/assets/image%20%28407%29.png)
 
 ## 订单显示超时怎么办？
 

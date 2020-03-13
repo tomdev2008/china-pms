@@ -1,9 +1,13 @@
 # Table of contents
 
 * [泰坦 （OYO酒店管理系统）使用帮助](README.md)
+* [新型冠状病毒防疫须知](xin-xing-guan-zhuang-bing-du-fang-yi.md)
 * [酒店运营必读](jiu-dian-yun-ying-bi-xu-1/README.md)
   * [酒店服务管理](jiu-dian-yun-ying-bi-xu-1/jiu-dian-fu-wu-guan-li.md)
   * [酒店卫生管理](jiu-dian-yun-ying-bi-xu-1/jiu-dian-wei-sheng-guan-li.md)
+  * [酒店人员管理](jiu-dian-yun-ying-bi-xu-1/jiu-dian-ren-yuan-guan-li.md)
+  * [酒店运营成本控制](jiu-dian-yun-ying-bi-xu-1/jiu-dian-yun-ying-cheng-ben-kong-zhi.md)
+  * [酒店能耗管理](jiu-dian-yun-ying-bi-xu-1/jiu-dian-neng-hao-guan-li.md)
 * [使用规范](titan-shi-yong-gui-fan.md)
 * [快速操作指引](kuai-su-cao-zuo-zhi-yin/README.md)
   * [视频版操作指引](kuai-su-cao-zuo-zhi-yin/titan-chang-gui-cao-zuo-shi-pin-kuai-su-zhi-yin.md)

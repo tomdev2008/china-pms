@@ -4,15 +4,15 @@
 
 * 用户直接关注OYO小程序或下载OYO酒店APP，点击我的-会员中心-升级记录
 
-![](../../.gitbook/assets/image%20%28853%29.png)
+![](../../.gitbook/assets/image%20%28929%29.png)
 
-![](../../.gitbook/assets/image%20%28842%29.png)
+![](../../.gitbook/assets/image%20%28917%29.png)
 
 * 找到PMS下单的升级包，点击去付款，确认订单无误后完成付款，会员等级升级完毕。
 
-![](../../.gitbook/assets/image%20%2832%29.png)
+![](../../.gitbook/assets/image%20%2836%29.png)
 
-![](../../.gitbook/assets/image%20%28658%29.png)
+![](../../.gitbook/assets/image%20%28719%29.png)
 
-![](../../.gitbook/assets/image%20%28227%29.png)
+![](../../.gitbook/assets/image%20%28251%29.png)
 
